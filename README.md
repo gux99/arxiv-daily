@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-24 07:25:51 Asia/Shanghai
+ Automated deployment @ 2024-09-24 19:23:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,25 @@
 
 ## Non-Euclidean Staistics
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
+|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
+|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v2](http://arxiv.org/abs/2409.06190v2)|[link](https://github.com/xzwy/msldm)|
+|**2024-09-13**|**Evaluating the Quality of Brain MRI Generators**|Jiaqi Wu et.al.|[2409.08463v1](http://arxiv.org/abs/2409.08463v1)|[link](https://github.com/jiaqiw01/MRIAnatEval)|
+|**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791v1](http://arxiv.org/abs/2409.06791v1)|null|
+|**2024-09-08**|**Gesture Generation from Trimodal Context for Humanoid Robots**|Shiyi Tang et.al.|[2409.05010v1](http://arxiv.org/abs/2409.05010v1)|null|
+|**2024-08-19**|**Local Fréchet regression with circular predictors**|Chang Jun Im et.al.|[2408.10118v3](http://arxiv.org/abs/2408.10118v3)|null|
+|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v2](http://arxiv.org/abs/2407.05114v2)|null|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v2](http://arxiv.org/abs/2310.13668v2)|null|
+|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v1](http://arxiv.org/abs/2409.02212v1)|null|
+|**2024-06-13**|**Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition and Speech Modeling?**|Tiantian Feng et.al.|[2406.08800v2](http://arxiv.org/abs/2406.08800v2)|[link](https://github.com/usc-sail/synthaudio)|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)|
+|**2024-08-27**|**Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis**|Rafael Azevedo et.al.|[2408.15159v1](http://arxiv.org/abs/2408.15159v1)|[link](https://github.com/verlab/empowering-sign-language)|
+|**2024-08-27**|**Understanding the Adjoint Method in Seismology: Theory and Implementation in the Time Domain**|Rafael Abreu et.al.|[2408.15060v1](http://arxiv.org/abs/2408.15060v1)|null|
+
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -53,25 +72,6 @@
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
-|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
-|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
-|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v2](http://arxiv.org/abs/2409.06190v2)|[link](https://github.com/xzwy/msldm)|
-|**2024-09-13**|**Evaluating the Quality of Brain MRI Generators**|Jiaqi Wu et.al.|[2409.08463v1](http://arxiv.org/abs/2409.08463v1)|null|
-|**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791v1](http://arxiv.org/abs/2409.06791v1)|null|
-|**2024-09-08**|**Gesture Generation from Trimodal Context for Humanoid Robots**|Shiyi Tang et.al.|[2409.05010v1](http://arxiv.org/abs/2409.05010v1)|null|
-|**2024-08-19**|**Local Fréchet regression with circular predictors**|Chang Jun Im et.al.|[2408.10118v3](http://arxiv.org/abs/2408.10118v3)|null|
-|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v2](http://arxiv.org/abs/2407.05114v2)|null|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v2](http://arxiv.org/abs/2310.13668v2)|null|
-|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v1](http://arxiv.org/abs/2409.02212v1)|null|
-|**2024-06-13**|**Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition and Speech Modeling?**|Tiantian Feng et.al.|[2406.08800v2](http://arxiv.org/abs/2406.08800v2)|[link](https://github.com/usc-sail/synthaudio)|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)|
-|**2024-08-27**|**Empowering Sign Language Communication: Integrating Sentiment and Semantics for Facial Expression Synthesis**|Rafael Azevedo et.al.|[2408.15159v1](http://arxiv.org/abs/2408.15159v1)|[link](https://github.com/verlab/empowering-sign-language)|
-|**2024-08-27**|**Understanding the Adjoint Method in Seismology: Theory and Implementation in the Time Domain**|Rafael Abreu et.al.|[2408.15060v1](http://arxiv.org/abs/2408.15060v1)|null|
 
 ## Variable Selection
 
