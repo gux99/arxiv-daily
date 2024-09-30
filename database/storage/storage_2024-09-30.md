@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-30 07:25:09 Asia/Shanghai
+ Automated deployment @ 2024-09-30 19:24:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-27**|**Positional Encoder Graph Quantile Neural Networks for Geographic Data**|William E. R. de Amorim et.al.|[2409.18865v1](http://arxiv.org/abs/2409.18865v1)|null|
+|**2024-09-27**|**HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation**|Joseph Cotnareanu et.al.|[2409.18778v1](http://arxiv.org/abs/2409.18778v1)|null|
+|**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761v1](http://arxiv.org/abs/2409.18761v1)|null|
+|**2024-09-27**|**Review of Digital Asset Development with Graph Neural Network Unlearning**|Zara Lisbon et.al.|[2409.18455v1](http://arxiv.org/abs/2409.18455v1)|null|
+|**2023-09-24**|**Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution**|Cong Xu et.al.|[2310.03032v3](http://arxiv.org/abs/2310.03032v3)|[link](https://github.com/mtandhj/sevo)|
+|**2023-10-11**|**Exponential Quantum Communication Advantage in Distributed Inference and Learning**|Dar Gilboa et.al.|[2310.07136v3](http://arxiv.org/abs/2310.07136v3)|null|
+|**2024-09-26**|**Causality-based Subject and Task Fingerprints using fMRI Time-series Data**|Dachuan Song et.al.|[2409.18298v1](http://arxiv.org/abs/2409.18298v1)|null|
+|**2024-09-26**|**Learning Beamforming in Cell-Free Massive MIMO ISAC Systems**|Umut Demirhan et.al.|[2409.18237v1](http://arxiv.org/abs/2409.18237v1)|null|
 |**2024-06-29**|**UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems**|Zhi Zheng et.al.|[2407.00312v2](http://arxiv.org/abs/2407.00312v2)|[link](https://github.com/ciam-group/nco_code)|
 |**2024-09-26**|**Spatiotemporal Learning on Cell-embedded Graphs**|Yuan Mi et.al.|[2409.18013v1](http://arxiv.org/abs/2409.18013v1)|null|
 |**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v1](http://arxiv.org/abs/2409.17986v1)|null|
@@ -24,14 +32,27 @@
 |**2024-09-22**|**TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features**|Gleb Bazhenov et.al.|[2409.14500v2](http://arxiv.org/abs/2409.14500v2)|[link](https://github.com/yandex-research/tabgraphs)|
 |**2024-09-26**|**Modeling the Popularity of Events on Web by Sparsity and Mutual-Excitation Guided Graph Neural Network**|Jiaxin Deng et.al.|[2409.17678v1](http://arxiv.org/abs/2409.17678v1)|null|
 |**2024-09-26**|**Hand-object reconstruction via interaction-aware graph attention mechanism**|Taeyun Woo et.al.|[2409.17629v1](http://arxiv.org/abs/2409.17629v1)|null|
-|**2024-09-26**|**Convolutional Signal Propagation: A Simple Scalable Algorithm for Hypergraphs**|Pavel Procházka et.al.|[2409.17628v1](http://arxiv.org/abs/2409.17628v1)|null|
-|**2024-09-26**|**Neural P$^3$M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs**|Yusong Wang et.al.|[2409.17622v1](http://arxiv.org/abs/2409.17622v1)|null|
-|**2024-05-25**|**GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine Learning**|Minghao Xu et.al.|[2405.16206v2](http://arxiv.org/abs/2405.16206v2)|[link](https://github.com/glycanml/glycanml)|
-|**2024-09-26**|**Heterogeneous Hyper-Graph Neural Networks for Context-aware Human Activity Recognition**|Wen Ge et.al.|[2409.17483v1](http://arxiv.org/abs/2409.17483v1)|null|
-|**2024-09-26**|**On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks**|Jiong Zhu et.al.|[2409.17475v1](http://arxiv.org/abs/2409.17475v1)|null|
-|**2019-12-03**|**Learning Multi-resolution Graph Edge Embedding for Discovering Brain Network Dysfunction in Neurological Disorders**|Xin Ma et.al.|[1912.01181v2](http://arxiv.org/abs/1912.01181v2)|null|
-|**2024-09-25**|**Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder**|Sivaram Krishnan et.al.|[2409.17048v1](http://arxiv.org/abs/2409.17048v1)|null|
-|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v3](http://arxiv.org/abs/2407.09441v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-07**|**Evolutionary emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v2](http://arxiv.org/abs/2409.04928v2)|null|
+|**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866v1](http://arxiv.org/abs/2409.18866v1)|[link](https://github.com/deeplite/deeplite-torch-zoo)|
+|**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao et.al.|[2409.18654v1](http://arxiv.org/abs/2409.18654v1)|null|
+|**2024-03-14**|**Emergent time scales of epistasis in protein evolution**|Leonardo Di Bari et.al.|[2403.09436v3](http://arxiv.org/abs/2403.09436v3)|null|
+|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
+|**2024-09-26**|**Constraining string cosmology with the gravitational-wave background using the NANOGrav 15-year data set**|Qin Tan et.al.|[2409.17846v1](http://arxiv.org/abs/2409.17846v1)|null|
+|**2024-09-26**|**Efficient Bias Mitigation Without Privileged Information**|Mateo Espinosa Zarlenga et.al.|[2409.17691v1](http://arxiv.org/abs/2409.17691v1)|null|
+|**2024-09-25**|**A flexiable approach: variable selection procedures with multilayer FDR control via e-values**|Chengyao Yu et.al.|[2409.17039v1](http://arxiv.org/abs/2409.17039v1)|null|
+|**2021-03-26**|**Variable Selection Using Nearest Neighbor Gaussian Processes**|Konstantin Posch et.al.|[2103.14315v2](http://arxiv.org/abs/2103.14315v2)|null|
+|**2024-09-25**|**Scalable Ensemble Diversification for OOD Generalization and Detection**|Alexander Rubinstein et.al.|[2409.16797v1](http://arxiv.org/abs/2409.16797v1)|null|
+|**2024-06-26**|**Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features**|Samuel Gailliot et.al.|[2406.18681v2](http://arxiv.org/abs/2406.18681v2)|null|
+|**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538v1](http://arxiv.org/abs/2409.16538v1)|null|
+|**2024-09-24**|**Bayesian Variable Selection and Sparse Estimation for High-Dimensional Graphical Models**|Anwesha Chakravarti et.al.|[2409.16276v1](http://arxiv.org/abs/2409.16276v1)|null|
+|**2024-06-02**|**Dynamical dark energy in the light of DESI 2024 data**|Nandan Roy et.al.|[2406.00634v2](http://arxiv.org/abs/2406.00634v2)|null|
+|**2024-09-24**|**Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking**|Jun Bai et.al.|[2409.16198v1](http://arxiv.org/abs/2409.16198v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,11 +78,11 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
+|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
-|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v1](http://arxiv.org/abs/2409.16937v1)|[link](https://github.com/yc-li20/semi-supervised-training)|
 |**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v1](http://arxiv.org/abs/2409.16484v1)|null|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v1](http://arxiv.org/abs/2409.15545v1)|null|
 |**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
 |**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
 |**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
@@ -72,24 +93,3 @@
 |**2024-09-08**|**Gesture Generation from Trimodal Context for Humanoid Robots**|Shiyi Tang et.al.|[2409.05010v1](http://arxiv.org/abs/2409.05010v1)|null|
 |**2024-08-19**|**Local Fréchet regression with circular predictors**|Chang Jun Im et.al.|[2408.10118v3](http://arxiv.org/abs/2408.10118v3)|null|
 |**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v2](http://arxiv.org/abs/2407.05114v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968v1](http://arxiv.org/abs/2409.17968v1)|null|
-|**2024-09-26**|**Constraining string cosmology with the gravitational-wave background using the NANOGrav 15-year data set**|Qin Tan et.al.|[2409.17846v1](http://arxiv.org/abs/2409.17846v1)|null|
-|**2024-09-26**|**Efficient Bias Mitigation Without Privileged Information**|Mateo Espinosa Zarlenga et.al.|[2409.17691v1](http://arxiv.org/abs/2409.17691v1)|null|
-|**2024-09-25**|**A flexiable approach: variable selection procedures with multilayer FDR control via e-values**|Chengyao Yu et.al.|[2409.17039v1](http://arxiv.org/abs/2409.17039v1)|null|
-|**2021-03-26**|**Variable Selection Using Nearest Neighbor Gaussian Processes**|Konstantin Posch et.al.|[2103.14315v2](http://arxiv.org/abs/2103.14315v2)|null|
-|**2024-09-25**|**Scalable Ensemble Diversification for OOD Generalization and Detection**|Alexander Rubinstein et.al.|[2409.16797v1](http://arxiv.org/abs/2409.16797v1)|null|
-|**2024-06-26**|**Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features**|Samuel Gailliot et.al.|[2406.18681v2](http://arxiv.org/abs/2406.18681v2)|null|
-|**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538v1](http://arxiv.org/abs/2409.16538v1)|null|
-|**2024-09-24**|**Bayesian Variable Selection and Sparse Estimation for High-Dimensional Graphical Models**|Anwesha Chakravarti et.al.|[2409.16276v1](http://arxiv.org/abs/2409.16276v1)|null|
-|**2024-06-02**|**Dynamical dark energy in the light of DESI 2024 data**|Nandan Roy et.al.|[2406.00634v2](http://arxiv.org/abs/2406.00634v2)|null|
-|**2024-09-24**|**Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking**|Jun Bai et.al.|[2409.16198v1](http://arxiv.org/abs/2409.16198v1)|null|
-|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v7](http://arxiv.org/abs/2201.12839v7)|[link](https://github.com/raybai07/mtmbsp)|
-|**2024-09-24**|**Bayesian competing risks survival modeling for assessing the cause of death of patients with heart failure**|Jesús Gutiérrez-Botella et.al.|[2409.16080v1](http://arxiv.org/abs/2409.16080v1)|null|
-|**2024-09-24**|**AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation**|Jintao Zhang et.al.|[2409.16027v1](http://arxiv.org/abs/2409.16027v1)|null|
-|**2024-09-23**|**Impact of local congruences in variable selection from datasets**|Roberto G. Aragón et.al.|[2409.14931v2](http://arxiv.org/abs/2409.14931v2)|null|
