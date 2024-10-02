@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-02 07:26:09 Asia/Shanghai
+ Automated deployment @ 2024-10-02 19:23:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,9 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-25**|**GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine Learning**|Minghao Xu et.al.|[2405.16206v3](http://arxiv.org/abs/2405.16206v3)|[link](https://github.com/glycanml/glycanml)|
+|**2024-09-06**|**Global Stock Market Volatility Forecasting Incorporating Dynamic Graphs and All Trading Days**|Zhengyang Chi et.al.|[2409.15320v2](http://arxiv.org/abs/2409.15320v2)|null|
+|**2023-11-17**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v3](http://arxiv.org/abs/2311.10270v3)|null|
 |**2024-07-20**|**Subgraph Clustering and Atom Learning for Improved Image Classification**|Aryan Singh et.al.|[2407.14772v2](http://arxiv.org/abs/2407.14772v2)|null|
 |**2023-01-21**|**Improving Signed Propagation for Graph Neural Networks in Multi-Class Environments**|Yoonhyuk Choi et.al.|[2301.08918v7](http://arxiv.org/abs/2301.08918v7)|null|
 |**2024-03-19**|**Contextualized Messages Boost Graph Representations**|Brian Godwin Lim et.al.|[2403.12529v3](http://arxiv.org/abs/2403.12529v3)|[link](https://github.com/briangodwinlim/sir-gcn)|
@@ -27,11 +30,8 @@
 |**2024-07-12**|**Graph Neural Networks with Model-based Reinforcement Learning for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249v2](http://arxiv.org/abs/2407.09249v2)|null|
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629v1](http://arxiv.org/abs/2409.19629v1)|null|
 |**2024-09-29**|**DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2409.19620v1](http://arxiv.org/abs/2409.19620v1)|null|
-|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616v1](http://arxiv.org/abs/2409.19616v1)|null|
+|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616v1](http://arxiv.org/abs/2409.19616v1)|[link](https://github.com/basiralab/duognn)|
 |**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594v1](http://arxiv.org/abs/2409.19594v1)|null|
-|**2024-09-29**|**One Node Per User: Node-Level Federated Learning for Graph Neural Networks**|Zhidong Gao et.al.|[2409.19513v1](http://arxiv.org/abs/2409.19513v1)|null|
-|**2024-07-31**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165v3](http://arxiv.org/abs/2408.00165v3)|null|
-|**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628v2](http://arxiv.org/abs/2405.08628v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
 |**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
 |**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
@@ -71,13 +72,13 @@
 |**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791v1](http://arxiv.org/abs/2409.06791v1)|null|
 |**2024-09-08**|**Gesture Generation from Trimodal Context for Humanoid Robots**|Shiyi Tang et.al.|[2409.05010v1](http://arxiv.org/abs/2409.05010v1)|null|
 |**2024-08-19**|**Local Fréchet regression with circular predictors**|Chang Jun Im et.al.|[2408.10118v3](http://arxiv.org/abs/2408.10118v3)|null|
-|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v2](http://arxiv.org/abs/2407.05114v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priority**|Min Lu et.al.|[2409.09003v3](http://arxiv.org/abs/2409.09003v3)|null|
 |**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v2](http://arxiv.org/abs/2311.12098v2)|null|
 |**2024-09-25**|**A flexible approach: variable selection procedures with multilayer FDR control via e-values**|Chengyao Yu et.al.|[2409.17039v2](http://arxiv.org/abs/2409.17039v2)|null|
 |**2024-09-26**|**Constraining string cosmology with the gravitational-wave background using the NANOGrav 15-year data set**|Qin Tan et.al.|[2409.17846v2](http://arxiv.org/abs/2409.17846v2)|null|
@@ -92,4 +93,3 @@
 |**2024-09-07**|**Evolutionary emergence of biological intelligence**|Takuya Isomura et.al.|[2409.04928v2](http://arxiv.org/abs/2409.04928v2)|null|
 |**2024-09-27**|**MCUBench: A Benchmark of Tiny Object Detectors on MCUs**|Sudhakar Sah et.al.|[2409.18866v1](http://arxiv.org/abs/2409.18866v1)|[link](https://github.com/deeplite/deeplite-torch-zoo)|
 |**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao et.al.|[2409.18654v1](http://arxiv.org/abs/2409.18654v1)|null|
-|**2024-03-14**|**Emergent time scales of epistasis in protein evolution**|Leonardo Di Bari et.al.|[2403.09436v3](http://arxiv.org/abs/2403.09436v3)|null|
