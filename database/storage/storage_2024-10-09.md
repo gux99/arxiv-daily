@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-09 07:27:01 Asia/Shanghai
+ Automated deployment @ 2024-10-09 19:24:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
-|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
-|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
-|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v1](http://arxiv.org/abs/2410.01783v1)|null|
-|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
-|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
-|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
-|**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
-|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
-|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
-|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
-|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
-|**2024-09-14**|**Automatic Scene Generation: State-of-the-Art Techniques, Models, Datasets, Challenges, and Future Prospects**|Awal Ahmed Fime et.al.|[2410.01816v1](http://arxiv.org/abs/2410.01816v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
+|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
+|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
+|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v1](http://arxiv.org/abs/2410.01783v1)|null|
+|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
+|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
+|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
+|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
+|**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
+|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
+|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
+|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
+|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
+|**2024-09-14**|**Automatic Scene Generation: State-of-the-Art Techniques, Models, Datasets, Challenges, and Future Prospects**|Awal Ahmed Fime et.al.|[2410.01816v1](http://arxiv.org/abs/2410.01816v1)|null|
 
 ## Variable Selection
 
