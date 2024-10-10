@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-10 07:27:19 Asia/Shanghai
+ Automated deployment @ 2024-10-10 19:24:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,23 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Learning Long Range Dependencies on Graphs via Random Walks**|Dexiong Chen et.al.|[2406.03386v2](http://arxiv.org/abs/2406.03386v2)|[link](https://github.com/borgwardtlab/neuralwalker)|
-|**2024-10-07**|**Taming Gradient Oversmoothing and Expansion in Graph Neural Networks**|MoonJeong Park et.al.|[2410.04824v1](http://arxiv.org/abs/2410.04824v1)|null|
-|**2024-10-07**|**Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow**|Anna Varbella et.al.|[2410.04818v1](http://arxiv.org/abs/2410.04818v1)|null|
-|**2024-06-12**|**DeepJEB: 3D Deep Learning-based Synthetic Jet Engine Bracket Dataset**|Seongjun Hong et.al.|[2406.09047v2](http://arxiv.org/abs/2406.09047v2)|null|
-|**2024-10-07**|**When GDD meets GNN: A Knowledge-driven Neural Connection for Effective Entity Resolution in Property Graphs**|Junwei Hu et.al.|[2410.04783v1](http://arxiv.org/abs/2410.04783v1)|null|
-|**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692v1](http://arxiv.org/abs/2410.04692v1)|null|
-|**2024-10-02**|**FARM: Functional Group-Aware Representations for Small Molecules**|Thao Nguyen et.al.|[2410.02082v2](http://arxiv.org/abs/2410.02082v2)|null|
-|**2024-07-27**|**Graph Residual based Method for Molecular Property Prediction**|Kanad Sen et.al.|[2408.03342v2](http://arxiv.org/abs/2408.03342v2)|null|
-|**2024-10-06**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552v1](http://arxiv.org/abs/2410.04552v1)|null|
-|**2024-08-04**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969v2](http://arxiv.org/abs/2408.01969v2)|[link](https://github.com/Jimlibo/GNN-Counterfactual-Editor)|
-|**2023-05-24**|**gRNAde: Geometric Deep Learning for 3D RNA inverse design**|Chaitanya K. Joshi et.al.|[2305.14749v6](http://arxiv.org/abs/2305.14749v6)|[link](https://github.com/chaitjo/geometric-rna-design)|
-|**2024-06-24**|**GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights**|Shengbo Gong et.al.|[2406.16715v2](http://arxiv.org/abs/2406.16715v2)|[link](https://github.com/emory-melody/graphslim)|
-|**2023-11-06**|**Lightweight equivariant model for efficient machine learning interatomic potentials**|Ziduo Yang et.al.|[2311.02869v7](http://arxiv.org/abs/2311.02869v7)|[link](https://github.com/guaguabujianle/leignn)|
-|**2024-10-05**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287v1](http://arxiv.org/abs/2410.04287v1)|null|
-|**2024-10-05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283v1](http://arxiv.org/abs/2410.04283v1)|null|
+|**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091v1](http://arxiv.org/abs/2410.07091v1)|null|
+|**2024-10-09**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**|Zhengyu Hu et.al.|[2410.07074v1](http://arxiv.org/abs/2410.07074v1)|null|
+|**2024-07-08**|**Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention**|Tongzhou Liao et.al.|[2407.05649v3](http://arxiv.org/abs/2407.05649v3)|null|
+|**2024-10-09**|**AdaRC: Mitigating Graph Structure Shifts during Test-Time**|Wenxuan Bao et.al.|[2410.06976v1](http://arxiv.org/abs/2410.06976v1)|null|
+|**2024-10-09**|**DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions**|Stefano Fiorini et.al.|[2410.06969v1](http://arxiv.org/abs/2410.06969v1)|null|
+|**2024-10-09**|**Faithful Interpretation for Graph Neural Networks**|Lijie Hu et.al.|[2410.06950v1](http://arxiv.org/abs/2410.06950v1)|null|
+|**2024-03-02**|**OpenGraph: Towards Open Graph Foundation Models**|Lianghao Xia et.al.|[2403.01121v4](http://arxiv.org/abs/2403.01121v4)|[link](https://github.com/hkuds/opengraph)|
+|**2024-08-25**|**RoCP-GNN: Robust Conformal Prediction for Graph Neural Networks in Node-Classification**|S. Akansha et.al.|[2408.13825v2](http://arxiv.org/abs/2408.13825v2)|null|
+|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530v1](http://arxiv.org/abs/2410.06530v1)|null|
+|**2024-10-09**|**A Benchmark on Directed Graph Representation Learning in Hardware Designs**|Haoyu Wang et.al.|[2410.06460v1](http://arxiv.org/abs/2410.06460v1)|null|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v2](http://arxiv.org/abs/2402.10206v2)|null|
+|**2024-08-23**|**Data-Driven Parametrization of Molecular Mechanics Force Fields for Expansive Chemical Space Coverage**|Tianze Zheng et.al.|[2408.12817v2](http://arxiv.org/abs/2408.12817v2)|[link](https://github.com/bytedance/byteff)|
+|**2024-10-08**|**UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural Networks with Convolutional ARMA Filters**|Kovvuri Sai Gopal Reddy et.al.|[2410.06114v1](http://arxiv.org/abs/2410.06114v1)|[link](https://github.com/ksgr5566/unsegarmanet)|
+|**2023-06-04**|**Clarify Confused Nodes via Separated Learning**|Jiajun Zhou et.al.|[2306.02285v4](http://arxiv.org/abs/2306.02285v4)|null|
+|**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916v1](http://arxiv.org/abs/2410.05916v1)|null|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-08**|**Frećhet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v2](http://arxiv.org/abs/2403.05352v2)|[link](https://github.com/jiajie96/FDD_pytorch)|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
+|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
+|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
+|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v1](http://arxiv.org/abs/2410.01783v1)|null|
+|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
+|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
+|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
+|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
+|**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
+|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
+|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
+|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
+|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -54,42 +73,23 @@
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
-|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
-|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
-|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v1](http://arxiv.org/abs/2410.01783v1)|null|
-|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
-|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
-|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
-|**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
-|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
-|**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
-|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
-|**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v2](http://arxiv.org/abs/2404.03878v2)|null|
-|**2024-09-14**|**Automatic Scene Generation: State-of-the-Art Techniques, Models, Datasets, Challenges, and Future Prospects**|Awal Ahmed Fime et.al.|[2410.01816v1](http://arxiv.org/abs/2410.01816v1)|null|
-
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-09**|**Model-assisted and Knowledge-guided Transfer Regression for the Underrepresented Population**|Doudou Zhou et.al.|[2410.06484v1](http://arxiv.org/abs/2410.06484v1)|null|
+|**2024-10-08**|**Parameter Choice and Neuro-Symbolic Approaches for Deep Domain-Invariant Learning**|Marius-Constantin Dinu et.al.|[2410.06235v1](http://arxiv.org/abs/2410.06235v1)|null|
+|**2024-10-08**|**Generalized Sparse Additive Model with Unknown Link Function**|Peipei Yuan et.al.|[2410.06012v1](http://arxiv.org/abs/2410.06012v1)|null|
+|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
+|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979v2](http://arxiv.org/abs/2406.14979v2)|[link](https://github.com/haruhi-sudo/RPG)|
+|**2024-10-08**|**Leveraging free energy in pretraining model selection for improved fine-tuning**|Michael Munn et.al.|[2410.05612v1](http://arxiv.org/abs/2410.05612v1)|null|
+|**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v3](http://arxiv.org/abs/2309.09880v3)|null|
 |**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255v1](http://arxiv.org/abs/2410.05255v1)|[link](https://github.com/dwanzhang-ai/seppo)|
 |**2024-10-07**|**The Informed Elastic Net for Fast Grouped Variable Selection and FDR Control in Genomics Research**|Jasin Machkour et.al.|[2410.05211v1](http://arxiv.org/abs/2410.05211v1)|null|
 |**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v1](http://arxiv.org/abs/2410.05209v1)|[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)|
 |**2024-10-07**|**False Discovery Rate Control for Fast Screening of Large-Scale Genomics Biobanks**|Jasin Machkour et.al.|[2410.05169v1](http://arxiv.org/abs/2410.05169v1)|null|
+|**2024-10-07**|**Trained Models Tell Us How to Make Them Robust to Spurious Correlation without Group Annotation**|Mahdi Ghaznavi et.al.|[2410.05345v1](http://arxiv.org/abs/2410.05345v1)|[link](https://github.com/sharif-ml-lab/evals)|
 |**2024-10-06**|**Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli**|Valentyn Piskovskyi et.al.|[2410.04497v1](http://arxiv.org/abs/2410.04497v1)|null|
 |**2024-07-02**|**Comparative Evaluation of Learning Models for Bionic Robots: Non-Linear Transfer Function Identifications**|Po-Yu Hsieh et.al.|[2407.02428v2](http://arxiv.org/abs/2407.02428v2)|[link](https://github.com/poyuhs/model-free-robotics)|
 |**2024-10-06**|**Statistical Inference for Four-Regime Segmented Regression Models**|Han Yan et.al.|[2410.04384v1](http://arxiv.org/abs/2410.04384v1)|null|
-|**2024-04-15**|**On the Necessity of Collaboration for Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v4](http://arxiv.org/abs/2404.09494v4)|null|
-|**2024-06-10**|**Cross Validation in Stochastic Analytic Continuation**|Gabe Schumm et.al.|[2406.06763v3](http://arxiv.org/abs/2406.06763v3)|null|
-|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v3](http://arxiv.org/abs/2404.14836v3)|null|
-|**2024-10-03**|**MLP-KAN: Unifying Deep Representation and Function Learning**|Yunhong He et.al.|[2410.03027v1](http://arxiv.org/abs/2410.03027v1)|[link](https://github.com/dlyuangod/mlp-kan)|
-|**2024-10-03**|**Evaluating WAIC and PSIS-LOO for Bayesian Diagnostic Classification Model Selection**|Ae Kyong Jung et.al.|[2410.02931v1](http://arxiv.org/abs/2410.02931v1)|null|
-|**2024-10-03**|**Bayesian Inference of Multiple Ising Models for Heterogeneous Public Opinion Survey Networks**|Alejandra Avalos-Pacheco et.al.|[2410.02880v1](http://arxiv.org/abs/2410.02880v1)|null|
-|**2024-10-03**|**OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**|Liangze Jiang et.al.|[2410.02735v1](http://arxiv.org/abs/2410.02735v1)|null|
-|**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721v1](http://arxiv.org/abs/2410.02721v1)|null|
