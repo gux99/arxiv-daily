@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-13 07:25:06 Asia/Shanghai
+ Automated deployment @ 2024-10-13 19:21:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v4](http://arxiv.org/abs/2402.08653v4)|null|
 |**2024-07-08**|**Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention**|Tongzhou Liao et.al.|[2407.05649v3](http://arxiv.org/abs/2407.05649v3)|null|
 |**2024-10-09**|**AdaRC: Mitigating Graph Structure Shifts during Test-Time**|Wenxuan Bao et.al.|[2410.06976v1](http://arxiv.org/abs/2410.06976v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-10**|**Noether's razor: Learning Conserved Quantities**|Tycho F. A. van der Ouderaa et.al.|[2410.08087v1](http://arxiv.org/abs/2410.08087v1)|null|
-|**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v1](http://arxiv.org/abs/2410.08078v1)|null|
-|**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932v1](http://arxiv.org/abs/2410.07932v1)|null|
-|**2023-10-13**|**Sparse higher order partial least squares for simultaneous variable selection, dimension reduction, and tensor denoising**|Kwangmoon Park et.al.|[2310.09428v2](http://arxiv.org/abs/2310.09428v2)|null|
-|**2024-05-30**|**Fast leave-one-cluster-out cross-validation using clustered Network Information Criterion (NICc)**|Jiaxing Qiu et.al.|[2405.20400v2](http://arxiv.org/abs/2405.20400v2)|null|
-|**2024-10-09**|**Model-assisted and Knowledge-guided Transfer Regression for the Underrepresented Population**|Doudou Zhou et.al.|[2410.06484v1](http://arxiv.org/abs/2410.06484v1)|null|
-|**2024-10-08**|**Parameter Choice and Neuro-Symbolic Approaches for Deep Domain-Invariant Learning**|Marius-Constantin Dinu et.al.|[2410.06235v1](http://arxiv.org/abs/2410.06235v1)|null|
-|**2024-10-08**|**Generalized Sparse Additive Model with Unknown Link Function**|Peipei Yuan et.al.|[2410.06012v1](http://arxiv.org/abs/2410.06012v1)|null|
-|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
-|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979v2](http://arxiv.org/abs/2406.14979v2)|[link](https://github.com/haruhi-sudo/RPG)|
-|**2024-10-08**|**Leveraging free energy in pretraining model selection for improved fine-tuning**|Michael Munn et.al.|[2410.05612v1](http://arxiv.org/abs/2410.05612v1)|null|
-|**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v3](http://arxiv.org/abs/2309.09880v3)|null|
-|**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255v1](http://arxiv.org/abs/2410.05255v1)|[link](https://github.com/dwanzhang-ai/seppo)|
-|**2024-10-07**|**The Informed Elastic Net for Fast Grouped Variable Selection and FDR Control in Genomics Research**|Jasin Machkour et.al.|[2410.05211v1](http://arxiv.org/abs/2410.05211v1)|null|
-|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v1](http://arxiv.org/abs/2410.05209v1)|[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
 |**2024-09-17**|**Section method and Frechet polynomials**|Dan M Daianu et.al.|[2409.11204v1](http://arxiv.org/abs/2409.11204v1)|null|
 |**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-10**|**Noether's razor: Learning Conserved Quantities**|Tycho F. A. van der Ouderaa et.al.|[2410.08087v1](http://arxiv.org/abs/2410.08087v1)|[link](https://github.com/tychovdo/noethers-razor)|
+|**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v1](http://arxiv.org/abs/2410.08078v1)|null|
+|**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932v1](http://arxiv.org/abs/2410.07932v1)|null|
+|**2023-10-13**|**Sparse higher order partial least squares for simultaneous variable selection, dimension reduction, and tensor denoising**|Kwangmoon Park et.al.|[2310.09428v2](http://arxiv.org/abs/2310.09428v2)|null|
+|**2024-05-30**|**Fast leave-one-cluster-out cross-validation using clustered Network Information Criterion (NICc)**|Jiaxing Qiu et.al.|[2405.20400v2](http://arxiv.org/abs/2405.20400v2)|null|
+|**2024-10-09**|**Model-assisted and Knowledge-guided Transfer Regression for the Underrepresented Population**|Doudou Zhou et.al.|[2410.06484v1](http://arxiv.org/abs/2410.06484v1)|null|
+|**2024-10-08**|**Parameter Choice and Neuro-Symbolic Approaches for Deep Domain-Invariant Learning**|Marius-Constantin Dinu et.al.|[2410.06235v1](http://arxiv.org/abs/2410.06235v1)|null|
+|**2024-10-08**|**Generalized Sparse Additive Model with Unknown Link Function**|Peipei Yuan et.al.|[2410.06012v1](http://arxiv.org/abs/2410.06012v1)|null|
+|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
+|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979v2](http://arxiv.org/abs/2406.14979v2)|[link](https://github.com/haruhi-sudo/RPG)|
+|**2024-10-08**|**Leveraging free energy in pretraining model selection for improved fine-tuning**|Michael Munn et.al.|[2410.05612v1](http://arxiv.org/abs/2410.05612v1)|null|
+|**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v3](http://arxiv.org/abs/2309.09880v3)|null|
+|**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255v1](http://arxiv.org/abs/2410.05255v1)|[link](https://github.com/dwanzhang-ai/seppo)|
+|**2024-10-07**|**The Informed Elastic Net for Fast Grouped Variable Selection and FDR Control in Genomics Research**|Jasin Machkour et.al.|[2410.05211v1](http://arxiv.org/abs/2410.05211v1)|null|
+|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v1](http://arxiv.org/abs/2410.05209v1)|[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)|
