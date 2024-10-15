@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-15 07:25:55 Asia/Shanghai
+ Automated deployment @ 2024-10-15 19:24:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-07**|**BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with Graph Information Bottleneck**|Kaizhong Zheng et.al.|[2205.03612v4](http://arxiv.org/abs/2205.03612v4)|[link](https://github.com/sjyucnel/brain-and-information-bottleneck)|
-|**2024-10-11**|**M$^3$-Impute: Mask-guided Representation Learning for Missing Value Imputation**|Zhongyi Yu et.al.|[2410.08794v1](http://arxiv.org/abs/2410.08794v1)|[link](https://github.com/alleinx/m3-impute)|
-|**2024-10-11**|**Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis**|Zhifei Li et.al.|[2410.08759v1](http://arxiv.org/abs/2410.08759v1)|null|
-|**2024-05-29**|**Can Graph Learning Improve Planning in LLM-based Agents?**|Xixi Wu et.al.|[2405.19119v2](http://arxiv.org/abs/2405.19119v2)|[link](https://github.com/wxxshirley/gnn4taskplan)|
-|**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560v1](http://arxiv.org/abs/2410.08560v1)|null|
-|**2024-10-11**|**IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks**|Junchao Lin et.al.|[2410.08524v1](http://arxiv.org/abs/2410.08524v1)|null|
-|**2024-10-10**|**KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data**|Andy Zhou et.al.|[2410.08390v1](http://arxiv.org/abs/2410.08390v1)|null|
-|**2024-10-10**|**Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection**|Moirangthem Tiken Singh et.al.|[2410.08121v1](http://arxiv.org/abs/2410.08121v1)|null|
-|**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972v1](http://arxiv.org/abs/2410.07972v1)|null|
-|**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581v2](http://arxiv.org/abs/2410.02581v2)|null|
-|**2024-10-10**|**HeGraphAdapter: Tuning Multi-Modal Vision-Language Models with Heterogeneous Graph Adapter**|Yumiao Zhao et.al.|[2410.07854v1](http://arxiv.org/abs/2410.07854v1)|null|
-|**2024-10-10**|**A note on the VC dimension of 1-dimensional GNNs**|Noah Daniëls et.al.|[2410.07829v1](http://arxiv.org/abs/2410.07829v1)|null|
-|**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v4](http://arxiv.org/abs/2303.04613v4)|null|
-|**2024-08-17**|**Scalable and Certifiable Graph Unlearning: Overcoming the Approximation Error Barrier**|Lu Yi et.al.|[2408.09212v2](http://arxiv.org/abs/2408.09212v2)|[link](https://github.com/luyi256/ScaleGUN)|
-|**2024-10-10**|**Generalizable Indoor Human Activity Recognition Method Based on Micro-Doppler Corner Point Cloud and Dynamic Graph Learning**|Xiaopeng Yang et.al.|[2410.07542v1](http://arxiv.org/abs/2410.07542v1)|null|
+|**2024-10-14**|**Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix**|Seungwoo Han et.al.|[2410.10758v1](http://arxiv.org/abs/2410.10758v1)|null|
+|**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743v1](http://arxiv.org/abs/2410.10743v1)|null|
+|**2024-10-14**|**A Personalized MOOC Learning Group and Course Recommendation Method Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
+|**2024-10-14**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587v1](http://arxiv.org/abs/2410.10587v1)|[link](https://github.com/modelscope/facechain)|
+|**2024-10-14**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546v1](http://arxiv.org/abs/2410.10546v1)|null|
+|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v2](http://arxiv.org/abs/2407.10867v2)|[link](https://github.com/saper0/qpcert)|
+|**2024-10-14**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341v1](http://arxiv.org/abs/2410.10341v1)|[link](https://github.com/mala-lab/tpp)|
+|**2024-10-14**|**DiRW: Path-Aware Digraph Learning for Heterophily**|Daohan Su et.al.|[2410.10320v1](http://arxiv.org/abs/2410.10320v1)|null|
+|**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296v1](http://arxiv.org/abs/2410.10296v1)|[link](https://github.com/itsukifujii/attrgau)|
+|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v2](http://arxiv.org/abs/2406.12608v2)|[link](https://github.com/wykk00/graphbridge)|
+|**2024-10-14**|**Towards Bridging Generalization and Expressivity of Graph Neural Networks**|Shouheng Li et.al.|[2410.10051v1](http://arxiv.org/abs/2410.10051v1)|null|
+|**2024-10-13**|**Online Multi-modal Root Cause Analysis**|Lecheng Zheng et.al.|[2410.10021v1](http://arxiv.org/abs/2410.10021v1)|null|
+|**2024-10-13**|**Heterogeneous Graph Neural Network for Cooperative ISAC Beamforming in Cell-Free MIMO Systems**|Zihuan Wang et.al.|[2410.09963v1](http://arxiv.org/abs/2410.09963v1)|null|
+|**2024-10-13**|**GRRIS: a real-time intra-site observation scheduling scheme for distributed survey telescope arrays**|Yajie Zhang et.al.|[2410.09881v1](http://arxiv.org/abs/2410.09881v1)|null|
+|**2024-10-13**|**Towards characterizing the value of edge embeddings in Graph Neural Networks**|Dhruv Rohatgi et.al.|[2410.09867v1](http://arxiv.org/abs/2410.09867v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-14**|**Missing data imputation using a truncated infinite factor model with application to metabolomics data**|Kate Finucane et.al.|[2410.10633v1](http://arxiv.org/abs/2410.10633v1)|null|
+|**2024-10-14**|**Field-level cosmological model selection: field-level simulation-based inference for Stage IV cosmic shear can distinguish dynamical dark energy**|A. Spurio Mancini et.al.|[2410.10616v1](http://arxiv.org/abs/2410.10616v1)|null|
+|**2024-10-14**|**A Unified Approach to Routing and Cascading for LLMs**|Jasper Dekoninck et.al.|[2410.10347v1](http://arxiv.org/abs/2410.10347v1)|null|
+|**2024-10-14**|**fastHDMI: Fast Mutual Information Estimation for High-Dimensional Data**|Kai Yang et.al.|[2410.10082v1](http://arxiv.org/abs/2410.10082v1)|null|
+|**2023-06-27**|**Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models**|Eric Chen et.al.|[2306.15226v2](http://arxiv.org/abs/2306.15226v2)|null|
+|**2024-10-11**|**Resource-Constrained Heuristic for Max-SAT**|Brian Matejek et.al.|[2410.09173v1](http://arxiv.org/abs/2410.09173v1)|null|
+|**2024-10-11**|**Generalised logistic regression with vine copulas**|Ingrid Hobæk Haff et.al.|[2410.08803v1](http://arxiv.org/abs/2410.08803v1)|null|
+|**2024-10-08**|**Generalized Sparse Additive Model with Unknown Link Function**|Peipei Yuan et.al.|[2410.06012v2](http://arxiv.org/abs/2410.06012v2)|null|
+|**2024-10-10**|**Impact of Missing Values in Machine Learning: A Comprehensive Analysis**|Abu Fuad Ahmad et.al.|[2410.08295v1](http://arxiv.org/abs/2410.08295v1)|null|
+|**2024-10-10**|**Adaptive sparsening and smoothing of the treatment model for longitudinal causal inference using outcome-adaptive LASSO and marginal fused LASSO**|Mireille E Schnitzer et.al.|[2410.08283v1](http://arxiv.org/abs/2410.08283v1)|null|
+|**2024-10-10**|**Noether's razor: Learning Conserved Quantities**|Tycho F. A. van der Ouderaa et.al.|[2410.08087v1](http://arxiv.org/abs/2410.08087v1)|[link](https://github.com/tychovdo/noethers-razor)|
+|**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v1](http://arxiv.org/abs/2410.08078v1)|null|
+|**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932v1](http://arxiv.org/abs/2410.07932v1)|null|
+|**2023-10-13**|**Sparse higher order partial least squares for simultaneous variable selection, dimension reduction, and tensor denoising**|Kwangmoon Park et.al.|[2310.09428v2](http://arxiv.org/abs/2310.09428v2)|null|
+|**2024-05-30**|**Fast leave-one-cluster-out cross-validation using clustered Network Information Criterion (NICc)**|Jiaxing Qiu et.al.|[2405.20400v2](http://arxiv.org/abs/2405.20400v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -67,29 +88,8 @@
 |**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
 |**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v1](http://arxiv.org/abs/2410.01783v1)|null|
 |**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|null|
+|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|[link](https://github.com/microsoft/fadtk)|
 |**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
 |**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-11**|**Generalised logistic regression with vine copulas**|Ingrid Hobæk Haff et.al.|[2410.08803v1](http://arxiv.org/abs/2410.08803v1)|null|
-|**2024-10-08**|**Generalized Sparse Additive Model with Unknown Link Function**|Peipei Yuan et.al.|[2410.06012v2](http://arxiv.org/abs/2410.06012v2)|null|
-|**2024-10-10**|**Impact of Missing Values in Machine Learning: A Comprehensive Analysis**|Abu Fuad Ahmad et.al.|[2410.08295v1](http://arxiv.org/abs/2410.08295v1)|null|
-|**2024-10-10**|**Adaptive sparsening and smoothing of the treatment model for longitudinal causal inference using outcome-adaptive LASSO and marginal fused LASSO**|Mireille E Schnitzer et.al.|[2410.08283v1](http://arxiv.org/abs/2410.08283v1)|null|
-|**2024-10-10**|**Noether's razor: Learning Conserved Quantities**|Tycho F. A. van der Ouderaa et.al.|[2410.08087v1](http://arxiv.org/abs/2410.08087v1)|[link](https://github.com/tychovdo/noethers-razor)|
-|**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v1](http://arxiv.org/abs/2410.08078v1)|null|
-|**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932v1](http://arxiv.org/abs/2410.07932v1)|null|
-|**2023-10-13**|**Sparse higher order partial least squares for simultaneous variable selection, dimension reduction, and tensor denoising**|Kwangmoon Park et.al.|[2310.09428v2](http://arxiv.org/abs/2310.09428v2)|null|
-|**2024-05-30**|**Fast leave-one-cluster-out cross-validation using clustered Network Information Criterion (NICc)**|Jiaxing Qiu et.al.|[2405.20400v2](http://arxiv.org/abs/2405.20400v2)|null|
-|**2024-10-09**|**Model-assisted and Knowledge-guided Transfer Regression for the Underrepresented Population**|Doudou Zhou et.al.|[2410.06484v1](http://arxiv.org/abs/2410.06484v1)|null|
-|**2024-10-08**|**Parameter Choice and Neuro-Symbolic Approaches for Deep Domain-Invariant Learning**|Marius-Constantin Dinu et.al.|[2410.06235v1](http://arxiv.org/abs/2410.06235v1)|null|
-|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
-|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979v2](http://arxiv.org/abs/2406.14979v2)|[link](https://github.com/haruhi-sudo/RPG)|
-|**2024-10-08**|**Leveraging free energy in pretraining model selection for improved fine-tuning**|Michael Munn et.al.|[2410.05612v1](http://arxiv.org/abs/2410.05612v1)|null|
-|**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v3](http://arxiv.org/abs/2309.09880v3)|null|
