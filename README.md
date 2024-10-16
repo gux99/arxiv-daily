@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-16 07:27:07 Asia/Shanghai
+ Automated deployment @ 2024-10-16 19:24:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-14**|**Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix**|Seungwoo Han et.al.|[2410.10758v1](http://arxiv.org/abs/2410.10758v1)|null|
-|**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743v1](http://arxiv.org/abs/2410.10743v1)|null|
-|**2024-10-14**|**A Personalized MOOC Learning Group and Course Recommendation Method Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658v1](http://arxiv.org/abs/2410.10658v1)|null|
-|**2024-10-14**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587v1](http://arxiv.org/abs/2410.10587v1)|[link](https://github.com/modelscope/facechain)|
-|**2024-10-14**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546v1](http://arxiv.org/abs/2410.10546v1)|null|
-|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v2](http://arxiv.org/abs/2407.10867v2)|[link](https://github.com/saper0/qpcert)|
-|**2024-10-14**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341v1](http://arxiv.org/abs/2410.10341v1)|[link](https://github.com/mala-lab/tpp)|
-|**2024-10-14**|**DiRW: Path-Aware Digraph Learning for Heterophily**|Daohan Su et.al.|[2410.10320v1](http://arxiv.org/abs/2410.10320v1)|null|
-|**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296v1](http://arxiv.org/abs/2410.10296v1)|[link](https://github.com/itsukifujii/attrgau)|
-|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v2](http://arxiv.org/abs/2406.12608v2)|[link](https://github.com/wykk00/graphbridge)|
-|**2024-10-14**|**Towards Bridging Generalization and Expressivity of Graph Neural Networks**|Shouheng Li et.al.|[2410.10051v1](http://arxiv.org/abs/2410.10051v1)|null|
-|**2024-10-13**|**Online Multi-modal Root Cause Analysis**|Lecheng Zheng et.al.|[2410.10021v1](http://arxiv.org/abs/2410.10021v1)|null|
-|**2024-10-13**|**Heterogeneous Graph Neural Network for Cooperative ISAC Beamforming in Cell-Free MIMO Systems**|Zihuan Wang et.al.|[2410.09963v1](http://arxiv.org/abs/2410.09963v1)|null|
-|**2024-10-13**|**GRRIS: a real-time intra-site observation scheduling scheme for distributed survey telescope arrays**|Yajie Zhang et.al.|[2410.09881v1](http://arxiv.org/abs/2410.09881v1)|null|
-|**2024-10-13**|**Towards characterizing the value of edge embeddings in Graph Neural Networks**|Dhruv Rohatgi et.al.|[2410.09867v1](http://arxiv.org/abs/2410.09867v1)|null|
+|**2024-10-15**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807v1](http://arxiv.org/abs/2410.11807v1)|null|
+|**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782v1](http://arxiv.org/abs/2410.11782v1)|null|
+|**2024-10-15**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced Classification**|Bishal Thapaliya et.al.|[2410.11765v1](http://arxiv.org/abs/2410.11765v1)|null|
+|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v4](http://arxiv.org/abs/2407.09441v4)|null|
+|**2024-10-15**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493v1](http://arxiv.org/abs/2410.11493v1)|null|
+|**2024-10-15**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using Co-Action Graphs**|Yi Sun et.al.|[2410.11464v1](http://arxiv.org/abs/2410.11464v1)|null|
+|**2024-10-15**|**Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?**|Jiacheng Cen et.al.|[2410.11443v1](http://arxiv.org/abs/2410.11443v1)|null|
+|**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323v1](http://arxiv.org/abs/2410.11323v1)|null|
+|**2024-05-03**|**Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems**|Ha An Le et.al.|[2405.01979v2](http://arxiv.org/abs/2405.01979v2)|null|
+|**2024-08-29**|**Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting**|Osama Ahmad et.al.|[2408.16191v2](http://arxiv.org/abs/2408.16191v2)|[link](https://github.com/OsamaAhmad369/VMGCN)|
+|**2024-10-01**|**STGformer: Efficient Spatiotemporal Graph Transformer for Traffic Forecasting**|Hongjun Wang et.al.|[2410.00385v2](http://arxiv.org/abs/2410.00385v2)|[link](https://github.com/dreamzz5/stgformer)|
+|**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290v1](http://arxiv.org/abs/2410.11290v1)|null|
+|**2024-04-17**|**Graph Continual Learning with Debiased Lossless Memory Replay**|Chaoxi Niu et.al.|[2404.10984v2](http://arxiv.org/abs/2404.10984v2)|null|
+|**2024-01-04**|**Spectral-Based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v4](http://arxiv.org/abs/2401.02130v4)|null|
+|**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun "Namir" Xia et.al.|[2410.02024v2](http://arxiv.org/abs/2410.02024v2)|[link](https://github.com/namir0806/flag)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v3](http://arxiv.org/abs/2402.12323v3)|null|
+|**2024-10-15**|**Scalable likelihood-based estimation and variable selection for the Cox model with incomplete covariates**|Ngok Sang Kwok et.al.|[2410.11482v1](http://arxiv.org/abs/2410.11482v1)|null|
 |**2024-10-14**|**Missing data imputation using a truncated infinite factor model with application to metabolomics data**|Kate Finucane et.al.|[2410.10633v1](http://arxiv.org/abs/2410.10633v1)|null|
 |**2024-10-14**|**Field-level cosmological model selection: field-level simulation-based inference for Stage IV cosmic shear can distinguish dynamical dark energy**|A. Spurio Mancini et.al.|[2410.10616v1](http://arxiv.org/abs/2410.10616v1)|null|
 |**2024-10-14**|**A Unified Approach to Routing and Cascading for LLMs**|Jasper Dekoninck et.al.|[2410.10347v1](http://arxiv.org/abs/2410.10347v1)|null|
@@ -91,5 +93,3 @@
 |**2024-10-10**|**Noether's razor: Learning Conserved Quantities**|Tycho F. A. van der Ouderaa et.al.|[2410.08087v1](http://arxiv.org/abs/2410.08087v1)|[link](https://github.com/tychovdo/noethers-razor)|
 |**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v1](http://arxiv.org/abs/2410.08078v1)|null|
 |**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932v1](http://arxiv.org/abs/2410.07932v1)|null|
-|**2023-10-13**|**Sparse higher order partial least squares for simultaneous variable selection, dimension reduction, and tensor denoising**|Kwangmoon Park et.al.|[2310.09428v2](http://arxiv.org/abs/2310.09428v2)|null|
-|**2024-05-30**|**Fast leave-one-cluster-out cross-validation using clustered Network Information Criterion (NICc)**|Jiaxing Qiu et.al.|[2405.20400v2](http://arxiv.org/abs/2405.20400v2)|null|
