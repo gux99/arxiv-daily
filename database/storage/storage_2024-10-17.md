@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-17 07:27:05 Asia/Shanghai
+ Automated deployment @ 2024-10-17 19:24:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
+|**2024-10-16**|**Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting**|Wei Chen et.al.|[2410.12593v1](http://arxiv.org/abs/2410.12593v1)|null|
+|**2024-10-14**|**NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud Registration Algorithms**|Efimia Panagiotaki et.al.|[2410.11031v2](http://arxiv.org/abs/2410.11031v2)|null|
+|**2024-10-16**|**Perseus: Leveraging Common Data Patterns with Curriculum Learning for More Robust Graph Neural Networks**|Kaiwen Xia et.al.|[2410.12425v1](http://arxiv.org/abs/2410.12425v1)|null|
+|**2024-10-16**|**Federated Temporal Graph Clustering**|Yang Liu et.al.|[2410.12343v1](http://arxiv.org/abs/2410.12343v1)|null|
+|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216v1](http://arxiv.org/abs/2410.12216v1)|null|
+|**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156v1](http://arxiv.org/abs/2410.12156v1)|null|
+|**2024-10-15**|**Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning**|Guangxin Su et.al.|[2410.12096v1](http://arxiv.org/abs/2410.12096v1)|null|
+|**2024-10-15**|**An Online Self-learning Graph-based Lateral Controller for Self-Driving Cars**|Jilan Samiuddin et.al.|[2410.11979v1](http://arxiv.org/abs/2410.11979v1)|null|
 |**2024-10-15**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807v1](http://arxiv.org/abs/2410.11807v1)|null|
 |**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782v1](http://arxiv.org/abs/2410.11782v1)|null|
-|**2024-10-15**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced Classification**|Bishal Thapaliya et.al.|[2410.11765v1](http://arxiv.org/abs/2410.11765v1)|null|
+|**2024-10-15**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced Classification**|Bishal Thapaliya et.al.|[2410.11765v1](http://arxiv.org/abs/2410.11765v1)|[link](https://github.com/anonymous753341/ecgn)|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v4](http://arxiv.org/abs/2407.09441v4)|null|
 |**2024-10-15**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493v1](http://arxiv.org/abs/2410.11493v1)|null|
 |**2024-10-15**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using Co-Action Graphs**|Yi Sun et.al.|[2410.11464v1](http://arxiv.org/abs/2410.11464v1)|null|
-|**2024-10-15**|**Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?**|Jiacheng Cen et.al.|[2410.11443v1](http://arxiv.org/abs/2410.11443v1)|null|
-|**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323v1](http://arxiv.org/abs/2410.11323v1)|null|
-|**2024-05-03**|**Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems**|Ha An Le et.al.|[2405.01979v2](http://arxiv.org/abs/2405.01979v2)|null|
-|**2024-08-29**|**Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting**|Osama Ahmad et.al.|[2408.16191v2](http://arxiv.org/abs/2408.16191v2)|[link](https://github.com/OsamaAhmad369/VMGCN)|
-|**2024-10-01**|**STGformer: Efficient Spatiotemporal Graph Transformer for Traffic Forecasting**|Hongjun Wang et.al.|[2410.00385v2](http://arxiv.org/abs/2410.00385v2)|[link](https://github.com/dreamzz5/stgformer)|
-|**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290v1](http://arxiv.org/abs/2410.11290v1)|null|
-|**2024-04-17**|**Graph Continual Learning with Debiased Lossless Memory Replay**|Chaoxi Niu et.al.|[2404.10984v2](http://arxiv.org/abs/2404.10984v2)|null|
-|**2024-01-04**|**Spectral-Based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v4](http://arxiv.org/abs/2401.02130v4)|null|
-|**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun "Namir" Xia et.al.|[2410.02024v2](http://arxiv.org/abs/2410.02024v2)|[link](https://github.com/namir0806/flag)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v3](http://arxiv.org/abs/2409.06190v3)|[link](https://github.com/xzwy/msldm)|
 |**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551v1](http://arxiv.org/abs/2410.08551v1)|null|
 |**2024-10-10**|**Computing Generalized Eigenfunctions in Rigged Hilbert Spaces**|Matthew J. Colbrook et.al.|[2410.08343v1](http://arxiv.org/abs/2410.08343v1)|null|
 |**2024-08-23**|**ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks**|Nicholas S. DiBrita et.al.|[2408.13389v2](http://arxiv.org/abs/2408.13389v2)|[link](https://github.com/positivetechnologylab/recon)|
@@ -71,7 +72,6 @@
 |**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937v2](http://arxiv.org/abs/2409.16937v2)|[link](https://github.com/yc-li20/semi-supervised-training)|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v1](http://arxiv.org/abs/2409.17899v1)|null|
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v3](http://arxiv.org/abs/2212.07124v3)|null|
-|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174v1](http://arxiv.org/abs/2409.16174v1)|[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)|
 
 ## Variable Selection
 
@@ -81,7 +81,7 @@
 |**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v3](http://arxiv.org/abs/2402.12323v3)|null|
 |**2024-10-15**|**Scalable likelihood-based estimation and variable selection for the Cox model with incomplete covariates**|Ngok Sang Kwok et.al.|[2410.11482v1](http://arxiv.org/abs/2410.11482v1)|null|
 |**2024-10-14**|**Missing data imputation using a truncated infinite factor model with application to metabolomics data**|Kate Finucane et.al.|[2410.10633v1](http://arxiv.org/abs/2410.10633v1)|null|
-|**2024-10-14**|**Field-level cosmological model selection: field-level simulation-based inference for Stage IV cosmic shear can distinguish dynamical dark energy**|A. Spurio Mancini et.al.|[2410.10616v1](http://arxiv.org/abs/2410.10616v1)|null|
+|**2024-10-14**|**Field-level cosmological model selection: field-level simulation-based inference for Stage IV cosmic shear can distinguish dynamical dark energy**|A. Spurio Mancini et.al.|[2410.10616v1](http://arxiv.org/abs/2410.10616v1)|[link](https://github.com/dpiras/cosmopower-jax)|
 |**2024-10-14**|**A Unified Approach to Routing and Cascading for LLMs**|Jasper Dekoninck et.al.|[2410.10347v1](http://arxiv.org/abs/2410.10347v1)|null|
 |**2024-10-14**|**fastHDMI: Fast Mutual Information Estimation for High-Dimensional Data**|Kai Yang et.al.|[2410.10082v1](http://arxiv.org/abs/2410.10082v1)|null|
 |**2023-06-27**|**Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models**|Eric Chen et.al.|[2306.15226v2](http://arxiv.org/abs/2306.15226v2)|null|
