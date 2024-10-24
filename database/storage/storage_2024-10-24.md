@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-24 07:26:39 Asia/Shanghai
+ Automated deployment @ 2024-10-24 19:23:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,23 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581v3](http://arxiv.org/abs/2410.02581v3)|null|
-|**2024-10-22**|**Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks**|Han Ji et.al.|[2410.17118v1](http://arxiv.org/abs/2410.17118v1)|[link](https://github.com/hanji-ucd/gnn-hetnet)|
-|**2024-06-04**|**Temporal Graph Rewiring with Expander Graphs**|Katarina Petrović et.al.|[2406.02362v3](http://arxiv.org/abs/2406.02362v3)|[link](https://github.com/kpetrovicc/tgr)|
-|**2024-10-22**|**Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance**|Dominik Fuchsgruber et.al.|[2410.16935v1](http://arxiv.org/abs/2410.16935v1)|null|
-|**2024-09-20**|**Higher-Order Message Passing for Glycan Representation Learning**|Roman Joeres et.al.|[2409.13467v2](http://arxiv.org/abs/2409.13467v2)|[link](https://github.com/bojarlab/gifflar)|
-|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v3](http://arxiv.org/abs/2407.07457v3)|[link](https://github.com/nineabyss/glbench)|
-|**2024-10-22**|**Dynamic graph neural networks for enhanced volatility prediction in financial markets**|Pulikandala Nithish Kumar et.al.|[2410.16858v1](http://arxiv.org/abs/2410.16858v1)|null|
-|**2024-10-22**|**Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating Few-Shot Node Classification**|Yihong Luo et.al.|[2410.16845v1](http://arxiv.org/abs/2410.16845v1)|[link](https://github.com/draym28/fgsam_neurips24)|
-|**2024-10-22**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822v1](http://arxiv.org/abs/2410.16822v1)|null|
-|**2024-10-15**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493v2](http://arxiv.org/abs/2410.11493v2)|null|
-|**2024-10-22**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation**|Junyu Luo et.al.|[2410.16606v1](http://arxiv.org/abs/2410.16606v1)|[link](https://github.com/luo-junyu/gala)|
-|**2024-10-22**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs**|Haolin Li et.al.|[2410.16593v1](http://arxiv.org/abs/2410.16593v1)|null|
-|**2024-07-16**|**Graph Neural Network-Based Track Finding in the LHCb Vertex Detector**|Anthony Correia et.al.|[2407.12119v3](http://arxiv.org/abs/2407.12119v3)|null|
-|**2024-10-21**|**Theoretical Insights into Line Graph Transformation on Graph Learning**|Fan Yang et.al.|[2410.16138v1](http://arxiv.org/abs/2410.16138v1)|[link](https://github.com/lukeyf/graphs-and-lines)|
-|**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134v2](http://arxiv.org/abs/2408.14134v2)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v1](http://arxiv.org/abs/2410.18032v1)|[link](https://github.com/bupt-gamma/graphteam)|
+|**2024-06-12**|**MOTIVE: A Drug-Target Interaction Graph For Inductive Link Prediction**|John Arevalo et.al.|[2406.08649v2](http://arxiv.org/abs/2406.08649v2)|[link](https://github.com/carpenter-singh-lab/motive)|
+|**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|null|
+|**2024-03-18**|**Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation**|Baoyu Jing et.al.|[2403.11960v4](http://arxiv.org/abs/2403.11960v4)|null|
+|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
+|**2024-10-17**|**Multi-frame Detection via Graph Neural Networks: A Link Prediction Approach**|Zhihao Lin et.al.|[2410.13436v2](http://arxiv.org/abs/2410.13436v2)|null|
+|**2024-10-23**|**Proteome-wide prediction of mode of inheritance and molecular mechanism underlying genetic diseases using structural interactomics**|Ali Saadat et.al.|[2410.17708v1](http://arxiv.org/abs/2410.17708v1)|null|
+|**2024-05-07**|**Binarized Simplicial Convolutional Neural Networks**|Yi Yan et.al.|[2405.04098v2](http://arxiv.org/abs/2405.04098v2)|null|
+|**2024-10-23**|**Exploring structure diversity in atomic resolution microscopy with graph neural networks**|Zheng Luo et.al.|[2410.17631v1](http://arxiv.org/abs/2410.17631v1)|null|
+|**2024-10-23**|**Self-Supervised Graph Neural Networks for Enhanced Feature Extraction in Heterogeneous Information Networks**|Jianjun Wei et.al.|[2410.17617v1](http://arxiv.org/abs/2410.17617v1)|null|
+|**2024-10-23**|**GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Models**|Zhixia He et.al.|[2410.17526v1](http://arxiv.org/abs/2410.17526v1)|null|
+|**2023-07-15**|**RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task**|Jiaxing Zhang et.al.|[2307.07840v3](http://arxiv.org/abs/2307.07840v3)|[link](https://github.com/jz48/regexplainer)|
+|**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464v1](http://arxiv.org/abs/2410.17464v1)|null|
+|**2024-10-22**|**Graph Neural Network-Accelerated Network-Reconfigured Optimal Power Flow**|Thuan Pham et.al.|[2410.17460v1](http://arxiv.org/abs/2410.17460v1)|null|
+|**2024-10-22**|**Geometric Graph Neural Network Modeling of Human Interactions in Crowded Environments**|Sara Honarvar et.al.|[2410.17409v1](http://arxiv.org/abs/2410.17409v1)|null|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v1](http://arxiv.org/abs/2410.17889v1)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
+|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
+|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
+|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
+|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascal Zwick et.al.|[2410.08551v2](http://arxiv.org/abs/2410.08551v2)|[link](https://github.com/fzi-forschungszentrum-informatik/fadm)|
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v3](http://arxiv.org/abs/2409.06190v3)|[link](https://github.com/xzwy/msldm)|
+|**2024-10-10**|**Computing Generalized Eigenfunctions in Rigged Hilbert Spaces**|Matthew J. Colbrook et.al.|[2410.08343v1](http://arxiv.org/abs/2410.08343v1)|null|
+|**2024-08-23**|**ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks**|Nicholas S. DiBrita et.al.|[2408.13389v2](http://arxiv.org/abs/2408.13389v2)|[link](https://github.com/positivetechnologylab/recon)|
+|**2024-03-08**|**Frećhet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v2](http://arxiv.org/abs/2403.05352v2)|[link](https://github.com/jiajie96/FDD_pytorch)|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
+|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
+|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
+|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -54,34 +73,19 @@
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
-|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
-|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
-|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
-|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascal Zwick et.al.|[2410.08551v2](http://arxiv.org/abs/2410.08551v2)|[link](https://github.com/fzi-forschungszentrum-informatik/fadm)|
-|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v3](http://arxiv.org/abs/2409.06190v3)|[link](https://github.com/xzwy/msldm)|
-|**2024-10-10**|**Computing Generalized Eigenfunctions in Rigged Hilbert Spaces**|Matthew J. Colbrook et.al.|[2410.08343v1](http://arxiv.org/abs/2410.08343v1)|null|
-|**2024-08-23**|**ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks**|Nicholas S. DiBrita et.al.|[2408.13389v2](http://arxiv.org/abs/2408.13389v2)|[link](https://github.com/positivetechnologylab/recon)|
-|**2024-03-08**|**Frećhet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v2](http://arxiv.org/abs/2403.05352v2)|[link](https://github.com/jiajie96/FDD_pytorch)|
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
-|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
-|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
-|**2024-03-06**|**FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463v2](http://arxiv.org/abs/2403.03463v2)|[link](https://github.com/AIS-Clemson/FLAME_SD)|
-|**2024-09-23**|**Rethinking Emotion Bias in Music via Frechet Audio Distance**|Yuanchao Li et.al.|[2409.15545v2](http://arxiv.org/abs/2409.15545v2)|[link](https://github.com/microsoft/fadtk)|
-
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v2](http://arxiv.org/abs/2410.16722v2)|null|
+|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v2](http://arxiv.org/abs/2406.14856v2)|null|
+|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v2](http://arxiv.org/abs/2410.16577v2)|null|
+|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
+|**2024-10-23**|**e-Values for Real-Time Residential Electricity Demand Forecast Model Selection**|Fabian Backhaus et.al.|[2410.17800v1](http://arxiv.org/abs/2410.17800v1)|null|
+|**2024-10-22**|**Impact of relativistic waveforms in LISA's science objectives with extreme-mass-ratio inspirals**|Hassan Khalvati et.al.|[2410.17310v1](http://arxiv.org/abs/2410.17310v1)|null|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[link](https://github.com/geekan/metagpt)|
 |**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|null|
-|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v1](http://arxiv.org/abs/2410.16722v1)|null|
-|**2024-10-21**|**High-dimensional Grouped-regression using Bayesian Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v1](http://arxiv.org/abs/2410.16577v1)|null|
 |**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v2](http://arxiv.org/abs/2406.15819v2)|[link](https://github.com/qiushuo0913/DT-powered-AMS)|
 |**2024-10-21**|**High-Fidelity Transfer of Functional Priors for Wide Bayesian Neural Networks by Learning Activations**|Marcin Sendera et.al.|[2410.15777v1](http://arxiv.org/abs/2410.15777v1)|[link](https://github.com/gmum/bnn-functional-priors)|
 |**2024-10-17**|**A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes**|Jake Robertson et.al.|[2410.13286v2](http://arxiv.org/abs/2410.13286v2)|[link](https://github.com/jr2021/ManyFairHPO-AIES)|
@@ -89,7 +93,3 @@
 |**2024-02-06**|**Large language models as linguistic simulators and cognitive models in human research**|Zhicheng Lin et.al.|[2402.04470v4](http://arxiv.org/abs/2402.04470v4)|null|
 |**2024-10-17**|**ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization**|Chen Bo Calvin Zhang et.al.|[2410.13837v2](http://arxiv.org/abs/2410.13837v2)|[link](https://github.com/calvincbzhang/orso)|
 |**2022-04-17**|**Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2204.08100v3](http://arxiv.org/abs/2204.08100v3)|null|
-|**2022-08-09**|**Boosting with copula-based components**|Simon Boge Brant et.al.|[2208.04669v2](http://arxiv.org/abs/2208.04669v2)|null|
-|**2024-10-19**|**Predictive Quantile Regression with High-Dimensional Predictors: The Variable Screening Approach**|Hongqi Chen et.al.|[2410.15097v1](http://arxiv.org/abs/2410.15097v1)|null|
-|**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v4](http://arxiv.org/abs/2206.09819v4)|null|
-|**2024-10-18**|**Towards Unsupervised Validation of Anomaly-Detection Models**|Lihi Idan et.al.|[2410.14579v1](http://arxiv.org/abs/2410.14579v1)|null|
