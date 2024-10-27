@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-27 07:25:38 Asia/Shanghai
+ Automated deployment @ 2024-10-27 19:21:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-16**|**A note on continuity and asymptotic consistency of measures of risk and variability**|Niushan Gao et.al.|[2405.09766v2](http://arxiv.org/abs/2405.09766v2)|null|
-|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v1](http://arxiv.org/abs/2410.17889v1)|null|
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
-|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
-|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
-|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
-|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascal Zwick et.al.|[2410.08551v2](http://arxiv.org/abs/2410.08551v2)|[link](https://github.com/fzi-forschungszentrum-informatik/fadm)|
-|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v3](http://arxiv.org/abs/2409.06190v3)|[link](https://github.com/xzwy/msldm)|
-|**2024-10-10**|**Computing Generalized Eigenfunctions in Rigged Hilbert Spaces**|Matthew J. Colbrook et.al.|[2410.08343v1](http://arxiv.org/abs/2410.08343v1)|null|
-|**2024-08-23**|**ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks**|Nicholas S. DiBrita et.al.|[2408.13389v2](http://arxiv.org/abs/2408.13389v2)|[link](https://github.com/positivetechnologylab/recon)|
-|**2024-03-08**|**Frećhet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v2](http://arxiv.org/abs/2403.05352v2)|[link](https://github.com/jiajie96/FDD_pytorch)|
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
-|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
-|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -73,6 +54,25 @@
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-16**|**A note on continuity and asymptotic consistency of measures of risk and variability**|Niushan Gao et.al.|[2405.09766v2](http://arxiv.org/abs/2405.09766v2)|null|
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v1](http://arxiv.org/abs/2410.17889v1)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
+|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
+|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
+|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
+|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascal Zwick et.al.|[2410.08551v2](http://arxiv.org/abs/2410.08551v2)|[link](https://github.com/fzi-forschungszentrum-informatik/fadm)|
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v3](http://arxiv.org/abs/2409.06190v3)|[link](https://github.com/xzwy/msldm)|
+|**2024-10-10**|**Computing Generalized Eigenfunctions in Rigged Hilbert Spaces**|Matthew J. Colbrook et.al.|[2410.08343v1](http://arxiv.org/abs/2410.08343v1)|null|
+|**2024-08-23**|**ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks**|Nicholas S. DiBrita et.al.|[2408.13389v2](http://arxiv.org/abs/2408.13389v2)|[link](https://github.com/positivetechnologylab/recon)|
+|**2024-03-08**|**Frećhet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v2](http://arxiv.org/abs/2403.05352v2)|[link](https://github.com/jiajie96/FDD_pytorch)|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
+|**2024-10-04**|**Generalizing the Fréchet Derivative Algorithm for the Matrix Exponential**|Awad H. Al-Mohy et.al.|[2410.03575v1](http://arxiv.org/abs/2410.03575v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v2](http://arxiv.org/abs/2407.08659v2)|null|
+|**2024-09-24**|**BehAV: Behavioral Rule Guided Autonomy Using VLMs for Robot Navigation in Outdoor Scenes**|Kasun Weerakoon et.al.|[2409.16484v2](http://arxiv.org/abs/2409.16484v2)|null|
+
 ## Variable Selection
 
 ### Variable selection
@@ -89,7 +89,7 @@
 |**2024-10-23**|**e-Values for Real-Time Residential Electricity Demand Forecast Model Selection**|Fabian Backhaus et.al.|[2410.17800v1](http://arxiv.org/abs/2410.17800v1)|null|
 |**2024-10-22**|**Impact of relativistic waveforms in LISA's science objectives with extreme-mass-ratio inspirals**|Hassan Khalvati et.al.|[2410.17310v1](http://arxiv.org/abs/2410.17310v1)|null|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[link](https://github.com/geekan/metagpt)|
-|**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|null|
+|**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|[link](https://github.com/vshirvaikar/MPmodel)|
 |**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v2](http://arxiv.org/abs/2406.15819v2)|[link](https://github.com/qiushuo0913/DT-powered-AMS)|
 |**2024-10-21**|**High-Fidelity Transfer of Functional Priors for Wide Bayesian Neural Networks by Learning Activations**|Marcin Sendera et.al.|[2410.15777v1](http://arxiv.org/abs/2410.15777v1)|[link](https://github.com/gmum/bnn-functional-priors)|
 |**2024-10-17**|**A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes**|Jake Robertson et.al.|[2410.13286v2](http://arxiv.org/abs/2410.13286v2)|[link](https://github.com/jr2021/ManyFairHPO-AIES)|
