@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-28 07:26:39 Asia/Shanghai
+ Automated deployment @ 2024-10-28 19:24:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25**|**Sparse Decomposition of Graph Neural Networks**|Yaochen Hu et.al.|[2410.19723v1](http://arxiv.org/abs/2410.19723v1)|null|
+|**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v1](http://arxiv.org/abs/2410.19550v1)|null|
+|**2023-08-23**|**Relational Concept Bottleneck Models**|Pietro Barbiero et.al.|[2308.11991v2](http://arxiv.org/abs/2308.11991v2)|[link](https://github.com/diligmic/rcbm-neurips2024)|
+|**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373v1](http://arxiv.org/abs/2410.19373v1)|null|
+|**2024-10-25**|**Double Difference Earthquake Location with Graph Neural Networks**|Ian W. McBrearty et.al.|[2410.19323v1](http://arxiv.org/abs/2410.19323v1)|null|
+|**2024-04-10**|**Late Breaking Results: Fast System Technology Co-Optimization Framework for Emerging Technology Based on Graph Neural Networks**|Tianliang Ma et.al.|[2404.06939v3](http://arxiv.org/abs/2404.06939v3)|null|
+|**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v2](http://arxiv.org/abs/2406.04267v2)|null|
+|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193v1](http://arxiv.org/abs/2410.19193v1)|null|
 |**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912v1](http://arxiv.org/abs/2410.18912v1)|null|
 |**2023-05-25**|**Neural incomplete factorization: learning preconditioners for the conjugate gradient method**|Paul Häusner et.al.|[2305.16368v3](http://arxiv.org/abs/2305.16368v3)|[link](https://github.com/paulhausner/neural-incomplete-factorization)|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631v1](http://arxiv.org/abs/2410.18631v1)|null|
@@ -24,14 +32,6 @@
 |**2024-10-24**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487v1](http://arxiv.org/abs/2410.18487v1)|null|
 |**2023-11-13**|**Interpretable A-posteriori Error Indication for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548v4](http://arxiv.org/abs/2311.07548v4)|null|
 |**2023-07-15**|**RegExplainer: Generating Explanations for Graph Neural Networks in Regression Tasks**|Jiaxing Zhang et.al.|[2307.07840v4](http://arxiv.org/abs/2307.07840v4)|[link](https://github.com/jz48/regexplainer)|
-|**2024-02-26**|**PyGim: An Efficient Graph Neural Network Library for Real Processing-In-Memory Architectures**|Christina Giannoula et.al.|[2402.16731v4](http://arxiv.org/abs/2402.16731v4)|null|
-|**2023-12-07**|**Efficient End-to-end Language Model Fine-tuning on Graphs**|Rui Xue et.al.|[2312.04737v2](http://arxiv.org/abs/2312.04737v2)|null|
-|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v1](http://arxiv.org/abs/2410.18032v1)|[link](https://github.com/bupt-gamma/graphteam)|
-|**2024-06-12**|**MOTIVE: A Drug-Target Interaction Graph For Inductive Link Prediction**|John Arevalo et.al.|[2406.08649v2](http://arxiv.org/abs/2406.08649v2)|[link](https://github.com/carpenter-singh-lab/motive)|
-|**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|[link](https://github.com/ZhenhHuang/MSG)|
-|**2024-03-18**|**Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation**|Baoyu Jing et.al.|[2403.11960v4](http://arxiv.org/abs/2403.11960v4)|null|
-|**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
-|**2024-10-17**|**Multi-frame Detection via Graph Neural Networks: A Link Prediction Approach**|Zhihao Lin et.al.|[2410.13436v2](http://arxiv.org/abs/2410.13436v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,13 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-25**|**Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective**|Ethan Harvey et.al.|[2410.19675v1](http://arxiv.org/abs/2410.19675v1)|null|
+|**2024-06-15**|**Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the US**|Fangzhi Luo et.al.|[2406.10499v5](http://arxiv.org/abs/2406.10499v5)|null|
+|**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294v2](http://arxiv.org/abs/2408.08294v2)|null|
+|**2024-10-25**|**Deep Transformation Model**|Tong Wang et.al.|[2410.19226v1](http://arxiv.org/abs/2410.19226v1)|null|
+|**2024-10-17**|**All models are wrong, some are useful: Model Selection with Limited Labels**|Patrik Okanovic et.al.|[2410.13609v2](http://arxiv.org/abs/2410.13609v2)|[link](https://github.com/robustml-lab/model-selector)|
+|**2024-06-24**|**Efficient Bayesian inference and model selection for continuous gravitational waves in pulsar timing array data**|Bence Bécsy et.al.|[2406.16331v2](http://arxiv.org/abs/2406.16331v2)|null|
+|**2024-10-24**|**Model-free Variable Selection and Inference for High-dimensional Data**|Shangyuan Ye et.al.|[2410.19031v1](http://arxiv.org/abs/2410.19031v1)|null|
 |**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|[link](https://github.com/YecanLee/2BeOETG)|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
 |**2024-10-24**|**Robust function-on-function interaction regression**|Ufuk Beyaztas et.al.|[2410.18338v1](http://arxiv.org/abs/2410.18338v1)|null|
@@ -86,10 +93,3 @@
 |**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v2](http://arxiv.org/abs/2406.14856v2)|null|
 |**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v2](http://arxiv.org/abs/2410.16577v2)|null|
 |**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815v1](http://arxiv.org/abs/2410.17815v1)|null|
-|**2024-10-23**|**e-Values for Real-Time Residential Electricity Demand Forecast Model Selection**|Fabian Backhaus et.al.|[2410.17800v1](http://arxiv.org/abs/2410.17800v1)|null|
-|**2024-10-22**|**Impact of relativistic waveforms in LISA's science objectives with extreme-mass-ratio inspirals**|Hassan Khalvati et.al.|[2410.17310v1](http://arxiv.org/abs/2410.17310v1)|null|
-|**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238v1](http://arxiv.org/abs/2410.17238v1)|[link](https://github.com/geekan/metagpt)|
-|**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v1](http://arxiv.org/abs/2410.17108v1)|[link](https://github.com/vshirvaikar/MPmodel)|
-|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v2](http://arxiv.org/abs/2406.15819v2)|[link](https://github.com/qiushuo0913/DT-powered-AMS)|
-|**2024-10-21**|**High-Fidelity Transfer of Functional Priors for Wide Bayesian Neural Networks by Learning Activations**|Marcin Sendera et.al.|[2410.15777v1](http://arxiv.org/abs/2410.15777v1)|[link](https://github.com/gmum/bnn-functional-priors)|
-|**2024-10-17**|**A Human-in-the-Loop Fairness-Aware Model Selection Framework for Complex Fairness Objective Landscapes**|Jake Robertson et.al.|[2410.13286v2](http://arxiv.org/abs/2410.13286v2)|[link](https://github.com/jr2021/ManyFairHPO-AIES)|
