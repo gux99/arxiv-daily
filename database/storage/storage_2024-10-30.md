@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-30 07:26:27 Asia/Shanghai
+ Automated deployment @ 2024-10-30 19:23:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### Network Bootstrap
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-28**|**Valid Bootstraps for Networks with Applications to Network Visualisation**|Emerald Dilworth et.al.|[2410.20895v1](http://arxiv.org/abs/2410.20895v1)|null|
+|**2024-10-28**|**Valid Bootstraps for Networks with Applications to Network Visualisation**|Emerald Dilworth et.al.|[2410.20895v2](http://arxiv.org/abs/2410.20895v2)|null|
 |**2022-03-02**|**Improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise**|Li Meng et.al.|[2203.01004v3](http://arxiv.org/abs/2203.01004v3)|null|
 |**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
 |**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
@@ -18,42 +18,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**Subgraph Aggregation for Out-of-Distribution Generalization on Graphs**|Bowen Liu et.al.|[2410.22228v1](http://arxiv.org/abs/2410.22228v1)|null|
+|**2024-06-29**|**UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems**|Zhi Zheng et.al.|[2407.00312v3](http://arxiv.org/abs/2407.00312v3)|[link](https://github.com/ciam-group/nco_code)|
+|**2024-10-29**|**Vision Paper: Designing Graph Neural Networks in Compliance with the European Artificial Intelligence Act**|Barbara Hoffmann et.al.|[2410.22120v1](http://arxiv.org/abs/2410.22120v1)|null|
+|**2024-05-31**|**Predicting solvation free energies with an implicit solvent machine learning potential**|Sebastien Röcken et.al.|[2406.00183v2](http://arxiv.org/abs/2406.00183v2)|null|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160v2](http://arxiv.org/abs/2403.05160v2)|[link](https://github.com/vison307/mammil)|
+|**2024-10-29**|**LogSHIELD: A Graph-based Real-time Anomaly Detection Framework using Frequency Analysis**|Krishna Chandra Roy et.al.|[2410.21936v1](http://arxiv.org/abs/2410.21936v1)|null|
+|**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v4](http://arxiv.org/abs/2407.07457v4)|[link](https://github.com/nineabyss/glbench)|
+|**2024-07-03**|**Backdoor Graph Condensation**|Jiahao Wu et.al.|[2407.11025v3](http://arxiv.org/abs/2407.11025v3)|null|
+|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v4](http://arxiv.org/abs/2407.11790v4)|null|
+|**2024-10-29**|**Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling and Zero-Shot Transfer**|Zihan Pengmei et.al.|[2410.21683v1](http://arxiv.org/abs/2410.21683v1)|null|
+|**2024-10-28**|**Graph Sparsification for Enhanced Conformal Prediction in Graph Neural Networks**|Yuntian He et.al.|[2410.21618v1](http://arxiv.org/abs/2410.21618v1)|null|
+|**2024-10-14**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546v2](http://arxiv.org/abs/2410.10546v2)|null|
+|**2024-03-27**|**How Does Message Passing Improve Collaborative Filtering?**|Mingxuan Ju et.al.|[2404.08660v2](http://arxiv.org/abs/2404.08660v2)|[link](https://github.com/snap-research/test-time-aggregation-for-cf)|
+|**2023-10-14**|**Topology-guided Hypergraph Transformer Network: Unveiling Structural Insights for Improved Representation**|Khaled Mohammed Saifuddin et.al.|[2310.09657v3](http://arxiv.org/abs/2310.09657v3)|null|
 |**2024-02-26**|**PyGim: An Efficient Graph Neural Network Library for Real Processing-In-Memory Architectures**|Christina Giannoula et.al.|[2402.16731v5](http://arxiv.org/abs/2402.16731v5)|null|
-|**2023-11-17**|**Multiscale Hodge Scattering Networks for Data Analysis**|Naoki Saito et.al.|[2311.10270v4](http://arxiv.org/abs/2311.10270v4)|null|
-|**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728v2](http://arxiv.org/abs/2309.15728v2)|null|
-|**2024-10-28**|**Graph Based Traffic Analysis and Delay Prediction**|Gabriele Borg et.al.|[2410.21028v1](http://arxiv.org/abs/2410.21028v1)|null|
-|**2024-10-28**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006v1](http://arxiv.org/abs/2410.21006v1)|null|
-|**2023-12-07**|**GraphMETRO: Mitigating Complex Graph Distribution Shifts via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693v3](http://arxiv.org/abs/2312.04693v3)|[link](https://github.com/wuyxin/graphmetro)|
-|**2024-06-13**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification**|Yuankai Luo et.al.|[2406.08993v2](http://arxiv.org/abs/2406.08993v2)|[link](https://github.com/LUOyk1999/tunedGNN)|
-|**2024-10-28**|**SEG:Seeds-Enhanced Iterative Refinement Graph Neural Network for Entity Alignment**|Wei Ai et.al.|[2410.20733v1](http://arxiv.org/abs/2410.20733v1)|null|
-|**2024-02-14**|**SimMLP: Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2402.08918v2](http://arxiv.org/abs/2402.08918v2)|[link](https://github.com/zehong-wang/simmlp)|
-|**2024-10-14**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341v2](http://arxiv.org/abs/2410.10341v2)|[link](https://github.com/mala-lab/tpp)|
-|**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516v1](http://arxiv.org/abs/2410.20516v1)|null|
-|**2024-10-27**|**Graph Neural Networks on Discriminative Graphs of Words**|Yassine Abbahaddou et.al.|[2410.20469v1](http://arxiv.org/abs/2410.20469v1)|null|
-|**2024-10-27**|**Uncovering Capabilities of Model Pruning in Graph Contrastive Learning**|Wu Junran et.al.|[2410.20356v1](http://arxiv.org/abs/2410.20356v1)|null|
-|**2023-11-06**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520v3](http://arxiv.org/abs/2311.03520v3)|[link](https://github.com/bishalth01/BrainRGIN)|
-|**2024-10-27**|**DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification**|Xiaoxue Han et.al.|[2410.20295v1](http://arxiv.org/abs/2410.20295v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-25**|**IncomeSCM: From tabular data set to time-series simulator and causal estimation benchmark**|Fredrik D. Johansson et.al.|[2405.16069v3](http://arxiv.org/abs/2405.16069v3)|[link](https://github.com/Healthy-AI/IncomeSCM)|
-|**2024-10-28**|**Accelerated Bayesian parameter estimation and model selection for gravitational waves with normalizing flows**|Alicja Polanska et.al.|[2410.21076v1](http://arxiv.org/abs/2410.21076v1)|null|
-|**2024-10-28**|**BSD: a Bayesian framework for parametric models of neural spectra**|Johan Medrano et.al.|[2410.20896v1](http://arxiv.org/abs/2410.20896v1)|null|
-|**2024-10-27**|**Analyzing the dense matter equation of states in the light of the compact object HESS J1731-347**|Skund Tewari et.al.|[2410.20355v1](http://arxiv.org/abs/2410.20355v1)|null|
-|**2024-10-26**|**Accurate Inference for Penalized Logistic Regression**|Yuming Zhang et.al.|[2410.20045v1](http://arxiv.org/abs/2410.20045v1)|null|
-|**2024-10-25**|**Statistical Inference in Classification of High-dimensional Gaussian Mixture**|Hanwen Huang et.al.|[2410.19950v1](http://arxiv.org/abs/2410.19950v1)|null|
-|**2024-10-25**|**Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective**|Ethan Harvey et.al.|[2410.19675v1](http://arxiv.org/abs/2410.19675v1)|[link](https://github.com/tufts-ml/data-emphasized-ELBo)|
-|**2024-06-15**|**Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the US**|Fangzhi Luo et.al.|[2406.10499v5](http://arxiv.org/abs/2406.10499v5)|null|
-|**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294v2](http://arxiv.org/abs/2408.08294v2)|null|
-|**2024-10-25**|**Deep Transformation Model**|Tong Wang et.al.|[2410.19226v1](http://arxiv.org/abs/2410.19226v1)|null|
-|**2024-10-17**|**All models are wrong, some are useful: Model Selection with Limited Labels**|Patrik Okanovic et.al.|[2410.13609v2](http://arxiv.org/abs/2410.13609v2)|[link](https://github.com/robustml-lab/model-selector)|
-|**2024-06-24**|**Efficient Bayesian inference and model selection for continuous gravitational waves in pulsar timing array data**|Bence Bécsy et.al.|[2406.16331v2](http://arxiv.org/abs/2406.16331v2)|null|
-|**2024-10-24**|**Model-free Variable Selection and Inference for High-dimensional Data**|Shangyuan Ye et.al.|[2410.19031v1](http://arxiv.org/abs/2410.19031v1)|null|
-|**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v1](http://arxiv.org/abs/2410.18653v1)|[link](https://github.com/YecanLee/2BeOETG)|
-|**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -94,3 +73,24 @@
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248v1](http://arxiv.org/abs/2410.22248v1)|null|
+|**2024-10-29**|**Are Decoder-Only Large Language Models the Silver Bullet for Code Search?**|Yuxuan Chen et.al.|[2410.22240v1](http://arxiv.org/abs/2410.22240v1)|null|
+|**2024-10-29**|**Bayesian Stability Selection and Inference on Inclusion Probabilities**|Mahdi Nouraie et.al.|[2410.21914v1](http://arxiv.org/abs/2410.21914v1)|null|
+|**2024-10-29**|**Robust Estimation and Model Selection for the Controlled Directed Effect with Unmeasured Mediator-Outcome Confounders**|Shunichiro Orihara et.al.|[2410.21832v1](http://arxiv.org/abs/2410.21832v1)|null|
+|**2024-04-16**|**Exploring the Role of Token in Transformer-based Time Series Forecasting**|Jianqi Zhang et.al.|[2404.10337v2](http://arxiv.org/abs/2404.10337v2)|[link](https://github.com/jlu-phycomputer/t2b-pe)|
+|**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection**|Saptarshi Roy et.al.|[2310.07852v5](http://arxiv.org/abs/2310.07852v5)|[link](https://github.com/roysaptaumich/dp-bss)|
+|**2024-10-29**|**Millilensing induced systematic biases in parameterized tests of General Relativity**|Anna Liu et.al.|[2410.21738v1](http://arxiv.org/abs/2410.21738v1)|null|
+|**2024-09-23**|**Eagle: Efficient Training-Free Router for Multi-LLM Inference**|Zesen Zhao et.al.|[2409.15518v2](http://arxiv.org/abs/2409.15518v2)|null|
+|**2024-10-28**|**Approximate Bayesian Computation with Statistical Distances for Model Selection**|Clara Grazian et.al.|[2410.21603v1](http://arxiv.org/abs/2410.21603v1)|null|
+|**2024-10-28**|**Bayesian Regression for Predicting Subscription to Bank Term Deposits in Direct Marketing Campaigns**|Muhammad Farhan Tanvir et.al.|[2410.21539v1](http://arxiv.org/abs/2410.21539v1)|null|
+|**2024-05-25**|**IncomeSCM: From tabular data set to time-series simulator and causal estimation benchmark**|Fredrik D. Johansson et.al.|[2405.16069v3](http://arxiv.org/abs/2405.16069v3)|[link](https://github.com/Healthy-AI/IncomeSCM)|
+|**2024-10-28**|**Accelerated Bayesian parameter estimation and model selection for gravitational waves with normalizing flows**|Alicja Polanska et.al.|[2410.21076v1](http://arxiv.org/abs/2410.21076v1)|null|
+|**2024-10-28**|**BSD: a Bayesian framework for parametric models of neural spectra**|Johan Medrano et.al.|[2410.20896v1](http://arxiv.org/abs/2410.20896v1)|null|
+|**2024-10-27**|**Analyzing the dense matter equation of states in the light of the compact object HESS J1731-347**|Skund Tewari et.al.|[2410.20355v1](http://arxiv.org/abs/2410.20355v1)|null|
+|**2024-10-26**|**Accurate Inference for Penalized Logistic Regression**|Yuming Zhang et.al.|[2410.20045v1](http://arxiv.org/abs/2410.20045v1)|null|
