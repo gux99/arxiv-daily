@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-12 07:24:55 Asia/Shanghai
+ Automated deployment @ 2024-11-12 19:23:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -18,21 +18,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742v1](http://arxiv.org/abs/2411.05742v1)|null|
-|**2024-07-29**|**xAI-Drop: Don't Use What You Cannot Explain**|Vincenzo Marco De Luca et.al.|[2407.20067v2](http://arxiv.org/abs/2407.20067v2)|null|
-|**2024-11-08**|**YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training**|Yi Li et.al.|[2411.05693v1](http://arxiv.org/abs/2411.05693v1)|null|
-|**2023-10-24**|**Using Time-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs**|Franziska Heeg et.al.|[2310.15865v2](http://arxiv.org/abs/2310.15865v2)|null|
-|**2024-11-08**|**Streaming Network for Continual Learning of Object Relocations under Household Context Drifts**|Ermanno Bartoli et.al.|[2411.05549v1](http://arxiv.org/abs/2411.05549v1)|null|
-|**2024-03-06**|**Almost Surely Asymptotically Constant Graph Neural Networks**|Sam Adam-Day et.al.|[2403.03880v3](http://arxiv.org/abs/2403.03880v3)|[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)|
-|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479v1](http://arxiv.org/abs/2411.05479v1)|[link](https://github.com/jumbo110/eurekha)|
-|**2024-11-08**|**Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs**|Levi Rauchwerger et.al.|[2411.05464v1](http://arxiv.org/abs/2411.05464v1)|null|
-|**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v2](http://arxiv.org/abs/2411.02540v2)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
-|**2024-11-08**|**Post-Hoc Robustness Enhancement in Graph Neural Networks with Conditional Random Fields**|Yassine Abbahaddou et.al.|[2411.05399v1](http://arxiv.org/abs/2411.05399v1)|null|
-|**2024-11-08**|**Distributed-Order Fractional Graph Operating Network**|Kai Zhao et.al.|[2411.05274v1](http://arxiv.org/abs/2411.05274v1)|[link](https://github.com/zknus/neurips-2024-dragon)|
-|**2024-07-25**|**AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**|Chunan Liu et.al.|[2407.18184v2](http://arxiv.org/abs/2407.18184v2)|[link](https://github.com/biochunan/asep-dataset)|
-|**2024-06-07**|**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**|Zhiyang Wang et.al.|[2406.05225v4](http://arxiv.org/abs/2406.05225v4)|null|
-|**2024-11-07**|**Exploiting the Structure of Two Graphs with Graph Neural Networks**|Victor M. Tenorio et.al.|[2411.05119v1](http://arxiv.org/abs/2411.05119v1)|[link](https://github.com/vmtenorio/io-gnn)|
-|**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907v1](http://arxiv.org/abs/2411.04907v1)|null|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
+|**2024-11-05**|**Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering**|Fabrianne Effendi et.al.|[2411.02926v2](http://arxiv.org/abs/2411.02926v2)|[link](https://github.com/fabecode/GraphML-FHE)|
+|**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v3](http://arxiv.org/abs/2401.12196v3)|null|
+|**2023-03-25**|**Deep Augmentation: Self-Supervised Learning with Transformations in Activation Space**|Rickard Brüel-Gabrielsson et.al.|[2303.14537v3](http://arxiv.org/abs/2303.14537v3)|null|
+|**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339v2](http://arxiv.org/abs/2409.07339v2)|[link](https://github.com/jintuzhang/gnncv)|
+|**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917v1](http://arxiv.org/abs/2411.06917v1)|null|
+|**2024-05-07**|**Federated Graph Condensation with Information Bottleneck Principles**|Bo Yan et.al.|[2405.03911v2](http://arxiv.org/abs/2405.03911v2)|null|
+|**2024-11-11**|**Predicting ionic conductivity in solids from the machine-learned potential energy landscape**|Artem Maevskiy et.al.|[2411.06804v1](http://arxiv.org/abs/2411.06804v1)|null|
+|**2023-06-20**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313v4](http://arxiv.org/abs/2306.11313v4)|null|
+|**2024-09-19**|**PRAGA: Prototype-aware Graph Adaptive Aggregation for Spatial Multi-modal Omics Analysis**|Xinlei Huang et.al.|[2409.12728v3](http://arxiv.org/abs/2409.12728v3)|null|
+|**2024-11-11**|**Shedding Light on Problems with Hyperbolic Graph Learning**|Isay Katsman et.al.|[2411.06688v1](http://arxiv.org/abs/2411.06688v1)|null|
+|**2024-11-11**|**Inductive Graph Few-shot Class Incremental Learning**|Yayong Li et.al.|[2411.06634v1](http://arxiv.org/abs/2411.06634v1)|null|
+|**2024-11-10**|**Graph Neural Networks for modelling breast biomechanical compression**|Hadeel Awwad et.al.|[2411.06596v1](http://arxiv.org/abs/2411.06596v1)|[link](https://github.com/hadiiiil/gnns-breastcompression)|
+|**2024-11-10**|**Towards Graph Neural Network Surrogates Leveraging Mechanistic Expert Knowledge for Pandemic Response**|Agatha Schmidt et.al.|[2411.06500v1](http://arxiv.org/abs/2411.06500v1)|null|
+|**2024-11-10**|**Deep Learning Approaches for BSM Physics: Evaluating DNN and GNN Performance in Particle Collision Event Classification**|Ali Çelik et.al.|[2411.06487v1](http://arxiv.org/abs/2411.06487v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -58,6 +58,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
 |**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v1](http://arxiv.org/abs/2411.05083v1)|null|
 |**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v3](http://arxiv.org/abs/2407.05114v3)|null|
 |**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v3](http://arxiv.org/abs/2306.03202v3)|null|
@@ -72,13 +73,17 @@
 |**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
 |**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
 |**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
-|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascal Zwick et.al.|[2410.08551v2](http://arxiv.org/abs/2410.08551v2)|[link](https://github.com/fzi-forschungszentrum-informatik/fadm)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
+|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
+|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
+|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
+|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
 |**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
 |**2024-01-29**|**Is K-fold cross validation the best model selection method for Machine Learning?**|Juan M Gorriz et.al.|[2401.16407v2](http://arxiv.org/abs/2401.16407v2)|null|
 |**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v3](http://arxiv.org/abs/2406.14856v3)|null|
@@ -89,8 +94,3 @@
 |**2024-11-07**|**Deep Learning Models for UAV-Assisted Bridge Inspection: A YOLO Benchmark Analysis**|Trong-Nhan Phan et.al.|[2411.04475v1](http://arxiv.org/abs/2411.04475v1)|null|
 |**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440v1](http://arxiv.org/abs/2411.04440v1)|null|
 |**2024-11-06**|**Adaptive signal recovery in sparse nonparametric models**|Natalia Stepanova et.al.|[2411.04320v1](http://arxiv.org/abs/2411.04320v1)|null|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v1](http://arxiv.org/abs/2411.04310v1)|null|
-|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471v2](http://arxiv.org/abs/2411.02471v2)|null|
-|**2024-11-06**|**Sparse Bayesian joint modal estimation for exploratory item factor analysis**|Keiichiro Hijikata et.al.|[2411.03992v1](http://arxiv.org/abs/2411.03992v1)|null|
-|**2024-11-05**|**Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs**|Wei Wang et.al.|[2411.03522v1](http://arxiv.org/abs/2411.03522v1)|null|
-|**2024-11-05**|**Bayesian Controlled FDR Variable Selection via Knockoffs**|Lorenzo Focardi-Olmi et.al.|[2411.03304v1](http://arxiv.org/abs/2411.03304v1)|null|
