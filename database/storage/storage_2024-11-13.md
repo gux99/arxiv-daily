@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-13 07:25:46 Asia/Shanghai
+ Automated deployment @ 2024-11-13 19:23:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -18,27 +18,29 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
-|**2024-11-05**|**Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering**|Fabrianne Effendi et.al.|[2411.02926v2](http://arxiv.org/abs/2411.02926v2)|[link](https://github.com/fabecode/GraphML-FHE)|
-|**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v3](http://arxiv.org/abs/2401.12196v3)|[link](https://github.com/guolab-cellmechanics/gnn-collective-cell-dynamics)|
-|**2023-03-25**|**Deep Augmentation: Self-Supervised Learning with Transformations in Activation Space**|Rickard Brüel-Gabrielsson et.al.|[2303.14537v3](http://arxiv.org/abs/2303.14537v3)|null|
-|**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339v2](http://arxiv.org/abs/2409.07339v2)|[link](https://github.com/jintuzhang/gnncv)|
-|**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917v1](http://arxiv.org/abs/2411.06917v1)|null|
-|**2024-05-07**|**Federated Graph Condensation with Information Bottleneck Principles**|Bo Yan et.al.|[2405.03911v2](http://arxiv.org/abs/2405.03911v2)|null|
-|**2024-11-11**|**Predicting ionic conductivity in solids from the machine-learned potential energy landscape**|Artem Maevskiy et.al.|[2411.06804v1](http://arxiv.org/abs/2411.06804v1)|null|
-|**2023-06-20**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313v4](http://arxiv.org/abs/2306.11313v4)|null|
-|**2024-09-19**|**PRAGA: Prototype-aware Graph Adaptive Aggregation for Spatial Multi-modal Omics Analysis**|Xinlei Huang et.al.|[2409.12728v3](http://arxiv.org/abs/2409.12728v3)|null|
-|**2024-11-11**|**Shedding Light on Problems with Hyperbolic Graph Learning**|Isay Katsman et.al.|[2411.06688v1](http://arxiv.org/abs/2411.06688v1)|null|
-|**2024-11-11**|**Inductive Graph Few-shot Class Incremental Learning**|Yayong Li et.al.|[2411.06634v1](http://arxiv.org/abs/2411.06634v1)|null|
-|**2024-11-10**|**Graph Neural Networks for modelling breast biomechanical compression**|Hadeel Awwad et.al.|[2411.06596v1](http://arxiv.org/abs/2411.06596v1)|[link](https://github.com/hadiiiil/gnns-breastcompression)|
-|**2024-11-10**|**Towards Graph Neural Network Surrogates Leveraging Mechanistic Expert Knowledge for Pandemic Response**|Agatha Schmidt et.al.|[2411.06500v1](http://arxiv.org/abs/2411.06500v1)|null|
-|**2024-11-10**|**Deep Learning Approaches for BSM Physics: Evaluating DNN and GNN Performance in Particle Collision Event Classification**|Ali Çelik et.al.|[2411.06487v1](http://arxiv.org/abs/2411.06487v1)|null|
+|**2024-11-04**|**On the Utilization of Unique Node Identifiers in Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2411.02271v2](http://arxiv.org/abs/2411.02271v2)|null|
+|**2024-07-12**|**Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v2](http://arxiv.org/abs/2407.09434v2)|null|
+|**2024-06-07**|**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**|Zhiyang Wang et.al.|[2406.05225v5](http://arxiv.org/abs/2406.05225v5)|null|
+|**2024-03-26**|**Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network**|Yilun Zheng et.al.|[2403.17351v2](http://arxiv.org/abs/2403.17351v2)|[link](https://github.com/zylMozart/HiGNN)|
+|**2024-11-12**|**Rethinking Structure Learning For Graph Neural Networks**|Yilun Zheng et.al.|[2411.07672v1](http://arxiv.org/abs/2411.07672v1)|null|
+|**2024-11-12**|**Is Graph Convolution Always Beneficial For Every Feature?**|Yilun Zheng et.al.|[2411.07663v1](http://arxiv.org/abs/2411.07663v1)|null|
+|**2024-11-12**|**xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer**|Marvin Sextro et.al.|[2411.07643v1](http://arxiv.org/abs/2411.07643v1)|null|
+|**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608v1](http://arxiv.org/abs/2411.07608v1)|null|
+|**2023-06-12**|**Graph Agent Network: Empowering Nodes with Inference Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v4](http://arxiv.org/abs/2306.06909v4)|null|
+|**2024-03-26**|**Identifying Backdoored Graphs in Graph Neural Network Training: An Explanation-Based Approach with Novel Metrics**|Jane Downer et.al.|[2403.18136v2](http://arxiv.org/abs/2403.18136v2)|null|
+|**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538v2](http://arxiv.org/abs/2409.08538v2)|null|
+|**2024-11-12**|**Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling**|Jinming Xing et.al.|[2411.07482v1](http://arxiv.org/abs/2411.07482v1)|null|
+|**2024-11-12**|**Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes**|Jesse He et.al.|[2411.07467v1](http://arxiv.org/abs/2411.07467v1)|null|
+|**2023-11-02**|**Explainable Identification of Hate Speech towards Islam using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2311.04916v4](http://arxiv.org/abs/2311.04916v4)|null|
+|**2024-06-02**|**Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets**|Joshua Collyer et.al.|[2406.02606v2](http://arxiv.org/abs/2406.02606v2)|[link](https://github.com/br0kej/kyn)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
 |**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
 |**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
 |**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
@@ -52,29 +54,8 @@
 |**2024-06-13**|**A geometric approach to informed MCMC sampling**|Vivekananda Roy et.al.|[2406.09010v2](http://arxiv.org/abs/2406.09010v2)|null|
 |**2024-04-04**|**Predictive Analytics of Varieties of Potatoes**|Fabiana Ferracina et.al.|[2404.03701v4](http://arxiv.org/abs/2404.03701v4)|[link](https://github.com/fabstat/burbank)|
 |**2024-11-07**|**Deep Learning Models for UAV-Assisted Bridge Inspection: A YOLO Benchmark Analysis**|Trong-Nhan Phan et.al.|[2411.04475v1](http://arxiv.org/abs/2411.04475v1)|null|
-|**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440v1](http://arxiv.org/abs/2411.04440v1)|null|
-|**2024-11-06**|**Adaptive signal recovery in sparse nonparametric models**|Natalia Stepanova et.al.|[2411.04320v1](http://arxiv.org/abs/2411.04320v1)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
-|**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v1](http://arxiv.org/abs/2411.05083v1)|null|
-|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v3](http://arxiv.org/abs/2407.05114v3)|null|
-|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v3](http://arxiv.org/abs/2306.03202v3)|null|
-|**2024-03-08**|**Fréchet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v3](http://arxiv.org/abs/2403.05352v3)|[link](https://github.com/jiajie96/FDD_pytorch)|
-|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v1](http://arxiv.org/abs/2411.01034v1)|null|
-|**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551v2](http://arxiv.org/abs/2410.22551v2)|null|
-|**2024-10-30**|**Hilbert and Fréchet bundle versions of the Harish-Chandra and Whittaker Plancherel Theorems**|Nolan R. Wallach et.al.|[2410.23226v1](http://arxiv.org/abs/2410.23226v1)|null|
-|**2024-05-16**|**A note on continuity and asymptotic consistency of measures of risk and variability**|Niushan Gao et.al.|[2405.09766v2](http://arxiv.org/abs/2405.09766v2)|null|
-|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v1](http://arxiv.org/abs/2410.17889v1)|null|
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
-|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
-|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
-|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
-|**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -94,3 +75,22 @@
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
+|**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v1](http://arxiv.org/abs/2411.05083v1)|null|
+|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v3](http://arxiv.org/abs/2407.05114v3)|null|
+|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v3](http://arxiv.org/abs/2306.03202v3)|null|
+|**2024-03-08**|**Fréchet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v3](http://arxiv.org/abs/2403.05352v3)|[link](https://github.com/jiajie96/FDD_pytorch)|
+|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v1](http://arxiv.org/abs/2411.01034v1)|null|
+|**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551v2](http://arxiv.org/abs/2410.22551v2)|null|
+|**2024-10-30**|**Hilbert and Fréchet bundle versions of the Harish-Chandra and Whittaker Plancherel Theorems**|Nolan R. Wallach et.al.|[2410.23226v1](http://arxiv.org/abs/2410.23226v1)|null|
+|**2024-05-16**|**A note on continuity and asymptotic consistency of measures of risk and variability**|Niushan Gao et.al.|[2405.09766v2](http://arxiv.org/abs/2405.09766v2)|null|
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v1](http://arxiv.org/abs/2410.17889v1)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
+|**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
+|**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
+|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
+|**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
