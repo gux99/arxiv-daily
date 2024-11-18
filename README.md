@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-18 07:26:46 Asia/Shanghai
+ Automated deployment @ 2024-11-18 19:25:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -18,8 +18,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**Bitcoin Research with a Transaction Graph Dataset**|Hugo Schnoering et.al.|[2411.10325v1](http://arxiv.org/abs/2411.10325v1)|null|
+|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986v2](http://arxiv.org/abs/2409.17986v2)|null|
+|**2024-06-04**|**Graph Neural Networks Do Not Always Oversmooth**|Bastian Epping et.al.|[2406.02269v2](http://arxiv.org/abs/2406.02269v2)|[link](https://github.com/bepping/non-oversmoothing-gcns)|
+|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v2](http://arxiv.org/abs/2411.09476v2)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000v1](http://arxiv.org/abs/2411.10000v1)|null|
 |**2024-03-16**|**CSI Transfer From Sub-6G to mmWave: Reduced-Overhead Multi-User Hybrid Beamforming**|Weicao Deng et.al.|[2403.10873v2](http://arxiv.org/abs/2403.10873v2)|null|
-|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476v1](http://arxiv.org/abs/2411.09476v1)|null|
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
 |**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251v1](http://arxiv.org/abs/2411.09251v1)|null|
 |**2024-11-14**|**Neural Graph Simulator for Complex Systems**|Hoyun Choi et.al.|[2411.09120v1](http://arxiv.org/abs/2411.09120v1)|null|
@@ -29,16 +33,34 @@
 |**2024-11-13**|**Flow reconstruction in time-varying geometries using graph neural networks**|Bogdan A. Danciu et.al.|[2411.08764v1](http://arxiv.org/abs/2411.08764v1)|null|
 |**2024-11-13**|**ScaleNet: Scale Invariance Learning in Directed Graphs**|Qin Jiang et.al.|[2411.08758v1](http://arxiv.org/abs/2411.08758v1)|[link](https://github.com/qin87/scalenet)|
 |**2024-11-13**|**Gaussian Mixture Models Based Augmentation Enhances GNN Generalization**|Yassine Abbahaddou et.al.|[2411.08638v1](http://arxiv.org/abs/2411.08638v1)|null|
-|**2024-11-13**|**TDGCN-Based Mobile Multiuser Physical-Layer Authentication for EI-Enabled IIoT**|Rui Meng et.al.|[2411.08628v1](http://arxiv.org/abs/2411.08628v1)|null|
-|**2024-10-17**|**GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation**|Ziwei Yang et.al.|[2410.13178v2](http://arxiv.org/abs/2410.13178v2)|null|
-|**2024-11-13**|**Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks**|Azmine Toushik Wasi et.al.|[2411.08550v1](http://arxiv.org/abs/2411.08550v1)|[link](https://github.com/CIOL-SUST/SCG)|
-|**2024-11-05**|**DM4Steal: Diffusion Model For Link Stealing Attack On Graph Neural Networks**|Jinyin Chen et.al.|[2411.03364v2](http://arxiv.org/abs/2411.03364v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-03**|**Bayesian compositional regression with flexible microbiome feature aggregation and selection**|Satabdi Saha et.al.|[2406.01557v2](http://arxiv.org/abs/2406.01557v2)|null|
+|**2024-11-15**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v1](http://arxiv.org/abs/2411.10154v1)|null|
+|**2024-11-15**|**Explanation of the exceptionally strong timing noise of PSR J0337+1715 by a circum-ternary planet and consequences for gravity tests**|Guillaume Voisin et.al.|[2411.10066v1](http://arxiv.org/abs/2411.10066v1)|null|
+|**2024-11-14**|**Evaluating Gender Bias in Large Language Models**|Michael Döll et.al.|[2411.09826v1](http://arxiv.org/abs/2411.09826v1)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
+|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301v1](http://arxiv.org/abs/2411.09301v1)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
+|**2024-11-14**|**On the Selection Stability of Stability Selection and Its Applications**|Mahdi Nouraie et.al.|[2411.09097v1](http://arxiv.org/abs/2411.09097v1)|[link](https://github.com/MahdiNouraie/stabplot)|
+|**2024-09-03**|**Variable selection in convex nonparametric least squares via structured Lasso: An application to the Swedish electricity distribution networks**|Zhiqiang Liao et.al.|[2409.01911v2](http://arxiv.org/abs/2409.01911v2)|[link](https://github.com/zhiqiangliao/HDCR)|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v4](http://arxiv.org/abs/2206.04902v4)|null|
+|**2024-11-13**|**Adaptive Shrinkage with a Nonparametric Bayesian Lasso**|Santiago Marin et.al.|[2411.08262v1](http://arxiv.org/abs/2411.08262v1)|null|
+|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v1](http://arxiv.org/abs/2411.08205v1)|null|
+|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
+|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
+|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v3](http://arxiv.org/abs/2212.06304v3)|null|
 |**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v1](http://arxiv.org/abs/2411.08087v1)|null|
 |**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
 |**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v1](http://arxiv.org/abs/2411.05083v1)|null|
@@ -53,7 +75,6 @@
 |**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v1](http://arxiv.org/abs/2410.17214v1)|null|
 |**2024-10-02**|**On metric choice in dimension reduction for Fréchet regression**|Abdul-Nasah Soale et.al.|[2410.01783v2](http://arxiv.org/abs/2410.01783v2)|null|
 |**2024-10-18**|**SIMformer: Single-Layer Vanilla Transformer Can Learn Free-Space Trajectory Similarity**|Chuang Yang et.al.|[2410.14629v1](http://arxiv.org/abs/2410.14629v1)|null|
-|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v2](http://arxiv.org/abs/2407.05231v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,24 +94,3 @@
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|[link](https://github.com/shams-mehdi/aib9_openmm)|
-|**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301v1](http://arxiv.org/abs/2411.09301v1)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
-|**2024-11-14**|**On the Selection Stability of Stability Selection and Its Applications**|Mahdi Nouraie et.al.|[2411.09097v1](http://arxiv.org/abs/2411.09097v1)|[link](https://github.com/MahdiNouraie/stabplot)|
-|**2024-09-03**|**Variable selection in convex nonparametric least squares via structured Lasso: An application to the Swedish electricity distribution networks**|Zhiqiang Liao et.al.|[2409.01911v2](http://arxiv.org/abs/2409.01911v2)|[link](https://github.com/zhiqiangliao/HDCR)|
-|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v4](http://arxiv.org/abs/2206.04902v4)|null|
-|**2024-11-13**|**Adaptive Shrinkage with a Nonparametric Bayesian Lasso**|Santiago Marin et.al.|[2411.08262v1](http://arxiv.org/abs/2411.08262v1)|null|
-|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v1](http://arxiv.org/abs/2411.08205v1)|null|
-|**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874v1](http://arxiv.org/abs/2411.07874v1)|null|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
-|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v1](http://arxiv.org/abs/2411.06624v1)|null|
-|**2024-11-10**|**Mitigating covariate shift in non-colocated data with learned parameter priors**|Behraj Khan et.al.|[2411.06499v1](http://arxiv.org/abs/2411.06499v1)|null|
-|**2024-11-09**|**Efficient subsampling for high-dimensional data**|Vasilis Chasiotis et.al.|[2411.06298v1](http://arxiv.org/abs/2411.06298v1)|null|
-|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v2](http://arxiv.org/abs/2408.07066v2)|null|
-|**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069v1](http://arxiv.org/abs/2411.06069v1)|null|
-|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v3](http://arxiv.org/abs/2302.10160v3)|[link](https://github.com/kw2934/krr)|
