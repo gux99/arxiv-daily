@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-29 07:27:02 Asia/Shanghai
+ Automated deployment @ 2024-11-29 19:24:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -23,7 +23,7 @@
 |**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321v1](http://arxiv.org/abs/2411.18321v1)|null|
 |**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708v2](http://arxiv.org/abs/2402.14708v2)|null|
 |**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782v2](http://arxiv.org/abs/2410.11782v2)|null|
-|**2023-10-17**|**Enhancing Signed Graph Neural Networks through Curriculum-Based Training**|Zeyu Zhang et.al.|[2310.11083v2](http://arxiv.org/abs/2310.11083v2)|null|
+|**2023-10-17**|**Enhancing Signed Graph Neural Networks through Curriculum-Based Training**|Zeyu Zhang et.al.|[2310.11083v2](http://arxiv.org/abs/2310.11083v2)|[link](https://github.com/alex-zeyu/csg)|
 |**2024-06-20**|**Graph Neural Networks for Job Shop Scheduling Problems: A Survey**|Igor G. Smit et.al.|[2406.14096v2](http://arxiv.org/abs/2406.14096v2)|null|
 |**2024-11-21**|**Heterophilic Graph Neural Networks Optimization with Causal Message-passing**|Botao Wang et.al.|[2411.13821v2](http://arxiv.org/abs/2411.13821v2)|null|
 |**2024-11-27**|**Causal and Local Correlations Based Network for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.18008v1](http://arxiv.org/abs/2411.18008v1)|null|
@@ -91,6 +91,6 @@
 |**2024-11-26**|**Sparse twoblock dimension reduction for simultaneous compression and variable selection in two blocks of variables**|Sven Serneels et.al.|[2411.17859v1](http://arxiv.org/abs/2411.17859v1)|null|
 |**2024-11-26**|**Variable selection via fused sparse-group lasso penalized multi-state models incorporating molecular data**|Kaya Miah et.al.|[2411.17394v1](http://arxiv.org/abs/2411.17394v1)|null|
 |**2024-11-26**|**ER2Score: LLM-based Explainable and Customizable Metric for Assessing Radiology Reports with Reward-Control Loss**|Yunyi Liu et.al.|[2411.17301v1](http://arxiv.org/abs/2411.17301v1)|null|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v1](http://arxiv.org/abs/2411.17284v1)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v1](http://arxiv.org/abs/2411.17284v1)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
 |**2023-02-07**|**Examination of Nonlinear Longitudinal Processes with Latent Variables, Latent Processes, Latent Changes, and Latent Classes in the Structural Equation Modeling Framework: The R package nlpsem**|Jin Liu et.al.|[2302.03237v5](http://arxiv.org/abs/2302.03237v5)|null|
 |**2023-11-07**|**Unsupervised Video Summarization via Iterative Training and Simplified GAN**|Hanqing Li et.al.|[2311.03745v2](http://arxiv.org/abs/2311.03745v2)|[link](https://github.com/hanklee97121/SUM-SR-5iter)|
