@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-08 07:26:21 Asia/Shanghai
+ Automated deployment @ 2024-12-08 19:23:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -26,13 +26,34 @@
 |**2024-05-01**|**How Graph Neural Network Interatomic Potentials Extrapolate: Role of the Message-Passing Algorithm**|Sungwoo Kang et.al.|[2405.00290v3](http://arxiv.org/abs/2405.00290v3)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913v1](http://arxiv.org/abs/2412.03913v1)|null|
 |**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864v1](http://arxiv.org/abs/2412.03864v1)|[link](https://github.com/zehong-wang/simmlp)|
+|**2021-12-28**|**Online Adversarial Knowledge Distillation for Graph Neural Networks**|Can Wang et.al.|[2112.13966v2](http://arxiv.org/abs/2112.13966v2)|null|
 |**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783v1](http://arxiv.org/abs/2412.03783v1)|null|
 |**2024-10-30**|**PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation**|Ryozo Masukawa et.al.|[2410.22623v2](http://arxiv.org/abs/2410.22623v2)|null|
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761v1](http://arxiv.org/abs/2412.03761v1)|null|
 |**2024-04-12**|**Phase transitions of correlated systems from graph neural networks with quantum embedding techniques**|Rishi Rao et.al.|[2404.08782v3](http://arxiv.org/abs/2404.08782v3)|null|
 |**2024-12-04**|**Explainable Malware Detection through Integrated Graph Reduction and Learning Techniques**|Hesamodin Mohammadian et.al.|[2412.03634v1](http://arxiv.org/abs/2412.03634v1)|null|
 |**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541v1](http://arxiv.org/abs/2412.03541v1)|null|
-|**2024-12-04**|**Contextual Data Integration for Bike-sharing Demand Prediction with Graph Neural Networks in Degraded Weather Conditions**|Romain Rochas et.al.|[2412.03307v1](http://arxiv.org/abs/2412.03307v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-22**|**Iterative Reweighted Framework Based Algorithms for Sparse Linear Regression with Generalized Elastic Net Penalty**|Yanyun Ding et.al.|[2411.14875v2](http://arxiv.org/abs/2411.14875v2)|null|
+|**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797v1](http://arxiv.org/abs/2412.03797v1)|[link](https://github.com/tbaghfalaki/vsjm)|
+|**2024-12-04**|**Evaluating Language Models as Synthetic Data Generators**|Seungone Kim et.al.|[2412.03679v1](http://arxiv.org/abs/2412.03679v1)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v2](http://arxiv.org/abs/2408.02060v2)|null|
+|**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484v1](http://arxiv.org/abs/2412.03484v1)|null|
+|**2024-01-24**|**Assessing Influential Observations in Pain Prediction using fMRI Data**|Dongliang Zhang et.al.|[2401.13208v2](http://arxiv.org/abs/2401.13208v2)|null|
+|**2024-12-04**|**Detection of Multiple Influential Observations on Model Selection**|Dongliang Zhang et.al.|[2412.02945v1](http://arxiv.org/abs/2412.02945v1)|null|
+|**2024-12-03**|**Reply to "Comment on 'Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection'"**|Patrick Daley et.al.|[2412.02829v1](http://arxiv.org/abs/2412.02829v1)|null|
+|**2024-12-03**|**Model Determination for High-Dimensional Longitudinal Data with Missing Observations: An Application to Microfinance Data**|Lotta Rüter et.al.|[2412.02440v1](http://arxiv.org/abs/2412.02440v1)|[link](https://github.com/lottarueter/aMIRL)|
+|**2024-12-03**|**Internalist Reliabilism in Statistics and Machine Learning: Thoughts on Jun Otsuka's Thinking about Statistics**|Hanti Lin et.al.|[2412.02367v1](http://arxiv.org/abs/2412.02367v1)|null|
+|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v2](http://arxiv.org/abs/2411.19146v2)|null|
+|**2024-12-02**|**The Deep Latent Position Block Model For The Block Clustering And Latent Representation Of Networks**|Rémi Boutin et.al.|[2412.01302v1](http://arxiv.org/abs/2412.01302v1)|null|
+|**2024-12-02**|**Stochastic Search Variable Selection for Bayesian Generalized Linear Mixed Effect Models**|Feng Ding et.al.|[2412.01084v1](http://arxiv.org/abs/2412.01084v1)|null|
+|**2024-12-01**|**Bayesian feature selection in joint models with application to a cardiovascular disease cohort study**|Mirajul Islam et.al.|[2412.00885v1](http://arxiv.org/abs/2412.00885v1)|null|
+|**2024-11-30**|**Optimal Particle-based Approximation of Discrete Distributions (OPAD)**|Hadi Mohasel Afshar et.al.|[2412.00545v1](http://arxiv.org/abs/2412.00545v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -73,24 +94,3 @@
 |**2024-03-08**|**Fréchet Denoised Distance: Enhancing Plausibility Evaluation for Generated Designs with Denoising Autoencoder**|Jiajie Fan et.al.|[2403.05352v3](http://arxiv.org/abs/2403.05352v3)|[link](https://github.com/jiajie96/FDD_pytorch)|
 |**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v1](http://arxiv.org/abs/2411.01034v1)|null|
 |**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551v2](http://arxiv.org/abs/2410.22551v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-22**|**Iterative Reweighted Framework Based Algorithms for Sparse Linear Regression with Generalized Elastic Net Penalty**|Yanyun Ding et.al.|[2411.14875v2](http://arxiv.org/abs/2411.14875v2)|null|
-|**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797v1](http://arxiv.org/abs/2412.03797v1)|[link](https://github.com/tbaghfalaki/vsjm)|
-|**2024-12-04**|**Evaluating Language Models as Synthetic Data Generators**|Seungone Kim et.al.|[2412.03679v1](http://arxiv.org/abs/2412.03679v1)|null|
-|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v2](http://arxiv.org/abs/2408.02060v2)|null|
-|**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484v1](http://arxiv.org/abs/2412.03484v1)|null|
-|**2024-01-24**|**Assessing Influential Observations in Pain Prediction using fMRI Data**|Dongliang Zhang et.al.|[2401.13208v2](http://arxiv.org/abs/2401.13208v2)|null|
-|**2024-12-04**|**Detection of Multiple Influential Observations on Model Selection**|Dongliang Zhang et.al.|[2412.02945v1](http://arxiv.org/abs/2412.02945v1)|null|
-|**2024-12-03**|**Reply to "Comment on 'Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection'"**|Patrick Daley et.al.|[2412.02829v1](http://arxiv.org/abs/2412.02829v1)|null|
-|**2024-12-03**|**Model Determination for High-Dimensional Longitudinal Data with Missing Observations: An Application to Microfinance Data**|Lotta Rüter et.al.|[2412.02440v1](http://arxiv.org/abs/2412.02440v1)|[link](https://github.com/lottarueter/aMIRL)|
-|**2024-12-03**|**Internalist Reliabilism in Statistics and Machine Learning: Thoughts on Jun Otsuka's Thinking about Statistics**|Hanti Lin et.al.|[2412.02367v1](http://arxiv.org/abs/2412.02367v1)|null|
-|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v2](http://arxiv.org/abs/2411.19146v2)|null|
-|**2024-12-02**|**The Deep Latent Position Block Model For The Block Clustering And Latent Representation Of Networks**|Rémi Boutin et.al.|[2412.01302v1](http://arxiv.org/abs/2412.01302v1)|null|
-|**2024-12-02**|**Stochastic Search Variable Selection for Bayesian Generalized Linear Mixed Effect Models**|Feng Ding et.al.|[2412.01084v1](http://arxiv.org/abs/2412.01084v1)|null|
-|**2024-12-01**|**Bayesian feature selection in joint models with application to a cardiovascular disease cohort study**|Mirajul Islam et.al.|[2412.00885v1](http://arxiv.org/abs/2412.00885v1)|null|
-|**2024-11-30**|**Optimal Particle-based Approximation of Discrete Distributions (OPAD)**|Hadi Mohasel Afshar et.al.|[2412.00545v1](http://arxiv.org/abs/2412.00545v1)|null|
