@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-14 07:27:23 Asia/Shanghai
+ Automated deployment @ 2024-12-14 19:23:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -37,25 +37,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-16**|**Quantifying Individual Risk for Binary Outcome**|Peng Wu et.al.|[2402.10537v2](http://arxiv.org/abs/2402.10537v2)|null|
-|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v1](http://arxiv.org/abs/2412.07948v1)|null|
-|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v1](http://arxiv.org/abs/2412.06011v1)|null|
-|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v4](http://arxiv.org/abs/2307.15955v4)|null|
-|**2024-12-06**|**Taylor spectrum of a Banach module over the quantum plane**|Anar Dosi et.al.|[2412.04824v1](http://arxiv.org/abs/2412.04824v1)|null|
-|**2024-12-06**|**Noncommutative complex analytic geometry of a contractive quantum plane**|Anar Dosi et.al.|[2412.04823v1](http://arxiv.org/abs/2412.04823v1)|null|
-|**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957v1](http://arxiv.org/abs/2412.03957v1)|null|
-|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v3](http://arxiv.org/abs/2407.03101v3)|[link](https://github.com/sarielhp/frechetdist.jl)|
-|**2024-12-03**|**Cardinal Properties of the Space of Quasicontinuous Functions under Topology of Uniform Convergence on Compact Subsets**|Chander Mohan Bishnoi et.al.|[2412.02209v1](http://arxiv.org/abs/2412.02209v1)|null|
-|**2024-12-02**|**Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions**|Oriana Presacan et.al.|[2412.01255v1](http://arxiv.org/abs/2412.01255v1)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
-|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v3](http://arxiv.org/abs/2311.12070v3)|null|
-|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v2](http://arxiv.org/abs/2410.17889v2)|null|
-|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v3](http://arxiv.org/abs/2212.06304v3)|null|
-|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v1](http://arxiv.org/abs/2411.08087v1)|null|
-|**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,6 +55,25 @@
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-16**|**Quantifying Individual Risk for Binary Outcome**|Peng Wu et.al.|[2402.10537v2](http://arxiv.org/abs/2402.10537v2)|null|
+|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v1](http://arxiv.org/abs/2412.07948v1)|null|
+|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v1](http://arxiv.org/abs/2412.06011v1)|null|
+|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v4](http://arxiv.org/abs/2307.15955v4)|null|
+|**2024-12-06**|**Taylor spectrum of a Banach module over the quantum plane**|Anar Dosi et.al.|[2412.04824v1](http://arxiv.org/abs/2412.04824v1)|null|
+|**2024-12-06**|**Noncommutative complex analytic geometry of a contractive quantum plane**|Anar Dosi et.al.|[2412.04823v1](http://arxiv.org/abs/2412.04823v1)|null|
+|**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957v1](http://arxiv.org/abs/2412.03957v1)|null|
+|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v3](http://arxiv.org/abs/2407.03101v3)|[link](https://github.com/sarielhp/frechetdist.jl)|
+|**2024-12-03**|**Cardinal Properties of the Space of Quasicontinuous Functions under Topology of Uniform Convergence on Compact Subsets**|Chander Mohan Bishnoi et.al.|[2412.02209v1](http://arxiv.org/abs/2412.02209v1)|null|
+|**2024-12-02**|**Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions**|Oriana Presacan et.al.|[2412.01255v1](http://arxiv.org/abs/2412.01255v1)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
+|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v3](http://arxiv.org/abs/2311.12070v3)|null|
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v2](http://arxiv.org/abs/2410.17889v2)|null|
+|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v3](http://arxiv.org/abs/2212.06304v3)|null|
+|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v1](http://arxiv.org/abs/2411.08087v1)|null|
+|**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376v1](http://arxiv.org/abs/2411.06376v1)|null|
 
 ## Variable Selection
 
