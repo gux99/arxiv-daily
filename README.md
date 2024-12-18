@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-18 07:26:28 Asia/Shanghai
+ Automated deployment @ 2024-12-18 19:24:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,27 +19,30 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034v1](http://arxiv.org/abs/2412.12034v1)|null|
-|**2024-12-16**|**Learning interactions between Rydberg atoms**|Olivier Simard et.al.|[2412.12019v1](http://arxiv.org/abs/2412.12019v1)|null|
-|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
-|**2024-12-16**|**BetaExplainer: A Probabilistic Method to Explain Graph Neural Networks**|Whitney Sloneker et.al.|[2412.11964v1](http://arxiv.org/abs/2412.11964v1)|[link](https://github.com/wsloneker/betaexplainerdemo)|
-|**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775v1](http://arxiv.org/abs/2412.11775v1)|null|
-|**2024-12-16**|**Asymmetric Learning for Spectral Graph Neural Networks**|Fangbing Liu et.al.|[2412.11739v1](http://arxiv.org/abs/2412.11739v1)|[link](https://github.com/mia-321/asym-opt)|
-|**2024-12-16**|**Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654v1](http://arxiv.org/abs/2412.11654v1)|[link](https://github.com/cwei01/tdss)|
-|**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618v1](http://arxiv.org/abs/2412.11618v1)|null|
-|**2024-12-11**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160v3](http://arxiv.org/abs/2412.08160v3)|[link](https://github.com/RingBDStack/DG-Mamba)|
-|**2024-09-19**|**PRAGA: Prototype-aware Graph Adaptive Aggregation for Spatial Multi-modal Omics Analysis**|Xinlei Huang et.al.|[2409.12728v4](http://arxiv.org/abs/2409.12728v4)|[link](https://github.com/xubin-s-lab/praga)|
-|**2024-10-14**|**PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets**|Ali Kashefi et.al.|[2410.10084v2](http://arxiv.org/abs/2410.10084v2)|[link](https://github.com/ali-stanford/pointnet_kan_graphic)|
-|**2024-03-31**|**PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning**|Weihua Hu et.al.|[2404.00776v2](http://arxiv.org/abs/2404.00776v2)|[link](https://github.com/pyg-team/pytorch-frame)|
-|**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v2](http://arxiv.org/abs/2412.08174v2)|null|
-|**2024-12-15**|**A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers**|Ashish Parmanand Pandey et.al.|[2412.11293v1](http://arxiv.org/abs/2412.11293v1)|null|
-|**2024-06-07**|**GENIE: Watermarking Graph Neural Networks for Link Prediction**|Venkata Sai Pranav Bachina et.al.|[2406.04805v2](http://arxiv.org/abs/2406.04805v2)|null|
+|**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984v1](http://arxiv.org/abs/2412.12984v1)|null|
+|**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444v2](http://arxiv.org/abs/2412.09444v2)|null|
+|**2024-12-17**|**Towards Effective Graph Rationalization via Boosting Environment Diversity**|Yujie Wang et.al.|[2412.12880v1](http://arxiv.org/abs/2412.12880v1)|null|
+|**2024-12-17**|**A Multigrid Graph U-Net Framework for Simulating Multiphase Flow in Heterogeneous Porous Media**|Jiamin Jiang et.al.|[2412.12757v1](http://arxiv.org/abs/2412.12757v1)|null|
+|**2024-10-22**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822v2](http://arxiv.org/abs/2410.16822v2)|null|
+|**2023-06-01**|**Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features**|Kunal Mukherjee et.al.|[2306.00934v5](http://arxiv.org/abs/2306.00934v5)|null|
+|**2023-09-19**|**Multi-Object Graph Affordance Network: Goal-Oriented Planning through Learned Compound Object Affordances**|Tuba Girgin et.al.|[2309.10426v4](http://arxiv.org/abs/2309.10426v4)|null|
+|**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685v2](http://arxiv.org/abs/2408.08685v2)|[link](https://github.com/zhongjian-zhang/llm4rgnn)|
+|**2024-12-17**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483v1](http://arxiv.org/abs/2412.12483v1)|[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)|
+|**2024-12-14**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912v2](http://arxiv.org/abs/2412.10912v2)|[link](https://github.com/lzyfischer/inductivest)|
+|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456v1](http://arxiv.org/abs/2412.12456v1)|null|
+|**2023-02-26**|**Discovering Top-k Structural Hole Spanners in Dynamic Networks**|Diksha Goel et.al.|[2302.13292v2](http://arxiv.org/abs/2302.13292v2)|null|
+|**2024-12-16**|**DeepSN: A Sheaf Neural Framework for Influence Maximization**|Asela Hevapathige et.al.|[2412.12416v1](http://arxiv.org/abs/2412.12416v1)|null|
+|**2024-12-16**|**Feasibility Study of Measuring $Λ^0\to nπ^{0}$ Using a High-Granularity Zero-Degree Calorimeter at the Future Electron-Ion Collider**|Sebouh J. Paul et.al.|[2412.12346v1](http://arxiv.org/abs/2412.12346v1)|null|
+|**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v1](http://arxiv.org/abs/2412.12318v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-17**|**Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance**|Hsin-Hsiung Huang et.al.|[2412.13122v1](http://arxiv.org/abs/2412.13122v1)|null|
+|**2024-12-17**|**Parameter-free higher-order Schrodinger systems with weak dissipation and forcing**|Jack Keeler et.al.|[2412.13038v1](http://arxiv.org/abs/2412.13038v1)|null|
+|**2024-12-17**|**Addressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling**|Iman Khazrak et.al.|[2412.12532v1](http://arxiv.org/abs/2412.12532v1)|[link](https://github.com/imankhazrak/DDPM_X-Ray)|
 |**2024-12-16**|**Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks**|Naoki Sato et.al.|[2412.11400v1](http://arxiv.org/abs/2412.11400v1)|null|
 |**2024-02-16**|**Quantifying Individual Risk for Binary Outcome**|Peng Wu et.al.|[2402.10537v2](http://arxiv.org/abs/2402.10537v2)|null|
 |**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v1](http://arxiv.org/abs/2412.07948v1)|null|
@@ -52,9 +55,6 @@
 |**2024-12-03**|**Cardinal Properties of the Space of Quasicontinuous Functions under Topology of Uniform Convergence on Compact Subsets**|Chander Mohan Bishnoi et.al.|[2412.02209v1](http://arxiv.org/abs/2412.02209v1)|null|
 |**2024-12-02**|**Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions**|Oriana Presacan et.al.|[2412.01255v1](http://arxiv.org/abs/2412.01255v1)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
 |**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v3](http://arxiv.org/abs/2311.12070v3)|null|
-|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889v2](http://arxiv.org/abs/2410.17889v2)|null|
-|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v3](http://arxiv.org/abs/2212.06304v3)|null|
-|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v1](http://arxiv.org/abs/2411.08087v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,6 +80,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v2](http://arxiv.org/abs/2401.13379v2)|null|
+|**2024-12-17**|**MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**|Nianqi Li et.al.|[2412.12609v1](http://arxiv.org/abs/2412.12609v1)|[link](https://github.com/nianqi-li/multilingpot)|
+|**2024-12-16**|**Generalized entropy calibration for analyzing voluntary survey data**|Yonghyun Kwon et.al.|[2412.12405v1](http://arxiv.org/abs/2412.12405v1)|null|
 |**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v2](http://arxiv.org/abs/2311.13015v2)|[link](https://github.com/muhangtian/gfr-experiments)|
 |**2024-12-15**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al.|[2412.11142v1](http://arxiv.org/abs/2412.11142v1)|[link](https://github.com/usc-fortis/ad-llm)|
 |**2024-06-12**|**Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge**|Lin Shi et.al.|[2406.07791v7](http://arxiv.org/abs/2406.07791v7)|[link](https://github.com/Slimshilin/Position-Bias-Analyzer-Demo)|
@@ -91,7 +94,4 @@
 |**2024-08-30**|**Estimating Conditional Average Treatment Effects via Sufficient Representation Learning**|Pengfei Shi et.al.|[2408.17053v2](http://arxiv.org/abs/2408.17053v2)|null|
 |**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v4](http://arxiv.org/abs/2406.14856v4)|null|
 |**2024-12-12**|**Investigating the Impact of Balancing, Filtering, and Complexity on Predictive Multiplicity: A Data-Centric Perspective**|Mustafa Cavus et.al.|[2412.09712v1](http://arxiv.org/abs/2412.09712v1)|[link](https://github.com/mcavs/data_centric_rashomon_paper)|
-|**2024-12-12**|**Gradient-Boosted Mixture Regression Models for Postprocessing Ensemble Weather Forecasts**|David Jobst et.al.|[2412.09583v1](http://arxiv.org/abs/2412.09583v1)|null|
-|**2024-12-12**|**Foundational Large Language Models for Materials Research**|Vaibhav Mishra et.al.|[2412.09560v1](http://arxiv.org/abs/2412.09560v1)|null|
-|**2024-09-14**|**Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types**|Neelabh Sinha et.al.|[2409.09269v3](http://arxiv.org/abs/2409.09269v3)|null|
-|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v4](http://arxiv.org/abs/2302.04715v4)|null|
+|**2024-12-12**|**Gradient-Boosted Mixture Regression Models for Postprocessing Ensemble Weather Forecasts**|David Jobst et.al.|[2412.09583v1](http://arxiv.org/abs/2412.09583v1)|[link](https://github.com/jobstdavid/mixnhreg)|
