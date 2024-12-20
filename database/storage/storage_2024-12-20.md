@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-20 07:25:36 Asia/Shanghai
+ Automated deployment @ 2024-12-20 19:22:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,42 +19,44 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
+|**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512v3](http://arxiv.org/abs/2408.14512v3)|[link](https://github.com/w-rudder/tea-glm)|
+|**2024-05-24**|**Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557v2](http://arxiv.org/abs/2405.15557v2)|null|
+|**2024-09-25**|**Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning**|Zhe-Rui Yang et.al.|[2409.16684v2](http://arxiv.org/abs/2409.16684v2)|[link](https://github.com/allminerlab/etr)|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814v1](http://arxiv.org/abs/2412.14814v1)|null|
+|**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341v2](http://arxiv.org/abs/2412.10341v2)|null|
+|**2024-12-16**|**Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654v2](http://arxiv.org/abs/2412.11654v2)|[link](https://github.com/cwei01/tdss)|
+|**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738v1](http://arxiv.org/abs/2412.14738v1)|null|
+|**2024-12-11**|**Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks**|Ao Liu et.al.|[2412.08555v2](http://arxiv.org/abs/2412.08555v2)|null|
+|**2024-12-11**|**DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models**|Haonan Yuan et.al.|[2412.08160v4](http://arxiv.org/abs/2412.08160v4)|[link](https://github.com/RingBDStack/DG-Mamba)|
+|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663v1](http://arxiv.org/abs/2412.14663v1)|null|
+|**2024-12-19**|**Trainable Adaptive Activation Function Structure (TAAFS) Enhances Neural Network Force Field Performance with Only Dozens of Additional Parameters**|Enji Li et.al.|[2412.14655v1](http://arxiv.org/abs/2412.14655v1)|null|
+|**2024-12-19**|**Towards Scalable and Deep Graph Neural Networks via Noise Masking**|Yuxuan Liang et.al.|[2412.14602v1](http://arxiv.org/abs/2412.14602v1)|null|
+|**2024-11-04**|**Graph Neural Networks Based Deep Learning for Predicting Structural and Electronic Properties**|Selva Chandrasekaran Selvaraj et.al.|[2411.02331v2](http://arxiv.org/abs/2411.02331v2)|null|
 |**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119v1](http://arxiv.org/abs/2412.14119v1)|null|
-|**2024-01-19**|**Adversarial Robustness of Link Sign Prediction in Signed Graphs**|Jialong Zhou et.al.|[2401.10590v2](http://arxiv.org/abs/2401.10590v2)|null|
-|**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994v1](http://arxiv.org/abs/2412.13994v1)|[link](https://github.com/crawlscript/mig-gt)|
-|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|[link](https://github.com/ucwxb/graphavatar)|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935v1](http://arxiv.org/abs/2412.13935v1)|[link](https://github.com/malayp717/pm2.5)|
-|**2024-12-18**|**Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training**|Shuyin Xia et.al.|[2412.13842v1](http://arxiv.org/abs/2412.13842v1)|null|
-|**2024-06-17**|**Using graph neural networks to reconstruct charged pion showers in the CMS High Granularity Calorimeter**|M. Aamir et.al.|[2406.11937v3](http://arxiv.org/abs/2406.11937v3)|null|
-|**2024-12-17**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483v2](http://arxiv.org/abs/2412.12483v2)|[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)|
-|**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323v2](http://arxiv.org/abs/2410.11323v2)|null|
-|**2024-09-19**|**PRAGA: Prototype-aware Graph Adaptive Aggregation for Spatial Multi-modal Omics Analysis**|Xinlei Huang et.al.|[2409.12728v5](http://arxiv.org/abs/2409.12728v5)|[link](https://github.com/xubin-s-lab/praga)|
-|**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283v1](http://arxiv.org/abs/2412.13283v1)|null|
-|**2024-12-17**|**Enhancing Internet of Things Security throughSelf-Supervised Graph Neural Networks**|Safa Ben Atitallah et.al.|[2412.13240v1](http://arxiv.org/abs/2412.13240v1)|null|
-|**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984v1](http://arxiv.org/abs/2412.12984v1)|null|
-|**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444v2](http://arxiv.org/abs/2412.09444v2)|null|
-|**2024-12-17**|**Towards Effective Graph Rationalization via Boosting Environment Diversity**|Yujie Wang et.al.|[2412.12880v1](http://arxiv.org/abs/2412.12880v1)|null|
 
-## Non-Euclidean Staistics
+## Variable Selection
 
-### Non Eculidean
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-17**|**Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance**|Hsin-Hsiung Huang et.al.|[2412.13122v1](http://arxiv.org/abs/2412.13122v1)|null|
-|**2024-12-17**|**Parameter-free higher-order Schrodinger systems with weak dissipation and forcing**|Jack Keeler et.al.|[2412.13038v1](http://arxiv.org/abs/2412.13038v1)|null|
-|**2024-12-17**|**Addressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling**|Iman Khazrak et.al.|[2412.12532v1](http://arxiv.org/abs/2412.12532v1)|[link](https://github.com/imankhazrak/DDPM_X-Ray)|
-|**2024-12-16**|**Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks**|Naoki Sato et.al.|[2412.11400v1](http://arxiv.org/abs/2412.11400v1)|null|
-|**2024-02-16**|**Quantifying Individual Risk for Binary Outcome**|Peng Wu et.al.|[2402.10537v2](http://arxiv.org/abs/2402.10537v2)|null|
-|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v1](http://arxiv.org/abs/2412.07948v1)|null|
-|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v1](http://arxiv.org/abs/2412.06011v1)|null|
-|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v4](http://arxiv.org/abs/2307.15955v4)|null|
-|**2024-12-06**|**Taylor spectrum of a Banach module over the quantum plane**|Anar Dosi et.al.|[2412.04824v1](http://arxiv.org/abs/2412.04824v1)|null|
-|**2024-12-06**|**Noncommutative complex analytic geometry of a contractive quantum plane**|Anar Dosi et.al.|[2412.04823v1](http://arxiv.org/abs/2412.04823v1)|null|
-|**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957v1](http://arxiv.org/abs/2412.03957v1)|null|
-|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v3](http://arxiv.org/abs/2407.03101v3)|[link](https://github.com/sarielhp/frechetdist.jl)|
-|**2024-12-03**|**Cardinal Properties of the Space of Quasicontinuous Functions under Topology of Uniform Convergence on Compact Subsets**|Chander Mohan Bishnoi et.al.|[2412.02209v1](http://arxiv.org/abs/2412.02209v1)|null|
-|**2024-12-02**|**Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions**|Oriana Presacan et.al.|[2412.01255v1](http://arxiv.org/abs/2412.01255v1)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
-|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v3](http://arxiv.org/abs/2311.12070v3)|null|
+|**2024-12-19**|**Dynamic structure factor of a spin-1/2 Heisenberg chain with long-range interactions**|Sibin Yang et.al.|[2412.15168v1](http://arxiv.org/abs/2412.15168v1)|null|
+|**2024-12-19**|**Cruise Control: Dynamic Model Selection for ML-Based Network Traffic Analysis**|Johann Hugon et.al.|[2412.15146v1](http://arxiv.org/abs/2412.15146v1)|null|
+|**2024-12-19**|**Boosting Distributional Copula Regression for Bivariate Right-Censored Time-to-Event Data**|Guillermo Briseno-Sanchez et.al.|[2412.15041v1](http://arxiv.org/abs/2412.15041v1)|null|
+|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v8](http://arxiv.org/abs/2201.12839v8)|[link](https://github.com/raybai07/mtmbsp)|
+|**2024-12-19**|**YOLOv11 Optimization for Efficient Resource Utilization**|Areeg Fagad Rasheed et.al.|[2412.14790v1](http://arxiv.org/abs/2412.14790v1)|null|
+|**2024-12-19**|**From Human Annotation to LLMs: SILICON Annotation Workflow for Management Research**|Xiang Cheng et.al.|[2412.14461v1](http://arxiv.org/abs/2412.14461v1)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v3](http://arxiv.org/abs/2411.17284v3)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
+|**2024-07-02**|**A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data**|Andrej Tschalzev et.al.|[2407.02112v3](http://arxiv.org/abs/2407.02112v3)|[link](https://github.com/atschalz/dc_tabeval)|
+|**2024-04-05**|**Idea23D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs**|Junhao Chen et.al.|[2404.04363v2](http://arxiv.org/abs/2404.04363v2)|[link](https://github.com/yisuanwang/idea23d)|
+|**2024-12-18**|**Quantum Machine Learning in Log-based Anomaly Detection: Challenges and Opportunities**|Jiaxing Qi et.al.|[2412.13529v1](http://arxiv.org/abs/2412.13529v1)|null|
+|**2024-12-18**|**Variable selection for partially linear single-index varying-coefficient model**|Lijuan Han et.al.|[2412.13468v1](http://arxiv.org/abs/2412.13468v1)|null|
+|**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v2](http://arxiv.org/abs/2401.13379v2)|null|
+|**2024-12-17**|**MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**|Nianqi Li et.al.|[2412.12609v1](http://arxiv.org/abs/2412.12609v1)|[link](https://github.com/nianqi-li/multilingpot)|
+|**2024-12-16**|**Generalized entropy calibration for analyzing voluntary survey data**|Yonghyun Kwon et.al.|[2412.12405v1](http://arxiv.org/abs/2412.12405v1)|null|
+|**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v2](http://arxiv.org/abs/2311.13015v2)|[link](https://github.com/muhangtian/gfr-experiments)|
+
+## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,23 +77,21 @@
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 
-## Variable Selection
-
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v3](http://arxiv.org/abs/2411.17284v3)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
-|**2024-07-02**|**A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data**|Andrej Tschalzev et.al.|[2407.02112v3](http://arxiv.org/abs/2407.02112v3)|[link](https://github.com/atschalz/dc_tabeval)|
-|**2024-04-05**|**Idea23D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs**|Junhao Chen et.al.|[2404.04363v2](http://arxiv.org/abs/2404.04363v2)|[link](https://github.com/yisuanwang/idea23d)|
-|**2024-12-18**|**Quantum Machine Learning in Log-based Anomaly Detection: Challenges and Opportunities**|Jiaxing Qi et.al.|[2412.13529v1](http://arxiv.org/abs/2412.13529v1)|null|
-|**2024-12-18**|**Variable selection for partially linear single-index varying-coefficient model**|Lijuan Han et.al.|[2412.13468v1](http://arxiv.org/abs/2412.13468v1)|null|
-|**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v2](http://arxiv.org/abs/2401.13379v2)|null|
-|**2024-12-17**|**MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**|Nianqi Li et.al.|[2412.12609v1](http://arxiv.org/abs/2412.12609v1)|[link](https://github.com/nianqi-li/multilingpot)|
-|**2024-12-16**|**Generalized entropy calibration for analyzing voluntary survey data**|Yonghyun Kwon et.al.|[2412.12405v1](http://arxiv.org/abs/2412.12405v1)|null|
-|**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v2](http://arxiv.org/abs/2311.13015v2)|[link](https://github.com/muhangtian/gfr-experiments)|
-|**2024-12-15**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al.|[2412.11142v1](http://arxiv.org/abs/2412.11142v1)|[link](https://github.com/usc-fortis/ad-llm)|
-|**2024-06-12**|**Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge**|Lin Shi et.al.|[2406.07791v7](http://arxiv.org/abs/2406.07791v7)|[link](https://github.com/Slimshilin/Position-Bias-Analyzer-Demo)|
-|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v3](http://arxiv.org/abs/2304.09560v3)|[link](https://github.com/philipphager/cmip)|
-|**2024-09-03**|**Estimating Treatment Effect Heterogeneity in Psychiatry: A Review and Tutorial with Causal Forests**|Erik Sverdrup et.al.|[2409.01578v2](http://arxiv.org/abs/2409.01578v2)|[link](https://github.com/grf-labs/grf)|
-|**2024-02-12**|**EM Estimation of the B-Spline Copula with Penalized Pseudo-Likelihood Functions**|Xiaoling Dou et.al.|[2402.07569v2](http://arxiv.org/abs/2402.07569v2)|null|
-|**2024-11-10**|**A Review of Fairness and A Practical Guide to Selecting Context-Appropriate Fairness Metrics in Machine Learning**|Caleb J. S. Barr et.al.|[2411.06624v2](http://arxiv.org/abs/2411.06624v2)|null|
+|**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422v1](http://arxiv.org/abs/2412.14422v1)|null|
+|**2024-12-17**|**Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance**|Hsin-Hsiung Huang et.al.|[2412.13122v1](http://arxiv.org/abs/2412.13122v1)|null|
+|**2024-12-17**|**Parameter-free higher-order Schrodinger systems with weak dissipation and forcing**|Jack Keeler et.al.|[2412.13038v1](http://arxiv.org/abs/2412.13038v1)|null|
+|**2024-12-17**|**Addressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling**|Iman Khazrak et.al.|[2412.12532v1](http://arxiv.org/abs/2412.12532v1)|[link](https://github.com/imankhazrak/DDPM_X-Ray)|
+|**2024-12-16**|**Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks**|Naoki Sato et.al.|[2412.11400v1](http://arxiv.org/abs/2412.11400v1)|null|
+|**2024-02-16**|**Quantifying Individual Risk for Binary Outcome**|Peng Wu et.al.|[2402.10537v2](http://arxiv.org/abs/2402.10537v2)|null|
+|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v1](http://arxiv.org/abs/2412.07948v1)|null|
+|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v1](http://arxiv.org/abs/2412.06011v1)|null|
+|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v4](http://arxiv.org/abs/2307.15955v4)|null|
+|**2024-12-06**|**Taylor spectrum of a Banach module over the quantum plane**|Anar Dosi et.al.|[2412.04824v1](http://arxiv.org/abs/2412.04824v1)|null|
+|**2024-12-06**|**Noncommutative complex analytic geometry of a contractive quantum plane**|Anar Dosi et.al.|[2412.04823v1](http://arxiv.org/abs/2412.04823v1)|null|
+|**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957v1](http://arxiv.org/abs/2412.03957v1)|null|
+|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v3](http://arxiv.org/abs/2407.03101v3)|[link](https://github.com/sarielhp/frechetdist.jl)|
+|**2024-12-03**|**Cardinal Properties of the Space of Quasicontinuous Functions under Topology of Uniform Convergence on Compact Subsets**|Chander Mohan Bishnoi et.al.|[2412.02209v1](http://arxiv.org/abs/2412.02209v1)|null|
+|**2024-12-02**|**Embryo 2.0: Merging Synthetic and Real Data for Advanced AI Predictions**|Oriana Presacan et.al.|[2412.01255v1](http://arxiv.org/abs/2412.01255v1)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
