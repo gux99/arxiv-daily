@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-08 07:25:31 Asia/Shanghai
+ Automated deployment @ 2025-01-08 19:23:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,27 +19,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v1](http://arxiv.org/abs/2501.03228v1)|null|
-|**2022-11-09**|**Attention to the strengths of physical interactions: Transformer and graph-based event classification for particle physics experiments**|Luc Builtjes et.al.|[2211.05143v3](http://arxiv.org/abs/2211.05143v3)|null|
-|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113v1](http://arxiv.org/abs/2501.03113v1)|null|
-|**2024-12-30**|**Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**|Yuan Mi et.al.|[2412.20962v3](http://arxiv.org/abs/2412.20962v3)|null|
-|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v2](http://arxiv.org/abs/2408.17252v2)|null|
-|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981v1](http://arxiv.org/abs/2501.02981v1)|null|
-|**2025-01-06**|**LOHA: Direct Graph Spectral Contrastive Learning Between Low-pass and High-pass Views**|Ziyun Zou et.al.|[2501.02969v1](http://arxiv.org/abs/2501.02969v1)|null|
-|**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808v1](http://arxiv.org/abs/2501.02808v1)|null|
-|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v2](http://arxiv.org/abs/2407.03217v2)|[link](https://github.com/wayfear/brainnetworktransformer)|
-|**2025-01-06**|**GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection**|Saba Fathi Rabooki et.al.|[2501.02796v1](http://arxiv.org/abs/2501.02796v1)|null|
-|**2025-01-06**|**Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training**|Ting Wang et.al.|[2501.02767v1](http://arxiv.org/abs/2501.02767v1)|[link](https://github.com/cityu-t/rcp-gnn)|
-|**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766v1](http://arxiv.org/abs/2501.02766v1)|null|
-|**2024-10-09**|**Multi-Task Program Error Repair and Explanatory Diagnosis**|Zhenyu Xu et.al.|[2410.07271v2](http://arxiv.org/abs/2410.07271v2)|null|
-|**2025-01-06**|**Enhancing Robot Route Optimization in Smart Logistics with Transformer and GNN Integration**|Hao Luo et.al.|[2501.02749v1](http://arxiv.org/abs/2501.02749v1)|null|
-|**2025-01-06**|**OpenGU: A Comprehensive Benchmark for Graph Unlearning**|Bowen Fan et.al.|[2501.02728v1](http://arxiv.org/abs/2501.02728v1)|null|
+|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v2](http://arxiv.org/abs/2409.16670v2)|[link](https://github.com/allminerlab/graphlora)|
+|**2024-08-23**|**Disentangling, Amplifying, and Debiasing: Learning Disentangled Representations for Fair Graph Neural Networks**|Yeon-Chang Lee et.al.|[2408.12875v2](http://arxiv.org/abs/2408.12875v2)|[link](https://github.com/bigdasgit/dab-gnn)|
+|**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817v1](http://arxiv.org/abs/2501.03817v1)|null|
+|**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)|
+|**2024-06-15**|**Graph Neural Backdoor: Fundamentals, Methodologies, Applications, and Future Directions**|Xiao Yang et.al.|[2406.10573v2](http://arxiv.org/abs/2406.10573v2)|null|
+|**2025-01-07**|**Exploring Molecule Generation Using Latent Space Graph Diffusion**|Prashanth Pombala et.al.|[2501.03696v1](http://arxiv.org/abs/2501.03696v1)|[link](https://github.com/prashanth-pombala/molecule-generation-using-latent-space-graph-diffusion)|
+|**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635v1](http://arxiv.org/abs/2501.03635v1)|[link](https://github.com/meiwu5/mhgnet)|
+|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahar et.al.|[2501.02981v2](http://arxiv.org/abs/2501.02981v2)|null|
+|**2024-12-24**|**High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263v3](http://arxiv.org/abs/2412.18263v3)|[link](https://github.com/shihaoshao-gh/ict-decomposition-and-equivariant-bases)|
+|**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536v1](http://arxiv.org/abs/2501.03536v1)|null|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v2](http://arxiv.org/abs/2501.03228v2)|null|
+|**2024-10-31**|**Graph Learning for Numeric Planning**|Dillon Z. Chen et.al.|[2410.24080v2](http://arxiv.org/abs/2410.24080v2)|[link](https://github.com/DillonZChen/goose)|
+|**2024-11-21**|**On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks**|Chenyang Wu et.al.|[2411.13805v3](http://arxiv.org/abs/2411.13805v3)|null|
+|**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464v1](http://arxiv.org/abs/2501.03464v1)|null|
+|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432v1](http://arxiv.org/abs/2501.03432v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v1](http://arxiv.org/abs/2501.03834v1)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v2](http://arxiv.org/abs/2402.04031v2)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
 |**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
 |**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v2](http://arxiv.org/abs/2411.01034v2)|null|
@@ -54,7 +55,6 @@
 |**2024-12-24**|**Fréchet regression for multi-label feature selection with implicit regularization**|Dou El Kefel Mansouri et.al.|[2412.18247v1](http://arxiv.org/abs/2412.18247v1)|null|
 |**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v2](http://arxiv.org/abs/2306.15857v2)|null|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346v1](http://arxiv.org/abs/2412.17346v1)|null|
-|**2024-12-19**|**Enhancing Diffusion Models for High-Quality Image Generation**|Jaineet Shah et.al.|[2412.14422v1](http://arxiv.org/abs/2412.14422v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,7 +80,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783v1](http://arxiv.org/abs/2501.03783v1)|null|
 |**2024-12-30**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149v2](http://arxiv.org/abs/2501.00149v2)|null|
+|**2025-01-06**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295v1](http://arxiv.org/abs/2501.03295v1)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336v3](http://arxiv.org/abs/2307.07336v3)|[link](https://github.com/ramdrop/rcir)|
 |**2025-01-04**|**Sparsity learning via structured functional factor augmentation**|Hanteng Ma et.al.|[2501.02244v1](http://arxiv.org/abs/2501.02244v1)|null|
 |**2024-10-03**|**Fast spatio-temporally varying coefficient modeling with reluctant interaction selection**|Daisuke Murakami et.al.|[2410.07229v2](http://arxiv.org/abs/2410.07229v2)|null|
@@ -93,5 +95,3 @@
 |**2025-01-01**|**Penalized weighted GEEs for high-dimensional longitudinal data with informative cluter size**|Yue Ma et.al.|[2501.00839v1](http://arxiv.org/abs/2501.00839v1)|null|
 |**2024-12-31**|**Compositional Covariate Importance Testing via Partial Conjunction of Bivariate Hypotheses**|Ritwik Bhaduri et.al.|[2501.00566v1](http://arxiv.org/abs/2501.00566v1)|null|
 |**2024-12-31**|**Variability-Aware Machine Learning Model Selection: Feature Modeling, Instantiation, and Experimental Case Study**|Cristina Tavares et.al.|[2501.00532v1](http://arxiv.org/abs/2501.00532v1)|null|
-|**2024-12-30**|**An Unsupervised Anomaly Detection in Electricity Consumption Using Reinforcement Learning and Time Series Forest Based Framework**|Jihan Ghanim et.al.|[2501.00107v1](http://arxiv.org/abs/2501.00107v1)|null|
-|**2021-10-07**|**A Model Selection Approach for Corruption Robust Reinforcement Learning**|Chen-Yu Wei et.al.|[2110.03580v2](http://arxiv.org/abs/2110.03580v2)|null|
