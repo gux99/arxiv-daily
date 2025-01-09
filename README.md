@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-09 07:25:15 Asia/Shanghai
+ Automated deployment @ 2025-01-09 19:23:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,21 +19,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06**|**GABAR: Graph Attention-Based Action Ranking for Relational Policy Learning**|Rajesh Mangannavar et.al.|[2412.04752v2](http://arxiv.org/abs/2412.04752v2)|null|
+|**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692v3](http://arxiv.org/abs/2401.03692v3)|null|
+|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432v2](http://arxiv.org/abs/2501.03432v2)|null|
+|**2024-02-11**|**Rethinking the Capacity of Graph Neural Networks for Branching Strategy**|Ziang Chen et.al.|[2402.07099v3](http://arxiv.org/abs/2402.07099v3)|null|
+|**2025-01-08**|**Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report**|Haipeng Ding et.al.|[2501.04570v1](http://arxiv.org/abs/2501.04570v1)|null|
+|**2024-09-12**|**Edge-Wise Graph-Instructed Neural Networks**|Francesco Della Santa et.al.|[2409.08023v2](http://arxiv.org/abs/2409.08023v2)|null|
+|**2023-03-07**|**Active learning of data-assimilation closures using Graph Neural Networks**|Michele Quattromini et.al.|[2303.03806v2](http://arxiv.org/abs/2303.03806v2)|null|
+|**2023-08-24**|**Network-Based Video Recommendation Using Viewing Patterns and Modularity Analysis: An Integrated Framework**|Mehrdad Maghsoudi et.al.|[2308.12743v3](http://arxiv.org/abs/2308.12743v3)|null|
+|**2025-01-08**|**Dynamic Localisation of Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2501.04239v1](http://arxiv.org/abs/2501.04239v1)|null|
+|**2023-07-08**|**Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2307.04056v4](http://arxiv.org/abs/2307.04056v4)|[link](https://github.com/dj408/mfcn)|
+|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393v2](http://arxiv.org/abs/2501.02393v2)|[link](https://github.com/lamm-mit/graph-aware-transformers)|
+|**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554v2](http://arxiv.org/abs/2401.14554v2)|[link](https://github.com/MIT-REALM/gcbfplus)|
+|**2024-11-26**|**GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser**|Yilin Lu et.al.|[2411.17849v2](http://arxiv.org/abs/2411.17849v2)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670v2](http://arxiv.org/abs/2409.16670v2)|[link](https://github.com/allminerlab/graphlora)|
 |**2024-08-23**|**Disentangling, Amplifying, and Debiasing: Learning Disentangled Representations for Fair Graph Neural Networks**|Yeon-Chang Lee et.al.|[2408.12875v2](http://arxiv.org/abs/2408.12875v2)|[link](https://github.com/bigdasgit/dab-gnn)|
-|**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817v1](http://arxiv.org/abs/2501.03817v1)|null|
-|**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)|
-|**2024-06-15**|**Graph Neural Backdoor: Fundamentals, Methodologies, Applications, and Future Directions**|Xiao Yang et.al.|[2406.10573v2](http://arxiv.org/abs/2406.10573v2)|null|
-|**2025-01-07**|**Exploring Molecule Generation Using Latent Space Graph Diffusion**|Prashanth Pombala et.al.|[2501.03696v1](http://arxiv.org/abs/2501.03696v1)|[link](https://github.com/prashanth-pombala/molecule-generation-using-latent-space-graph-diffusion)|
-|**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635v1](http://arxiv.org/abs/2501.03635v1)|[link](https://github.com/meiwu5/mhgnet)|
-|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahar et.al.|[2501.02981v2](http://arxiv.org/abs/2501.02981v2)|null|
-|**2024-12-24**|**High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263v3](http://arxiv.org/abs/2412.18263v3)|[link](https://github.com/shihaoshao-gh/ict-decomposition-and-equivariant-bases)|
-|**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536v1](http://arxiv.org/abs/2501.03536v1)|null|
-|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v2](http://arxiv.org/abs/2501.03228v2)|null|
-|**2024-10-31**|**Graph Learning for Numeric Planning**|Dillon Z. Chen et.al.|[2410.24080v2](http://arxiv.org/abs/2410.24080v2)|[link](https://github.com/DillonZChen/goose)|
-|**2024-11-21**|**On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks**|Chenyang Wu et.al.|[2411.13805v3](http://arxiv.org/abs/2411.13805v3)|null|
-|**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464v1](http://arxiv.org/abs/2501.03464v1)|null|
-|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432v1](http://arxiv.org/abs/2501.03432v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -49,12 +49,12 @@
 |**2025-01-01**|**A novel unit-asymmetric distribution based on correlated Fréchet random variables**|Roberto Vila et.al.|[2501.00970v1](http://arxiv.org/abs/2501.00970v1)|null|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954v1](http://arxiv.org/abs/2501.00954v1)|null|
 |**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992v1](http://arxiv.org/abs/2412.19992v1)|null|
+|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v1](http://arxiv.org/abs/2501.04023v1)|null|
 |**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
 |**2024-12-27**|**NijiGAN: Transform What You See into Anime with Contrastive Semi-Supervised Learning and Neural Ordinary Differential Equations**|Kevin Putra Santoso et.al.|[2412.19455v1](http://arxiv.org/abs/2412.19455v1)|null|
 |**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
 |**2024-12-24**|**Fréchet regression for multi-label feature selection with implicit regularization**|Dou El Kefel Mansouri et.al.|[2412.18247v1](http://arxiv.org/abs/2412.18247v1)|null|
 |**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v2](http://arxiv.org/abs/2306.15857v2)|null|
-|**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346v1](http://arxiv.org/abs/2412.17346v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,9 +80,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-21**|**Fast and Interpretable Mortality Risk Scores for Critical Care Patients**|Chloe Qinyu Zhu et.al.|[2311.13015v4](http://arxiv.org/abs/2311.13015v4)|[link](https://github.com/muhangtian/gfr-experiments)|
+|**2023-01-29**|**Asymptotic Inference for Multi-Stage Stationary Treatment Policy with Variable Selection**|Daiqi Gao et.al.|[2301.12553v3](http://arxiv.org/abs/2301.12553v3)|[link](https://github.com/dqgao/mstp)|
+|**2025-01-06**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295v2](http://arxiv.org/abs/2501.03295v2)|null|
 |**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783v1](http://arxiv.org/abs/2501.03783v1)|null|
 |**2024-12-30**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149v2](http://arxiv.org/abs/2501.00149v2)|null|
-|**2025-01-06**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295v1](http://arxiv.org/abs/2501.03295v1)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336v3](http://arxiv.org/abs/2307.07336v3)|[link](https://github.com/ramdrop/rcir)|
 |**2025-01-04**|**Sparsity learning via structured functional factor augmentation**|Hanteng Ma et.al.|[2501.02244v1](http://arxiv.org/abs/2501.02244v1)|null|
 |**2024-10-03**|**Fast spatio-temporally varying coefficient modeling with reluctant interaction selection**|Daisuke Murakami et.al.|[2410.07229v2](http://arxiv.org/abs/2410.07229v2)|null|
@@ -93,5 +95,3 @@
 |**2025-01-01**|**Sparse identification of evolution equations via Bayesian model selection**|Tim W. Kroll et.al.|[2501.01476v1](http://arxiv.org/abs/2501.01476v1)|null|
 |**2025-01-01**|**A Graphical Approach to State Variable Selection in Off-policy Learning**|Joakim Blach Andersen et.al.|[2501.00854v1](http://arxiv.org/abs/2501.00854v1)|null|
 |**2025-01-01**|**Penalized weighted GEEs for high-dimensional longitudinal data with informative cluter size**|Yue Ma et.al.|[2501.00839v1](http://arxiv.org/abs/2501.00839v1)|null|
-|**2024-12-31**|**Compositional Covariate Importance Testing via Partial Conjunction of Bivariate Hypotheses**|Ritwik Bhaduri et.al.|[2501.00566v1](http://arxiv.org/abs/2501.00566v1)|null|
-|**2024-12-31**|**Variability-Aware Machine Learning Model Selection: Feature Modeling, Instantiation, and Experimental Case Study**|Cristina Tavares et.al.|[2501.00532v1](http://arxiv.org/abs/2501.00532v1)|null|
