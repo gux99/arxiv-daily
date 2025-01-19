@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 07:25:11 Asia/Shanghai
+ Automated deployment @ 2025-01-19 19:20:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -37,25 +37,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
-|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
-|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
-|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
-|**2023-07-18**|**A Fréchet Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v2](http://arxiv.org/abs/2307.09037v2)|null|
-|**2024-03-30**|**Global Implicit Function Theorems and Critical Point Theory in Fréchet Spaces**|Kaveh Eftekharinasab et.al.|[2404.00286v2](http://arxiv.org/abs/2404.00286v2)|null|
-|**2023-12-18**|**Relating Interleaving and Fréchet Distances via Ordered Merge Trees**|Thijs Beurskens et.al.|[2312.11113v4](http://arxiv.org/abs/2312.11113v4)|null|
-|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v2](http://arxiv.org/abs/2409.02212v2)|null|
-|**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v1](http://arxiv.org/abs/2501.03834v1)|null|
-|**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v2](http://arxiv.org/abs/2402.04031v2)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
-|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
-|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v2](http://arxiv.org/abs/2411.01034v2)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v3](http://arxiv.org/abs/2404.12814v3)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,6 +55,25 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
+|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
+|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
+|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
+|**2023-07-18**|**A Fréchet Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v2](http://arxiv.org/abs/2307.09037v2)|null|
+|**2024-03-30**|**Global Implicit Function Theorems and Critical Point Theory in Fréchet Spaces**|Kaveh Eftekharinasab et.al.|[2404.00286v2](http://arxiv.org/abs/2404.00286v2)|null|
+|**2023-12-18**|**Relating Interleaving and Fréchet Distances via Ordered Merge Trees**|Thijs Beurskens et.al.|[2312.11113v4](http://arxiv.org/abs/2312.11113v4)|null|
+|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v2](http://arxiv.org/abs/2409.02212v2)|null|
+|**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v1](http://arxiv.org/abs/2501.03834v1)|null|
+|**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v2](http://arxiv.org/abs/2402.04031v2)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
+|**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034v2](http://arxiv.org/abs/2411.01034v2)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
+|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v3](http://arxiv.org/abs/2404.12814v3)|null|
 
 ## Variable Selection
 
