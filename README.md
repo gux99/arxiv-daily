@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-20 07:23:30 Asia/Shanghai
+ Automated deployment @ 2025-01-20 19:23:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,6 +19,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24**|**High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263v4](http://arxiv.org/abs/2412.18263v4)|[link](https://github.com/shihaoshao-gh/ict-decomposition-and-equivariant-bases)|
+|**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080v1](http://arxiv.org/abs/2501.10080v1)|[link](https://github.com/ait-assistive-autonomous-systems/hopomop)|
+|**2025-01-17**|**Virtual Nodes Improve Long-term Traffic Prediction**|Xiaoyang Cao et.al.|[2501.10048v1](http://arxiv.org/abs/2501.10048v1)|null|
+|**2025-01-14**|**Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification**|Wennuo Yang et.al.|[2501.08305v2](http://arxiv.org/abs/2501.08305v2)|[link](https://github.com/cvi-yangwn/benchmark-gnn-for-multivariate-time-series-classification)|
+|**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v3](http://arxiv.org/abs/2408.03195v3)|[link](https://github.com/JasonZhujp/RELIEF)|
+|**2025-01-17**|**Study on a Fast Solver for Combined Field Integral Equations of 3D Conducting Bodies Based on Graph Neural Networks**|Tao Shan et.al.|[2501.09923v1](http://arxiv.org/abs/2501.09923v1)|[link](https://github.com/iemcs-lab/gnnsolver-cfie)|
+|**2025-01-16**|**BN-Pool: a Bayesian Nonparametric Approach to Graph Pooling**|Daniele Castellana et.al.|[2501.09821v1](http://arxiv.org/abs/2501.09821v1)|null|
+|**2025-01-16**|**Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards**|Tong Liu et.al.|[2501.09803v1](http://arxiv.org/abs/2501.09803v1)|null|
 |**2022-07-20**|**ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective**|Yihong Chen et.al.|[2207.09980v4](http://arxiv.org/abs/2207.09980v4)|[link](https://github.com/yihong-chen/refactorgnn)|
 |**2024-12-26**|**ERGNN: Spectral Graph Neural Network With Explicitly-Optimized Rational Graph Filters**|Guoming Li et.al.|[2412.19106v2](http://arxiv.org/abs/2412.19106v2)|null|
 |**2025-01-16**|**Fast Searching of Extreme Operating Conditions for Relay Protection Setting Calculation Based on Graph Neural Network and Reinforcement Learning**|Yan Li et.al.|[2501.09399v1](http://arxiv.org/abs/2501.09399v1)|null|
@@ -26,35 +34,6 @@
 |**2022-11-28**|**Mitigating Overfitting in Graph Neural Networks via Feature and Hyperplane Perturbation**|Yoonhyuk Choi et.al.|[2211.15081v8](http://arxiv.org/abs/2211.15081v8)|null|
 |**2024-10-17**|**Observation of a rare beta decay of the charmed baryon with a Graph Neural Network**|BESIII Collaboration et.al.|[2410.13515v2](http://arxiv.org/abs/2410.13515v2)|null|
 |**2024-12-16**|**Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654v3](http://arxiv.org/abs/2412.11654v3)|[link](https://github.com/cwei01/tdss)|
-|**2025-01-15**|**Enhancing Graph Representation Learning with Localized Topological Features**|Zuoyu Yan et.al.|[2501.09178v1](http://arxiv.org/abs/2501.09178v1)|null|
-|**2025-01-15**|**Multi-Class Traffic Assignment using Multi-View Heterogeneous Graph Attention Networks**|Tong Liu et.al.|[2501.09117v1](http://arxiv.org/abs/2501.09117v1)|null|
-|**2025-01-15**|**Similarity-Quantized Relative Difference Learning for Improved Molecular Activity Prediction**|Karina Zadorozhny et.al.|[2501.09103v1](http://arxiv.org/abs/2501.09103v1)|null|
-|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998v1](http://arxiv.org/abs/2501.08998v1)|null|
-|**2025-01-15**|**Joint Detection and Decoding: A Graph Neural Network Approach**|Jannis Clausius et.al.|[2501.08871v1](http://arxiv.org/abs/2501.08871v1)|null|
-|**2025-01-15**|**MeshMask: Physics-Based Simulations with Masked Graph Neural Networks**|Paul Garnier et.al.|[2501.08738v1](http://arxiv.org/abs/2501.08738v1)|null|
-|**2025-01-15**|**GRAPPA -- A Hybrid Graph Neural Network for Predicting Pure Component Vapor Pressures**|Marco Hoffmann et.al.|[2501.08729v1](http://arxiv.org/abs/2501.08729v1)|null|
-|**2024-01-27**|**SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2401.15299v3](http://arxiv.org/abs/2401.15299v3)|[link](https://github.com/ciol-researchlab/SupplyGraph)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-16**|**AALF: Almost Always Linear Forecasting**|Matthias Jakobs et.al.|[2409.10142v2](http://arxiv.org/abs/2409.10142v2)|[link](https://github.com/sdfk72auga1kwsi/aalf)|
-|**2025-01-16**|**Utilizing AI Language Models to Identify Prognostic Factors for Coronary Artery Disease: A Study in Mashhad Residents**|Bami Zahra et.al.|[2501.09480v1](http://arxiv.org/abs/2501.09480v1)|null|
-|**2025-01-15**|**Valid post-selection inference for penalized G-estimation with longitudinal observational data**|Ajmery Jaman et.al.|[2501.09196v1](http://arxiv.org/abs/2501.09196v1)|null|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v1](http://arxiv.org/abs/2501.08945v1)|null|
-|**2025-01-15**|**Empowering Agricultural Insights: RiceLeafBD -- A Novel Dataset and Optimal Model Selection for Rice Leaf Disease Diagnosis through Transfer Learning Technique**|Sadia Afrin Rimi et.al.|[2501.08912v1](http://arxiv.org/abs/2501.08912v1)|null|
-|**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781v2](http://arxiv.org/abs/2410.00781v2)|null|
-|**2024-05-29**|**EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**|ChonLam Lao et.al.|[2405.19213v2](http://arxiv.org/abs/2405.19213v2)|null|
-|**2025-01-14**|**On the use of Statistical Learning Theory for model selection in Structural Health Monitoring**|C. A. Lindley et.al.|[2501.08050v1](http://arxiv.org/abs/2501.08050v1)|null|
-|**2025-01-13**|**Fast sampling and model selection for Bayesian mixture models**|M. E. J. Newman et.al.|[2501.07668v1](http://arxiv.org/abs/2501.07668v1)|null|
-|**2025-01-13**|**An Investigation into Seasonal Variations in Energy Forecasting for Student Residences**|Muhammad Umair Danish et.al.|[2501.07423v1](http://arxiv.org/abs/2501.07423v1)|null|
-|**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061v1](http://arxiv.org/abs/2501.07061v1)|null|
-|**2025-01-12**|**Variable Selection Methods for Multivariate, Functional, and Complex Biomedical Data in the AI Age**|Marcos Matabuena et.al.|[2501.06868v1](http://arxiv.org/abs/2501.06868v1)|null|
-|**2025-01-12**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses in Arabic Context**|Noureldin Zahran et.al.|[2501.06859v1](http://arxiv.org/abs/2501.06859v1)|null|
-|**2025-01-12**|**Improved joint modelling of breast cancer radiomics features and hazard by image registration aided longitudinal CT data**|Subrata Mukherjee et.al.|[2501.06814v1](http://arxiv.org/abs/2501.06814v1)|null|
-|**2025-01-11**|**Unsupervised detection and fitness estimation of emerging SARS-CoV-2 variants. Application to wastewater samples (ANRS0160)**|Alexandra Lefebvre et.al.|[2501.06548v1](http://arxiv.org/abs/2501.06548v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -95,3 +74,24 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339v1](http://arxiv.org/abs/2501.10339v1)|null|
+|**2025-01-17**|**Fixed Confidence and Fixed Tolerance Bi-level Optimization for Selecting the Best Optimized System**|Yuhao Wang et.al.|[2501.10268v1](http://arxiv.org/abs/2501.10268v1)|null|
+|**2025-01-17**|**Statistical Inference for Sequential Feature Selection after Domain Adaptation**|Duong Tan Loc et.al.|[2501.09933v1](http://arxiv.org/abs/2501.09933v1)|[link](https://github.com/locluclak/si-seqfs-da)|
+|**2025-01-17**|**Model Averaging Under Flexible Loss Functions**|Dieqi Gu et.al.|[2501.09924v1](http://arxiv.org/abs/2501.09924v1)|null|
+|**2024-10-21**|**A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game**|Boshen Wang et.al.|[2410.15684v2](http://arxiv.org/abs/2410.15684v2)|null|
+|**2024-09-16**|**AALF: Almost Always Linear Forecasting**|Matthias Jakobs et.al.|[2409.10142v2](http://arxiv.org/abs/2409.10142v2)|[link](https://github.com/sdfk72auga1kwsi/aalf)|
+|**2025-01-16**|**Utilizing AI Language Models to Identify Prognostic Factors for Coronary Artery Disease: A Study in Mashhad Residents**|Bami Zahra et.al.|[2501.09480v1](http://arxiv.org/abs/2501.09480v1)|null|
+|**2025-01-15**|**Valid post-selection inference for penalized G-estimation with longitudinal observational data**|Ajmery Jaman et.al.|[2501.09196v1](http://arxiv.org/abs/2501.09196v1)|null|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v1](http://arxiv.org/abs/2501.08945v1)|null|
+|**2025-01-15**|**Empowering Agricultural Insights: RiceLeafBD -- A Novel Dataset and Optimal Model Selection for Rice Leaf Disease Diagnosis through Transfer Learning Technique**|Sadia Afrin Rimi et.al.|[2501.08912v1](http://arxiv.org/abs/2501.08912v1)|null|
+|**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781v2](http://arxiv.org/abs/2410.00781v2)|null|
+|**2024-05-29**|**EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**|ChonLam Lao et.al.|[2405.19213v2](http://arxiv.org/abs/2405.19213v2)|null|
+|**2025-01-14**|**On the use of Statistical Learning Theory for model selection in Structural Health Monitoring**|C. A. Lindley et.al.|[2501.08050v1](http://arxiv.org/abs/2501.08050v1)|null|
+|**2025-01-13**|**Fast sampling and model selection for Bayesian mixture models**|M. E. J. Newman et.al.|[2501.07668v1](http://arxiv.org/abs/2501.07668v1)|null|
+|**2025-01-13**|**An Investigation into Seasonal Variations in Energy Forecasting for Student Residences**|Muhammad Umair Danish et.al.|[2501.07423v1](http://arxiv.org/abs/2501.07423v1)|null|
