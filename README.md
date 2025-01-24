@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-24 07:24:55 Asia/Shanghai
+ Automated deployment @ 2025-01-24 19:22:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,21 +19,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-23**|**Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks**|Lorenz Kummer et.al.|[2501.13776v1](http://arxiv.org/abs/2501.13776v1)|null|
+|**2025-01-23**|**Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function**|Maria-Florina Balcan et.al.|[2501.13734v1](http://arxiv.org/abs/2501.13734v1)|null|
+|**2025-01-23**|**The Road to Learning Explainable Inverse Kinematic Models: Graph Neural Networks as Inductive Bias for Symbolic Regression**|Pravin Pandey et.al.|[2501.13641v1](http://arxiv.org/abs/2501.13641v1)|null|
+|**2025-01-22**|**FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling**|Emir Ceyani et.al.|[2501.12592v2](http://arxiv.org/abs/2501.12592v2)|null|
+|**2025-01-23**|**VARFVV: View-Adaptive Real-Time Interactive Free-View Video Streaming with Edge Computing**|Qiang Hu et.al.|[2501.13630v1](http://arxiv.org/abs/2501.13630v1)|null|
+|**2025-01-23**|**GCAD: Anomaly Detection in Multivariate Time Series from the Perspective of Granger Causality**|Zehao Liu et.al.|[2501.13493v1](http://arxiv.org/abs/2501.13493v1)|null|
+|**2025-01-15**|**MeshMask: Physics-Based Simulations with Masked Graph Neural Networks**|Paul Garnier et.al.|[2501.08738v2](http://arxiv.org/abs/2501.08738v2)|null|
+|**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170v2](http://arxiv.org/abs/2407.18170v2)|null|
+|**2024-05-22**|**Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition**|Xinyi Gao et.al.|[2405.13707v2](http://arxiv.org/abs/2405.13707v2)|[link](https://github.com/xygaog/cgc)|
+|**2025-01-23**|**KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks**|Taoran Fang et.al.|[2501.13456v1](http://arxiv.org/abs/2501.13456v1)|[link](https://github.com/luckytiger123/kaa)|
+|**2022-09-19**|**Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v5](http://arxiv.org/abs/2209.08812v5)|[link](https://github.com/utiasstars/generative-graphik)|
+|**2024-09-08**|**Stress Predictions in Polycrystal Plasticity using Graph Neural Networks with Subgraph Training**|Hanfeng Zhai et.al.|[2409.05169v4](http://arxiv.org/abs/2409.05169v4)|[link](https://gitlab.com/hanfengzhai2/gnn-fem-polyplas)|
+|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v2](http://arxiv.org/abs/2407.08797v2)|null|
 |**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857v1](http://arxiv.org/abs/2501.12857v1)|null|
 |**2025-01-22**|**GRAMA: Adaptive Graph Autoregressive Moving Average Models**|Moshe Eliasof et.al.|[2501.12732v1](http://arxiv.org/abs/2501.12732v1)|null|
-|**2025-01-01**|**KAN KAN Buff Signed Graph Neural Networks?**|Muhieddine Shebaro et.al.|[2501.00709v3](http://arxiv.org/abs/2501.00709v3)|null|
-|**2024-02-15**|**Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education**|Pengyang Shao et.al.|[2403.05559v2](http://arxiv.org/abs/2403.05559v2)|[link](https://github.com/shaopengyang/isg-cd)|
-|**2022-10-24**|**Inferring Past Human Actions in Homes with Abductive Reasoning**|Clement Tan et.al.|[2210.13984v5](http://arxiv.org/abs/2210.13984v5)|[link](https://github.com/lunaproject22/aar)|
-|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595v1](http://arxiv.org/abs/2501.12595v1)|[link](https://github.com/yongduosui/uil)|
-|**2025-01-22**|**FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling**|Emir Ceyani et.al.|[2501.12592v1](http://arxiv.org/abs/2501.12592v1)|null|
-|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309v1](http://arxiv.org/abs/2501.12309v1)|null|
-|**2024-09-04**|**Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification**|Junyoung Lee et.al.|[2409.02481v2](http://arxiv.org/abs/2409.02481v2)|null|
-|**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169v1](http://arxiv.org/abs/2501.12169v1)|null|
-|**2025-01-21**|**SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids**|Aoxiang Ma et.al.|[2501.12427v1](http://arxiv.org/abs/2501.12427v1)|null|
-|**2025-01-02**|**Attending To Syntactic Information In Biomedical Event Extraction Via Graph Neural Networks**|Farshad Noravesh et.al.|[2501.01158v2](http://arxiv.org/abs/2501.01158v2)|null|
-|**2024-12-19**|**Training Graph Neural Networks Using Non-Robust Samples**|Yongyu Wang et.al.|[2412.14738v6](http://arxiv.org/abs/2412.14738v6)|null|
-|**2025-01-21**|**Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation**|Yang Wang et.al.|[2501.11870v1](http://arxiv.org/abs/2501.11870v1)|[link](https://github.com/htyjers/c2f-metaembed)|
-|**2024-08-29**|**OpenFGL: A Comprehensive Benchmark for Federated Graph Learning**|Xunkai Li et.al.|[2408.16288v2](http://arxiv.org/abs/2408.16288v2)|[link](https://github.com/xkli-allen/openfgl)|
 
 ## Non-Euclidean Staistics
 
@@ -80,6 +80,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-23**|**Detecting Sparse Cointegration**|Jesus Gonzalo et.al.|[2501.13839v1](http://arxiv.org/abs/2501.13839v1)|null|
+|**2025-01-23**|**Time Series Embedding Methods for Classification Tasks: A Review**|Yasamin Ghahremani et.al.|[2501.13392v1](http://arxiv.org/abs/2501.13392v1)|null|
+|**2025-01-23**|**Model selection for vine copulas under nested hypotheses**|Ichiro Nishi et.al.|[2501.13304v1](http://arxiv.org/abs/2501.13304v1)|null|
+|**2025-01-22**|**Normalizing Flows for Gaussian Process Regression under Hierarchical Shrinkage Priors**|Peter Knaus et.al.|[2501.13173v1](http://arxiv.org/abs/2501.13173v1)|null|
 |**2024-02-12**|**A Multinomial Canonical Decomposition Model, with emphasis on the analysis of Multivariate Binary data**|Mark de Rooij et.al.|[2402.07634v3](http://arxiv.org/abs/2402.07634v3)|null|
 |**2025-01-22**|**BayesEoR: Bayesian 21-cm Power Spectrum Estimation from Interferometric Visibilities**|Peter H. Sims et.al.|[2501.12928v1](http://arxiv.org/abs/2501.12928v1)|null|
 |**2025-01-17**|**Model Averaging Under Flexible Loss Functions**|Dieqi Gu et.al.|[2501.09924v2](http://arxiv.org/abs/2501.09924v2)|null|
@@ -91,7 +95,3 @@
 |**2025-01-21**|**MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking**|Shuyang Jiang et.al.|[2501.12051v1](http://arxiv.org/abs/2501.12051v1)|[link](https://github.com/pixas/medsss)|
 |**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v3](http://arxiv.org/abs/2312.03538v3)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
 |**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v2](http://arxiv.org/abs/2407.04194v2)|null|
-|**2025-01-21**|**Automatic Debiased Machine Learning for Smooth Functionals of Nonparametric M-Estimands**|Lars van der Laan et.al.|[2501.11868v1](http://arxiv.org/abs/2501.11868v1)|null|
-|**2022-04-18**|**Network compression with configuration models and the minimum description length**|Laurent Hébert-Dufresne et.al.|[2204.08444v2](http://arxiv.org/abs/2204.08444v2)|null|
-|**2024-01-31**|**Penalized G-estimation for effect modifier selection in a structural nested mean model for repeated outcomes**|Ajmery Jaman et.al.|[2402.00154v4](http://arxiv.org/abs/2402.00154v4)|null|
-|**2025-01-12**|**Improved joint modelling of breast cancer radiomics features and hazard by image registration aided longitudinal CT data**|Subrata Mukherjee et.al.|[2501.06814v2](http://arxiv.org/abs/2501.06814v2)|null|
