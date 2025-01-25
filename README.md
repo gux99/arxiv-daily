@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-25 07:24:52 Asia/Shanghai
+ Automated deployment @ 2025-01-25 19:21:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -34,27 +34,6 @@
 |**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v2](http://arxiv.org/abs/2407.08797v2)|null|
 |**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857v1](http://arxiv.org/abs/2501.12857v1)|null|
 |**2025-01-22**|**GRAMA: Adaptive Graph Autoregressive Moving Average Models**|Moshe Eliasof et.al.|[2501.12732v1](http://arxiv.org/abs/2501.12732v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-23**|**Detecting Sparse Cointegration**|Jesus Gonzalo et.al.|[2501.13839v1](http://arxiv.org/abs/2501.13839v1)|null|
-|**2025-01-23**|**Time Series Embedding Methods for Classification Tasks: A Review**|Yasamin Ghahremani et.al.|[2501.13392v1](http://arxiv.org/abs/2501.13392v1)|null|
-|**2025-01-23**|**Model selection for vine copulas under nested hypotheses**|Ichiro Nishi et.al.|[2501.13304v1](http://arxiv.org/abs/2501.13304v1)|null|
-|**2025-01-22**|**Normalizing Flows for Gaussian Process Regression under Hierarchical Shrinkage Priors**|Peter Knaus et.al.|[2501.13173v1](http://arxiv.org/abs/2501.13173v1)|null|
-|**2024-02-12**|**A Multinomial Canonical Decomposition Model, with emphasis on the analysis of Multivariate Binary data**|Mark de Rooij et.al.|[2402.07634v3](http://arxiv.org/abs/2402.07634v3)|null|
-|**2025-01-22**|**BayesEoR: Bayesian 21-cm Power Spectrum Estimation from Interferometric Visibilities**|Peter H. Sims et.al.|[2501.12928v1](http://arxiv.org/abs/2501.12928v1)|null|
-|**2025-01-17**|**Model Averaging Under Flexible Loss Functions**|Dieqi Gu et.al.|[2501.09924v2](http://arxiv.org/abs/2501.09924v2)|null|
-|**2025-01-22**|**BRBVS: An R Package for Bivariate Variable selection in Copula Survival Model(s) domain**|Danilo Petti et.al.|[2501.12837v1](http://arxiv.org/abs/2501.12837v1)|null|
-|**2025-01-22**|**Flexible tree-structured regression for clustered data with an application to quality of life in older adults**|Nikolai Spuck et.al.|[2501.12787v1](http://arxiv.org/abs/2501.12787v1)|null|
-|**2025-01-22**|**A Bayesian Modelling Framework with Model Comparison for Epidemics with Super-Spreading**|Hannah Craddock et.al.|[2501.12768v1](http://arxiv.org/abs/2501.12768v1)|null|
-|**2024-07-18**|**Block-Additive Gaussian Processes under Monotonicity Constraints**|M. Deronzier et.al.|[2407.13402v2](http://arxiv.org/abs/2407.13402v2)|null|
-|**2024-08-23**|**A physically modelled selection function for compact binary mergers in the LIGO-Virgo O3 run and beyond**|Ana Lorenzo-Medina et.al.|[2408.13383v3](http://arxiv.org/abs/2408.13383v3)|[link](https://github.com/analorenzomedina/cbc_pdet)|
-|**2025-01-21**|**MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking**|Shuyang Jiang et.al.|[2501.12051v1](http://arxiv.org/abs/2501.12051v1)|[link](https://github.com/pixas/medsss)|
-|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v3](http://arxiv.org/abs/2312.03538v3)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
-|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v2](http://arxiv.org/abs/2407.04194v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -95,3 +74,24 @@
 |**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v1](http://arxiv.org/abs/2501.03834v1)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v2](http://arxiv.org/abs/2402.04031v2)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
 |**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-23**|**Detecting Sparse Cointegration**|Jesus Gonzalo et.al.|[2501.13839v1](http://arxiv.org/abs/2501.13839v1)|null|
+|**2025-01-23**|**Time Series Embedding Methods for Classification Tasks: A Review**|Yasamin Ghahremani et.al.|[2501.13392v1](http://arxiv.org/abs/2501.13392v1)|null|
+|**2025-01-23**|**Model selection for vine copulas under nested hypotheses**|Ichiro Nishi et.al.|[2501.13304v1](http://arxiv.org/abs/2501.13304v1)|null|
+|**2025-01-22**|**Normalizing Flows for Gaussian Process Regression under Hierarchical Shrinkage Priors**|Peter Knaus et.al.|[2501.13173v1](http://arxiv.org/abs/2501.13173v1)|null|
+|**2024-02-12**|**A Multinomial Canonical Decomposition Model, with emphasis on the analysis of Multivariate Binary data**|Mark de Rooij et.al.|[2402.07634v3](http://arxiv.org/abs/2402.07634v3)|null|
+|**2025-01-22**|**BayesEoR: Bayesian 21-cm Power Spectrum Estimation from Interferometric Visibilities**|Peter H. Sims et.al.|[2501.12928v1](http://arxiv.org/abs/2501.12928v1)|null|
+|**2025-01-17**|**Model Averaging Under Flexible Loss Functions**|Dieqi Gu et.al.|[2501.09924v2](http://arxiv.org/abs/2501.09924v2)|null|
+|**2025-01-22**|**BRBVS: An R Package for Bivariate Variable selection in Copula Survival Model(s) domain**|Danilo Petti et.al.|[2501.12837v1](http://arxiv.org/abs/2501.12837v1)|null|
+|**2025-01-22**|**Flexible tree-structured regression for clustered data with an application to quality of life in older adults**|Nikolai Spuck et.al.|[2501.12787v1](http://arxiv.org/abs/2501.12787v1)|null|
+|**2025-01-22**|**A Bayesian Modelling Framework with Model Comparison for Epidemics with Super-Spreading**|Hannah Craddock et.al.|[2501.12768v1](http://arxiv.org/abs/2501.12768v1)|null|
+|**2024-07-18**|**Block-Additive Gaussian Processes under Monotonicity Constraints**|M. Deronzier et.al.|[2407.13402v2](http://arxiv.org/abs/2407.13402v2)|null|
+|**2024-08-23**|**A physically modelled selection function for compact binary mergers in the LIGO-Virgo O3 run and beyond**|Ana Lorenzo-Medina et.al.|[2408.13383v3](http://arxiv.org/abs/2408.13383v3)|[link](https://github.com/analorenzomedina/cbc_pdet)|
+|**2025-01-21**|**MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking**|Shuyang Jiang et.al.|[2501.12051v1](http://arxiv.org/abs/2501.12051v1)|[link](https://github.com/pixas/medsss)|
+|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v3](http://arxiv.org/abs/2312.03538v3)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
+|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v2](http://arxiv.org/abs/2407.04194v2)|null|
