@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-01 07:24:38 Asia/Shanghai
+ Automated deployment @ 2025-02-01 19:20:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -37,25 +37,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
-|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
-|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
-|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
-|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
-|**2023-08-13**|**Detecting Structural Shifts in Multivariate Hawkes Processes with Fréchet Statistics**|Rui Luo et.al.|[2308.06769v3](http://arxiv.org/abs/2308.06769v3)|null|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
-|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
-|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
-|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
-|**2023-07-18**|**A Fréchet Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v2](http://arxiv.org/abs/2307.09037v2)|null|
-|**2024-03-30**|**Global Implicit Function Theorems and Critical Point Theory in Fréchet Spaces**|Kaveh Eftekharinasab et.al.|[2404.00286v2](http://arxiv.org/abs/2404.00286v2)|null|
-|**2023-12-18**|**Relating Interleaving and Fréchet Distances via Ordered Merge Trees**|Thijs Beurskens et.al.|[2312.11113v4](http://arxiv.org/abs/2312.11113v4)|null|
-|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v2](http://arxiv.org/abs/2409.02212v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -74,6 +55,25 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
+|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
+|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
+|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
+|**2023-08-13**|**Detecting Structural Shifts in Multivariate Hawkes Processes with Fréchet Statistics**|Rui Luo et.al.|[2308.06769v3](http://arxiv.org/abs/2308.06769v3)|null|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
+|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
+|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
+|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
+|**2023-07-18**|**A Fréchet Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v2](http://arxiv.org/abs/2307.09037v2)|null|
+|**2024-03-30**|**Global Implicit Function Theorems and Critical Point Theory in Fréchet Spaces**|Kaveh Eftekharinasab et.al.|[2404.00286v2](http://arxiv.org/abs/2404.00286v2)|null|
+|**2023-12-18**|**Relating Interleaving and Fréchet Distances via Ordered Merge Trees**|Thijs Beurskens et.al.|[2312.11113v4](http://arxiv.org/abs/2312.11113v4)|null|
+|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212v2](http://arxiv.org/abs/2409.02212v2)|null|
 
 ## Variable Selection
 
