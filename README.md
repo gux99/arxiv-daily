@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-04 07:24:53 Asia/Shanghai
+ Automated deployment @ 2025-02-04 19:22:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -19,21 +19,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580v2](http://arxiv.org/abs/2501.18580v2)|null|
-|**2025-01-31**|**\underline{E2}Former: A Linear-time \underline{E}fficient and \underline{E}quivariant Trans\underline{former} for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216v1](http://arxiv.org/abs/2501.19216v1)|null|
-|**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205v1](http://arxiv.org/abs/2501.19205v1)|[link](https://github.com/camlab-ethz/rigno)|
-|**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179v1](http://arxiv.org/abs/2501.19179v1)|null|
-|**2025-01-31**|**Learning the Hamiltonian Matrix of Large Atomic Systems**|Chen Hao Xia et.al.|[2501.19110v1](http://arxiv.org/abs/2501.19110v1)|null|
-|**2025-01-31**|**Understanding Oversmoothing in GNNs as Consensus in Opinion Dynamics**|Keqin Wang et.al.|[2501.19089v1](http://arxiv.org/abs/2501.19089v1)|null|
-|**2025-01-31**|**Optimizing Job Allocation using Reinforcement Learning with Graph Neural Networks**|Lars C. P. M. Quaedvlieg et.al.|[2501.19063v1](http://arxiv.org/abs/2501.19063v1)|null|
-|**2024-10-28**|**A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks**|Pau Ferrer-Cid et.al.|[2410.21006v2](http://arxiv.org/abs/2410.21006v2)|null|
-|**2024-09-08**|**MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks**|Carlo Abate et.al.|[2409.05100v3](http://arxiv.org/abs/2409.05100v3)|[link](https://github.com/ngmlgroup/maxcutpool)|
-|**2025-01-31**|**Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks**|Xiaoyan Jiang et.al.|[2501.18851v1](http://arxiv.org/abs/2501.18851v1)|null|
-|**2025-01-30**|**Neural Graph Pattern Machine**|Zehong Wang et.al.|[2501.18739v1](http://arxiv.org/abs/2501.18739v1)|null|
-|**2024-12-21**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441v2](http://arxiv.org/abs/2412.16441v2)|null|
-|**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439v1](http://arxiv.org/abs/2501.18439v1)|null|
-|**2025-01-30**|**A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation**|Àlex Solé et.al.|[2501.18369v1](http://arxiv.org/abs/2501.18369v1)|[link](https://github.com/imatge-upc/CartNet)|
-|**2025-01-30**|**Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global**|Jinlu Wang et.al.|[2501.18357v1](http://arxiv.org/abs/2501.18357v1)|null|
+|**2025-01-31**|**E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216v2](http://arxiv.org/abs/2501.19216v2)|null|
+|**2024-07-30**|**Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning**|JongWoo Kim et.al.|[2407.20648v2](http://arxiv.org/abs/2407.20648v2)|null|
+|**2024-05-24**|**Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557v3](http://arxiv.org/abs/2405.15557v3)|null|
+|**2023-06-04**|**Clarify Confused Nodes via Separated Learning**|Jiajun Zhou et.al.|[2306.02285v6](http://arxiv.org/abs/2306.02285v6)|[link](https://github.com/GISec-Team/NCGNN)|
+|**2024-09-20**|**Scalability of Graph Neural Network in Accurate Prediction of Frictional Contact Network in Suspensions**|Armin Aminimajd et.al.|[2409.13160v2](http://arxiv.org/abs/2409.13160v2)|null|
+|**2024-10-16**|**P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network**|Zheng Wang et.al.|[2410.13905v2](http://arxiv.org/abs/2410.13905v2)|null|
+|**2024-05-23**|**Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation**|He Zhang et.al.|[2405.14407v2](http://arxiv.org/abs/2405.14407v2)|null|
+|**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119v2](http://arxiv.org/abs/2412.14119v2)|null|
+|**2024-11-12**|**Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling**|Jinming Xing et.al.|[2411.07482v3](http://arxiv.org/abs/2411.07482v3)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032v3](http://arxiv.org/abs/2410.18032v3)|[link](https://github.com/bupt-gamma/graphteam)|
+|**2024-05-01**|**Discovering robust biomarkers of psychiatric disorders from resting-state functional MRI via graph neural networks: A systematic review**|Yi Hao Chan et.al.|[2405.00577v2](http://arxiv.org/abs/2405.00577v2)|null|
+|**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404v2](http://arxiv.org/abs/2412.17404v2)|[link](https://github.com/lzyfischer/brainmap)|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607v2](http://arxiv.org/abs/2404.08607v2)|null|
+|**2024-10-14**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546v4](http://arxiv.org/abs/2410.10546v4)|null|
+|**2024-10-03**|**How to Make LLMs Strong Node Classifiers?**|Zhe Xu et.al.|[2410.02296v2](http://arxiv.org/abs/2410.02296v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -80,6 +80,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-15**|**Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the US**|Fangzhi Luo et.al.|[2406.10499v6](http://arxiv.org/abs/2406.10499v6)|null|
+|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data**|Tianyu Zhang et.al.|[2310.12140v3](http://arxiv.org/abs/2310.12140v3)|null|
+|**2024-10-23**|**Stabilizing black-box model selection with the inflated argmax**|Melissa Adrian et.al.|[2410.18268v2](http://arxiv.org/abs/2410.18268v2)|null|
 |**2024-06-12**|**Enhancing Cosmological Model Selection with Interpretable Machine Learning**|Indira Ocampo et.al.|[2406.08351v2](http://arxiv.org/abs/2406.08351v2)|[link](https://github.com/IndiraOcampo/NN-HS_vs_LCDM)|
 |**2024-11-26**|**AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v4](http://arxiv.org/abs/2411.17284v4)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
 |**2025-01-29**|**Dynamics of Transient Structure in In-Context Linear Regression Transformers**|Liam Carroll et.al.|[2501.17745v2](http://arxiv.org/abs/2501.17745v2)|null|
@@ -92,6 +95,3 @@
 |**2024-01-09**|**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**|Zhao Ding et.al.|[2401.04535v2](http://arxiv.org/abs/2401.04535v2)|null|
 |**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844v1](http://arxiv.org/abs/2501.17844v1)|null|
 |**2024-03-06**|**Bayesian Variable Selection in Distributed Lag Models: A Focus on Binary Quantile and Count Data Regressions**|Daniel Dempsey et.al.|[2403.03646v2](http://arxiv.org/abs/2403.03646v2)|null|
-|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339v2](http://arxiv.org/abs/2501.10339v2)|null|
-|**2025-01-29**|**DFPE: A Diverse Fingerprint Ensemble for Enhancing LLM Performance**|Seffi Cohen et.al.|[2501.17479v1](http://arxiv.org/abs/2501.17479v1)|[link](https://github.com/nivgold/dfpe)|
-|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v2](http://arxiv.org/abs/2301.07476v2)|null|
