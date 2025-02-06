@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-06 07:25:23 Asia/Shanghai
+ Automated deployment @ 2025-02-06 19:22:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-05**|**Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators**|Yuan Xinjie et.al.|[2502.03424v1](http://arxiv.org/abs/2502.03424v1)|null|
+|**2025-02-05**|**RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry**|Li Sun et.al.|[2502.03251v1](http://arxiv.org/abs/2502.03251v1)|null|
+|**2025-02-05**|**SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels**|Xiangyu Dong et.al.|[2502.03201v1](http://arxiv.org/abs/2502.03201v1)|null|
+|**2025-02-05**|**Efficient Triangular Arbitrage Detection via Graph Neural Networks**|Di Zhang et.al.|[2502.03194v1](http://arxiv.org/abs/2502.03194v1)|null|
+|**2025-02-05**|**Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks**|Stavros Orfanoudakis et.al.|[2502.03067v1](http://arxiv.org/abs/2502.03067v1)|null|
+|**2025-02-05**|**TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics**|Lu Yi et.al.|[2502.02975v1](http://arxiv.org/abs/2502.02975v1)|null|
+|**2024-05-24**|**Cardinality Estimation on Hyper-relational Knowledge Graphs**|Fei Teng et.al.|[2405.15231v2](http://arxiv.org/abs/2405.15231v2)|null|
+|**2025-02-04**|**Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective**|Steve Azzolin et.al.|[2502.02719v1](http://arxiv.org/abs/2502.02719v1)|null|
+|**2023-10-23**|**HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**|Yihong Ma et.al.|[2310.15318v4](http://arxiv.org/abs/2310.15318v4)|null|
+|**2024-01-27**|**Product Manifold Representations for Learning on Biological Pathways**|Daniel McNeela et.al.|[2401.15478v2](http://arxiv.org/abs/2401.15478v2)|[link](https://github.com/mcneela/mixed-curvature-pathways)|
+|**2025-02-04**|**scBIT: Integrating Single-cell Transcriptomic Data into fMRI-based Prediction for Alzheimer's Disease Diagnosis**|Yu-An Huang et.al.|[2502.02630v1](http://arxiv.org/abs/2502.02630v1)|null|
+|**2025-02-04**|**Graph Structure Learning for Tumor Microenvironment with Cell Type Annotation from non-spatial scRNA-seq data**|Yu-An Huang et.al.|[2502.02629v1](http://arxiv.org/abs/2502.02629v1)|null|
 |**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488v1](http://arxiv.org/abs/2502.02488v1)|null|
 |**2025-02-04**|**Using Random Noise Equivariantly to Boost Graph Neural Networks Universally**|Xiyuan Wang et.al.|[2502.02479v1](http://arxiv.org/abs/2502.02479v1)|null|
 |**2025-02-04**|**Towards graph neural networks for provably solving convex optimization problems**|Chendi Qian et.al.|[2502.02446v1](http://arxiv.org/abs/2502.02446v1)|null|
-|**2025-02-04**|**MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2502.02311v1](http://arxiv.org/abs/2502.02311v1)|null|
-|**2025-02-04**|**Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb**|Fotis I. Giasemis et.al.|[2502.02304v1](http://arxiv.org/abs/2502.02304v1)|null|
-|**2025-02-04**|**EdgeGFL: Rethinking Edge Information in Graph Feature Preference Learning**|Shengda Zhuo et.al.|[2502.02302v1](http://arxiv.org/abs/2502.02302v1)|null|
-|**2022-01-28**|**Orientation-Aware Graph Neural Networks for Protein Structure Representation Learning**|Jiahan Li et.al.|[2201.13299v6](http://arxiv.org/abs/2201.13299v6)|null|
-|**2025-02-04**|**Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation**|Chenhao Zhai et.al.|[2502.02232v1](http://arxiv.org/abs/2502.02232v1)|null|
-|**2025-02-04**|**Graph Neural Networks for O-RAN Mobility Management: A Link Prediction Approach**|Ana Gonzalez Bermudez et.al.|[2502.02170v1](http://arxiv.org/abs/2502.02170v1)|null|
-|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228v3](http://arxiv.org/abs/2501.03228v3)|[link](https://github.com/hkuds/lightgnn)|
-|**2024-10-16**|**P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network**|Zheng Wang et.al.|[2410.13905v3](http://arxiv.org/abs/2410.13905v3)|null|
-|**2024-11-29**|**RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks**|Tae-Hoon Lee et.al.|[2411.19517v3](http://arxiv.org/abs/2411.19517v3)|null|
-|**2025-02-04**|**Query-Based and Unnoticeable Graph Injection Attack from Neighborhood Perspective**|Chang Liu et.al.|[2502.01936v1](http://arxiv.org/abs/2502.01936v1)|null|
-|**2024-07-22**|**Large-scale Time-Varying Portfolio Optimisation using Graph Attention Networks**|Kamesh Korangi et.al.|[2407.15532v2](http://arxiv.org/abs/2407.15532v2)|null|
-|**2025-02-03**|**Self-supervised Subgraph Neural Network With Deep Reinforcement Walk Exploration**|Jianming Huang et.al.|[2502.01809v1](http://arxiv.org/abs/2502.01809v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -60,6 +60,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v3](http://arxiv.org/abs/2306.15857v3)|null|
 |**2025-02-04**|**Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry**|Masanari Kimura et.al.|[2502.01995v1](http://arxiv.org/abs/2502.01995v1)|null|
 |**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
 |**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
@@ -74,13 +75,14 @@
 |**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
 |**2023-07-18**|**A Fréchet Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v2](http://arxiv.org/abs/2307.09037v2)|null|
 |**2024-03-30**|**Global Implicit Function Theorems and Critical Point Theory in Fréchet Spaces**|Kaveh Eftekharinasab et.al.|[2404.00286v2](http://arxiv.org/abs/2404.00286v2)|null|
-|**2023-12-18**|**Relating Interleaving and Fréchet Distances via Ordered Merge Trees**|Thijs Beurskens et.al.|[2312.11113v4](http://arxiv.org/abs/2312.11113v4)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-04**|**The Morphology of Dwarf Galaxies Hosting Variable Active Galactic Nuclei**|Erin Kimbro et.al.|[2502.02751v1](http://arxiv.org/abs/2502.02751v1)|null|
+|**2025-02-04**|**Practically Effective Adjustment Variable Selection in Causal Inference**|Atsushi Noda et.al.|[2502.02701v1](http://arxiv.org/abs/2502.02701v1)|null|
 |**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
 |**2025-02-04**|**Sampling models for selective inference**|Daniel García Rasines et.al.|[2502.02213v1](http://arxiv.org/abs/2502.02213v1)|null|
 |**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v2](http://arxiv.org/abs/2409.19689v2)|null|
@@ -94,5 +96,3 @@
 |**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data**|Tianyu Zhang et.al.|[2310.12140v3](http://arxiv.org/abs/2310.12140v3)|null|
 |**2025-02-01**|**Mordal: Automated Pretrained Model Selection for Vision Language Models**|Shiqi He et.al.|[2502.00241v1](http://arxiv.org/abs/2502.00241v1)|null|
 |**2024-10-23**|**Stabilizing black-box model selection with the inflated argmax**|Melissa Adrian et.al.|[2410.18268v2](http://arxiv.org/abs/2410.18268v2)|null|
-|**2024-06-12**|**Enhancing Cosmological Model Selection with Interpretable Machine Learning**|Indira Ocampo et.al.|[2406.08351v2](http://arxiv.org/abs/2406.08351v2)|[link](https://github.com/IndiraOcampo/NN-HS_vs_LCDM)|
-|**2024-11-26**|**AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v4](http://arxiv.org/abs/2411.17284v4)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
