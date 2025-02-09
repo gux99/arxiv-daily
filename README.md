@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-09 07:26:45 Asia/Shanghai
+ Automated deployment @ 2025-02-09 19:21:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,27 @@
 |**2023-04-27**|**Efficient IAM Greybox Penetration Testing**|Yang Hu et.al.|[2304.14540v6](http://arxiv.org/abs/2304.14540v6)|null|
 |**2024-12-21**|**MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights**|Jingjing Hu et.al.|[2412.16483v2](http://arxiv.org/abs/2412.16483v2)|[link](https://github.com/xian-sh/mol-mamba)|
 |**2025-02-06**|**On the Expressive Power of Subgraph Graph Neural Networks for Graphs with Bounded Cycles**|Ziang Chen et.al.|[2502.03703v1](http://arxiv.org/abs/2502.03703v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v3](http://arxiv.org/abs/2301.07476v3)|null|
+|**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities**|Yanis Lalou et.al.|[2407.11676v2](http://arxiv.org/abs/2407.11676v2)|[link](https://github.com/scikit-adaptation/skada-bench)|
+|**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061v2](http://arxiv.org/abs/2501.07061v2)|null|
+|**2025-02-06**|**Consistent model selection in a collection of stochastic block models**|Lucie Arts et.al.|[2502.03848v1](http://arxiv.org/abs/2502.03848v1)|null|
+|**2025-02-06**|**On the limits of some Bayesian model evaluation statistics**|Hien Duy Nguyen et.al.|[2502.03846v1](http://arxiv.org/abs/2502.03846v1)|null|
+|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v1](http://arxiv.org/abs/2502.03831v1)|null|
+|**2025-02-04**|**The Morphology of Dwarf Galaxies Hosting Variable Active Galactic Nuclei**|Erin Kimbro et.al.|[2502.02751v1](http://arxiv.org/abs/2502.02751v1)|null|
+|**2025-02-04**|**Practically Effective Adjustment Variable Selection in Causal Inference**|Atsushi Noda et.al.|[2502.02701v1](http://arxiv.org/abs/2502.02701v1)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
+|**2025-02-04**|**Sampling models for selective inference**|Daniel García Rasines et.al.|[2502.02213v1](http://arxiv.org/abs/2502.02213v1)|null|
+|**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v2](http://arxiv.org/abs/2409.19689v2)|null|
+|**2025-02-04**|**Heteroscedastic Double Bayesian Elastic Net**|Masanari Kimura et.al.|[2502.02032v1](http://arxiv.org/abs/2502.02032v1)|null|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v2](http://arxiv.org/abs/2501.08945v2)|[link](https://github.com/yiliu1998/coadvise)|
+|**2025-02-01**|**Less is More: Simplifying Network Traffic Classification Leveraging RFCs**|Nimesha Wickramasinghe et.al.|[2502.00586v2](http://arxiv.org/abs/2502.00586v2)|[link](https://github.com/nime-sha256/LiM)|
+|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v2](http://arxiv.org/abs/2403.01723v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v3](http://arxiv.org/abs/2301.07476v3)|null|
-|**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation On Diverse Modalities**|Yanis Lalou et.al.|[2407.11676v2](http://arxiv.org/abs/2407.11676v2)|[link](https://github.com/scikit-adaptation/skada-bench)|
-|**2025-01-13**|**A Beta Cauchy-Cauchy (BECCA) shrinkage prior for Bayesian variable selection**|Linduni M. Rodrigo et.al.|[2501.07061v2](http://arxiv.org/abs/2501.07061v2)|null|
-|**2025-02-06**|**Consistent model selection in a collection of stochastic block models**|Lucie Arts et.al.|[2502.03848v1](http://arxiv.org/abs/2502.03848v1)|null|
-|**2025-02-06**|**On the limits of some Bayesian model evaluation statistics**|Hien Duy Nguyen et.al.|[2502.03846v1](http://arxiv.org/abs/2502.03846v1)|null|
-|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v1](http://arxiv.org/abs/2502.03831v1)|null|
-|**2025-02-04**|**The Morphology of Dwarf Galaxies Hosting Variable Active Galactic Nuclei**|Erin Kimbro et.al.|[2502.02751v1](http://arxiv.org/abs/2502.02751v1)|null|
-|**2025-02-04**|**Practically Effective Adjustment Variable Selection in Causal Inference**|Atsushi Noda et.al.|[2502.02701v1](http://arxiv.org/abs/2502.02701v1)|null|
-|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
-|**2025-02-04**|**Sampling models for selective inference**|Daniel García Rasines et.al.|[2502.02213v1](http://arxiv.org/abs/2502.02213v1)|null|
-|**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689v2](http://arxiv.org/abs/2409.19689v2)|null|
-|**2025-02-04**|**Heteroscedastic Double Bayesian Elastic Net**|Masanari Kimura et.al.|[2502.02032v1](http://arxiv.org/abs/2502.02032v1)|null|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v2](http://arxiv.org/abs/2501.08945v2)|[link](https://github.com/yiliu1998/coadvise)|
-|**2025-02-01**|**Less is More: Simplifying Network Traffic Classification Leveraging RFCs**|Nimesha Wickramasinghe et.al.|[2502.00586v2](http://arxiv.org/abs/2502.00586v2)|[link](https://github.com/nime-sha256/LiM)|
-|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v2](http://arxiv.org/abs/2403.01723v2)|null|
