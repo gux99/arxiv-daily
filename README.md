@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-14 07:25:59 Asia/Shanghai
+ Automated deployment @ 2025-02-14 19:22:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-13**|**Enhancing the Utility of Higher-Order Information in Relational Learning**|Raphael Pellegrin et.al.|[2502.09570v1](http://arxiv.org/abs/2502.09570v1)|null|
+|**2025-02-13**|**Machine learning for modelling unstructured grid data in computational physics: a review**|Sibo Cheng et.al.|[2502.09346v1](http://arxiv.org/abs/2502.09346v1)|null|
+|**2025-02-13**|**Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective**|Zhiwei Shan et.al.|[2502.09344v1](http://arxiv.org/abs/2502.09344v1)|null|
+|**2025-02-13**|**Graph Diffusion Network for Drug-Gene Prediction**|Jiayang Wu et.al.|[2502.09335v1](http://arxiv.org/abs/2502.09335v1)|null|
+|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271v1](http://arxiv.org/abs/2502.09271v1)|null|
+|**2025-02-13**|**Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence**|Yuankai Luo et.al.|[2502.09263v1](http://arxiv.org/abs/2502.09263v1)|[link](https://github.com/LUOyk1999/tunedGNN-G)|
+|**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949v1](http://arxiv.org/abs/2502.08949v1)|null|
+|**2024-08-03**|**Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697v2](http://arxiv.org/abs/2408.01697v2)|[link](https://github.com/maowenyu-11/infoigl)|
+|**2025-02-10**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921v2](http://arxiv.org/abs/2502.06921v2)|null|
 |**2025-01-23**|**Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function**|Maria-Florina Balcan et.al.|[2501.13734v3](http://arxiv.org/abs/2501.13734v3)|null|
 |**2024-10-09**|**Matcha: Mitigating Graph Structure Shifts with Test-Time Adaptation**|Wenxuan Bao et.al.|[2410.06976v2](http://arxiv.org/abs/2410.06976v2)|null|
+|**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v3](http://arxiv.org/abs/2202.13800v3)|[link](https://github.com/zshicode/latent-variable-gnn)|
 |**2023-04-27**|**Efficient IAM Greybox Penetration Testing**|Yang Hu et.al.|[2304.14540v7](http://arxiv.org/abs/2304.14540v7)|null|
 |**2024-02-15**|**Reconstructing short-lived particles using hypergraph representation learning**|Callum Birch-Sykes et.al.|[2402.10149v3](http://arxiv.org/abs/2402.10149v3)|null|
 |**2025-02-12**|**Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation**|Tao Wen et.al.|[2502.08505v1](http://arxiv.org/abs/2502.08505v1)|null|
-|**2024-11-04**|**GraphXAIN: Narratives to Explain Graph Neural Networks**|Mateusz Cedro et.al.|[2411.02540v3](http://arxiv.org/abs/2411.02540v3)|[link](https://github.com/ADMAntwerp/GraphXAIN)|
-|**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140v4](http://arxiv.org/abs/2304.11140v4)|null|
-|**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v2](http://arxiv.org/abs/2502.00031v2)|null|
-|**2025-02-12**|**Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy**|Ruizhan Xue et.al.|[2502.08353v1](http://arxiv.org/abs/2502.08353v1)|null|
-|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346v1](http://arxiv.org/abs/2502.08346v1)|null|
-|**2025-02-12**|**Data Pricing for Graph Neural Networks without Pre-purchased Inspection**|Yiping Liu et.al.|[2502.08284v1](http://arxiv.org/abs/2502.08284v1)|null|
-|**2025-02-12**|**Equivariant Masked Position Prediction for Efficient Molecular Representation**|Junyi An et.al.|[2502.08209v1](http://arxiv.org/abs/2502.08209v1)|null|
-|**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170v3](http://arxiv.org/abs/2407.18170v3)|null|
-|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
-|**2024-05-11**|**Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**|QingGuo Qi et.al.|[2405.06975v2](http://arxiv.org/abs/2405.06975v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v5](http://arxiv.org/abs/2202.04912v5)|null|
-|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v3](http://arxiv.org/abs/2306.15857v3)|null|
-|**2025-02-04**|**Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry**|Masanari Kimura et.al.|[2502.01995v1](http://arxiv.org/abs/2502.01995v1)|null|
-|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
-|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
-|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
-|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
-|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
-|**2023-08-13**|**Detecting Structural Shifts in Multivariate Hawkes Processes with Fréchet Statistics**|Rui Luo et.al.|[2308.06769v3](http://arxiv.org/abs/2308.06769v3)|null|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
-|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
-|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
-|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,11 +57,33 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v5](http://arxiv.org/abs/2202.04912v5)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v3](http://arxiv.org/abs/2306.15857v3)|null|
+|**2025-02-04**|**Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry**|Masanari Kimura et.al.|[2502.01995v1](http://arxiv.org/abs/2502.01995v1)|null|
+|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
+|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
+|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
+|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
+|**2023-08-13**|**Detecting Structural Shifts in Multivariate Hawkes Processes with Fréchet Statistics**|Rui Luo et.al.|[2308.06769v3](http://arxiv.org/abs/2308.06769v3)|null|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
+|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
+|**2024-11-10**|**Project Tracyn: Generative Artificial Intelligence based Peripherals Trace Synthesizer**|Zhibai Huang et.al.|[2411.06376v2](http://arxiv.org/abs/2411.06376v2)|null|
+|**2025-01-11**|**A Tight VC-Dimension Analysis of Clustering Coresets with Applications**|Vincent Cohen-Addad et.al.|[2501.06588v1](http://arxiv.org/abs/2501.06588v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-13**|**A Differentiable Rank-Based Objective For Better Feature Learning**|Krunoslav Lehman Pavasovic et.al.|[2502.09445v1](http://arxiv.org/abs/2502.09445v1)|null|
+|**2025-02-13**|**Capitalizing on a Crisis: A Computational Analysis of all Five Million British Firms During the Covid-19 Pandemic**|Naomi Muggleton et.al.|[2502.09383v1](http://arxiv.org/abs/2502.09383v1)|null|
+|**2024-11-26**|**ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation**|Yunyi Liu et.al.|[2411.17301v2](http://arxiv.org/abs/2411.17301v2)|null|
 |**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515v1](http://arxiv.org/abs/2502.08515v1)|null|
 |**2022-09-07**|**An Extension of the Unified Skew-Normal Family of Distributions and Application to Bayesian Binary Regression**|Paolo Onorati et.al.|[2209.03474v4](http://arxiv.org/abs/2209.03474v4)|null|
 |**2025-02-12**|**Likelihood-free Model Selection in Cosmic Reionization with Three-dimensional Tomographic 21 cm Lightcone Images**|T. Binnie et.al.|[2502.08152v1](http://arxiv.org/abs/2502.08152v1)|null|
@@ -93,6 +96,3 @@
 |**2025-02-10**|**The Value of Information in Human-AI Decision-making**|Ziyang Guo et.al.|[2502.06152v1](http://arxiv.org/abs/2502.06152v1)|null|
 |**2022-07-13**|**Contextual Active Model Selection**|Xuefeng Liu et.al.|[2207.06030v4](http://arxiv.org/abs/2207.06030v4)|null|
 |**2025-02-08**|**Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews**|Izunna Okpala et.al.|[2502.05439v1](http://arxiv.org/abs/2502.05439v1)|null|
-|**2024-09-11**|**Order selection in GARMA models for count time series: a Bayesian perspective**|Katerine Zuniga Lastra et.al.|[2409.07263v2](http://arxiv.org/abs/2409.07263v2)|null|
-|**2023-07-24**|**Consistent model selection in the spiked Wigner model via AIC-type criteria**|Soumendu Sundar Mukherjee et.al.|[2307.12982v2](http://arxiv.org/abs/2307.12982v2)|null|
-|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209v2](http://arxiv.org/abs/2410.05209v2)|[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)|
