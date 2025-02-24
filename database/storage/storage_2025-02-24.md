@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-24 07:24:24 Asia/Shanghai
+ Automated deployment @ 2025-02-24 19:23:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,27 +20,49 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146v2](http://arxiv.org/abs/2409.11146v2)|[link](https://github.com/lunarlab-gatech/morphology-informed-hgnn)|
-|**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy Mostafa et.al.|[2311.11782v2](http://arxiv.org/abs/2311.11782v2)|null|
-|**2025-02-20**|**Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting**|Yannick Wölker et.al.|[2502.14525v1](http://arxiv.org/abs/2502.14525v1)|null|
-|**2025-01-23**|**KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks**|Taoran Fang et.al.|[2501.13456v2](http://arxiv.org/abs/2501.13456v2)|[link](https://github.com/luckytiger123/kaa)|
-|**2025-02-19**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797v2](http://arxiv.org/abs/2502.13797v2)|null|
-|**2025-02-04**|**MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2502.02311v2](http://arxiv.org/abs/2502.02311v2)|null|
-|**2024-12-16**|**Graph-Guided Textual Explanation Generation Framework**|Shuzhou Yuan et.al.|[2412.12318v2](http://arxiv.org/abs/2412.12318v2)|null|
-|**2025-02-20**|**DAG: Deep Adaptive and Generative $K$-Free Community Detection on Attributed Graphs**|Chang Liu et.al.|[2502.14294v1](http://arxiv.org/abs/2502.14294v1)|null|
-|**2025-02-20**|**Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies**|Jeehong Kim et.al.|[2502.14197v1](http://arxiv.org/abs/2502.14197v1)|null|
-|**2025-02-19**|**Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks**|Yonghao Liu et.al.|[2502.14158v1](http://arxiv.org/abs/2502.14158v1)|null|
-|**2025-02-19**|**SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection**|Tanzim Mahfuz et.al.|[2502.14116v1](http://arxiv.org/abs/2502.14116v1)|null|
-|**2024-04-02**|**Learning nuclear cross sections across the chart of nuclides with graph neural networks**|Sinjini Mitra et.al.|[2404.02332v2](http://arxiv.org/abs/2404.02332v2)|null|
-|**2024-03-19**|**Dynamic Gradient Influencing for Viral Marketing Using Graph Neural Networks**|Saurabh Sharma et.al.|[2403.12399v2](http://arxiv.org/abs/2403.12399v2)|null|
-|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v3](http://arxiv.org/abs/2409.07769v3)|null|
-|**2024-12-04**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967v3](http://arxiv.org/abs/2412.02967v3)|[link](https://github.com/rfjd/gns-dispersedsystems)|
+|**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506v2](http://arxiv.org/abs/2312.17506v2)|null|
+|**2025-02-21**|**Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks**|Jeremie Ochin et.al.|[2502.15462v1](http://arxiv.org/abs/2502.15462v1)|null|
+|**2022-01-24**|**Graph Neural Diffusion Networks for Semi-supervised Learning**|Wei Ye et.al.|[2201.09698v3](http://arxiv.org/abs/2201.09698v3)|[link](https://github.com/yeweiysh/gnd-nets)|
+|**2024-09-18**|**World of Forms: Deformable Geometric Templates for One-Shot Surface Meshing in Coronary CT Angiography**|Rudolf L. M. van Herten et.al.|[2409.11837v2](http://arxiv.org/abs/2409.11837v2)|null|
+|**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346v1](http://arxiv.org/abs/2502.15346v1)|null|
+|**2021-05-25**|**GraphFM: Graph Factorization Machines for Feature Interaction Modeling**|Shu Wu et.al.|[2105.11866v5](http://arxiv.org/abs/2105.11866v5)|[link](https://github.com/cripac-dig/graphctr)|
+|**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v2](http://arxiv.org/abs/2209.06418v2)|null|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128v2](http://arxiv.org/abs/2502.12128v2)|[link](https://github.com/ml-jku/lam-slide)|
+|**2025-02-21**|**Learning Maritime Inventory Routing Optimization**|Rui Chen et.al.|[2502.15244v1](http://arxiv.org/abs/2502.15244v1)|null|
+|**2025-02-21**|**GNN-Coder: Boosting Semantic Code Retrieval with Combined GNNs and Transformer**|Yufan Ye et.al.|[2502.15202v1](http://arxiv.org/abs/2502.15202v1)|null|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198v1](http://arxiv.org/abs/2502.15198v1)|null|
+|**2025-02-21**|**Decoding lithium's subtle phase stability with a machine learning force field**|Yiheng Shen et.al.|[2502.15190v1](http://arxiv.org/abs/2502.15190v1)|null|
+|**2024-12-26**|**Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning**|Xingbo Fu et.al.|[2412.19229v2](http://arxiv.org/abs/2412.19229v2)|[link](https://github.com/xbfu/FedVN)|
+|**2025-02-20**|**GiGL: Large-Scale Graph Neural Networks at Snapchat**|Tong Zhao et.al.|[2502.15054v1](http://arxiv.org/abs/2502.15054v1)|null|
+|**2025-02-20**|**Benchmarking Android Malware Detection: Rethinking the Role of Traditional and Deep Learning Models**|Guojun Liu et.al.|[2502.15041v1](http://arxiv.org/abs/2502.15041v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584v1](http://arxiv.org/abs/2502.15584v1)|null|
+|**2025-02-16**|**Quantifying the Capability Boundary of DeepSeek Models: An Application-Driven Performance Analysis**|Kaikai Zhao et.al.|[2502.11164v2](http://arxiv.org/abs/2502.11164v2)|null|
+|**2025-02-21**|**Network Resource Optimization for ML-Based UAV Condition Monitoring with Vibration Analysis**|Alexandre Gemayel et.al.|[2502.15491v1](http://arxiv.org/abs/2502.15491v1)|null|
+|**2025-02-20**|**biastest: Testing parameter equality across different models in Stata**|Hasraddin Guliyev et.al.|[2502.15049v1](http://arxiv.org/abs/2502.15049v1)|null|
+|**2024-04-03**|**Asymptotically-exact selective inference for quantile regression**|Yumeng Wang et.al.|[2404.03059v3](http://arxiv.org/abs/2404.03059v3)|null|
+|**2024-12-19**|**From Human Annotation to LLMs: SILICON Annotation Workflow for Management Research**|Xiang Cheng et.al.|[2412.14461v2](http://arxiv.org/abs/2412.14461v2)|null|
+|**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815v1](http://arxiv.org/abs/2502.14815v1)|[link](https://github.com/LLMSELECTOR/LLMSELECTOR)|
+|**2025-02-20**|**Data-Efficient Pretraining with Group-Level Data Influence Modeling**|Zichun Yu et.al.|[2502.14709v1](http://arxiv.org/abs/2502.14709v1)|null|
+|**2025-02-20**|**Moshi Moshi? A Model Selection Hijacking Adversarial Attack**|Riccardo Petrucci et.al.|[2502.14586v1](http://arxiv.org/abs/2502.14586v1)|null|
+|**2025-02-20**|**Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs**|Paris Koloveas et.al.|[2502.14561v1](http://arxiv.org/abs/2502.14561v1)|[link](https://github.com/athenarc/citationintentopenllm)|
+|**2022-10-28**|**UniASM: Binary Code Similarity Detection without Fine-tuning**|Yeming Gu et.al.|[2211.01144v4](http://arxiv.org/abs/2211.01144v4)|[link](https://github.com/clm07/uniasm)|
+|**2025-02-19**|**DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering task**|Daniel Fernandes et.al.|[2502.14926v1](http://arxiv.org/abs/2502.14926v1)|null|
+|**2025-02-19**|**Beyond One-Size-Fits-All: Tailored Benchmarks for Efficient Evaluation**|Peiwen Yuan et.al.|[2502.13576v1](http://arxiv.org/abs/2502.13576v1)|null|
+|**2025-02-19**|**OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment**|Xiangjin Xie et.al.|[2502.14913v1](http://arxiv.org/abs/2502.14913v1)|null|
+|**2025-02-18**|**The Majority Vote Paradigm Shift: When Popular Meets Optimal**|Antonio Purificato et.al.|[2502.12581v2](http://arxiv.org/abs/2502.12581v2)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**Fréchet Cumulative Covariance Net for Deep Nonlinear Sufficient Dimension Reduction with Random Objects**|Hang Yuan et.al.|[2502.15374v1](http://arxiv.org/abs/2502.15374v1)|null|
 |**2024-09-15**|**Topology and geometry of the general composition of formal power series -- towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v2](http://arxiv.org/abs/2409.09853v2)|null|
 |**2022-08-26**|**Global Fréchet regression from time correlated bivariate curve data in manifolds**|A. Torres-Signes et.al.|[2208.12585v5](http://arxiv.org/abs/2208.12585v5)|null|
 |**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
@@ -55,7 +77,6 @@
 |**2023-08-13**|**Detecting Structural Shifts in Multivariate Hawkes Processes with Fréchet Statistics**|Rui Luo et.al.|[2308.06769v3](http://arxiv.org/abs/2308.06769v3)|null|
 |**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
 |**2024-12-10**|**Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation**|Jan Retkowski et.al.|[2412.07948v2](http://arxiv.org/abs/2412.07948v2)|[link](https://github.com/jryban/frechet-music-distance)|
-|**2024-12-27**|**Approximation Rates in Fréchet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers**|Ahmed Abdeljawad et.al.|[2501.04023v2](http://arxiv.org/abs/2501.04023v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,24 +96,3 @@
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815v1](http://arxiv.org/abs/2502.14815v1)|null|
-|**2025-02-20**|**Data-Efficient Pretraining with Group-Level Data Influence Modeling**|Zichun Yu et.al.|[2502.14709v1](http://arxiv.org/abs/2502.14709v1)|null|
-|**2025-02-20**|**Moshi Moshi? A Model Selection Hijacking Adversarial Attack**|Riccardo Petrucci et.al.|[2502.14586v1](http://arxiv.org/abs/2502.14586v1)|null|
-|**2025-02-20**|**Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs**|Paris Koloveas et.al.|[2502.14561v1](http://arxiv.org/abs/2502.14561v1)|null|
-|**2022-10-28**|**UniASM: Binary Code Similarity Detection without Fine-tuning**|Yeming Gu et.al.|[2211.01144v4](http://arxiv.org/abs/2211.01144v4)|[link](https://github.com/clm07/uniasm)|
-|**2025-02-19**|**Beyond One-Size-Fits-All: Tailored Benchmarks for Efficient Evaluation**|Peiwen Yuan et.al.|[2502.13576v1](http://arxiv.org/abs/2502.13576v1)|null|
-|**2025-02-18**|**The Majority Vote Paradigm Shift: When Popular Meets Optimal**|Antonio Purificato et.al.|[2502.12581v2](http://arxiv.org/abs/2502.12581v2)|null|
-|**2023-01-18**|**Negative Moment Bounds for Sample Autocovariance Matrices of Stationary Processes Driven by Conditional Heteroscedastic Errors and Their Applications**|Hsueh-Han Huang et.al.|[2301.07476v4](http://arxiv.org/abs/2301.07476v4)|null|
-|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|[link](https://github.com/alemermartinez/rplam-vs)|
-|**2025-02-18**|**Model selection for behavioral learning data and applications to contextual bandits**|Julien Aubert et.al.|[2502.13186v1](http://arxiv.org/abs/2502.13186v1)|null|
-|**2025-02-18**|**SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models**|Seanie Lee et.al.|[2502.12464v1](http://arxiv.org/abs/2502.12464v1)|null|
-|**2024-01-08**|**Inference on testing the number of spikes in a high-dimensional generalized spiked Fisher matrix**|Rui Wang et.al.|[2401.03622v2](http://arxiv.org/abs/2401.03622v2)|null|
-|**2021-08-24**|**METRO: A Software-Hardware Co-Design of Interconnections for Spatial DNN Accelerators**|Zhao Wang et.al.|[2108.10570v2](http://arxiv.org/abs/2108.10570v2)|null|
-|**2024-10-21**|**Revisiting the Equivalence of Bayesian Neural Networks and Gaussian Processes: On the Importance of Learning Activations**|Marcin Sendera et.al.|[2410.15777v2](http://arxiv.org/abs/2410.15777v2)|[link](https://github.com/gmum/bnn-functional-priors)|
-|**2025-02-17**|**On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series**|Kausik Lakkaraju et.al.|[2502.12226v1](http://arxiv.org/abs/2502.12226v1)|null|
