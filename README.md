@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-28 07:26:24 Asia/Shanghai
+ Automated deployment @ 2025-02-28 19:23:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631v2](http://arxiv.org/abs/2410.18631v2)|null|
+|**2025-02-24**|**Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks**|Emiliano Seri et.al.|[2502.17371v2](http://arxiv.org/abs/2502.17371v2)|null|
+|**2024-10-11**|**When Graph meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graphs Learning**|Hao Yan et.al.|[2410.09132v2](http://arxiv.org/abs/2410.09132v2)|[link](https://github.com/sktsherlock/atg)|
+|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743v2](http://arxiv.org/abs/2502.18743v2)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036v1](http://arxiv.org/abs/2502.20036v1)|null|
+|**2025-02-27**|**WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks**|Jana Vatter et.al.|[2502.19986v1](http://arxiv.org/abs/2502.19986v1)|null|
+|**2025-02-27**|**Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction**|Gengyuan Hu et.al.|[2502.19971v1](http://arxiv.org/abs/2502.19971v1)|null|
+|**2025-02-27**|**GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction**|Weiyang Kong et.al.|[2502.19823v1](http://arxiv.org/abs/2502.19823v1)|null|
+|**2025-02-23**|**A Survey of Graph Transformers: Architectures, Theories and Applications**|Chaohao Yuan et.al.|[2502.16533v2](http://arxiv.org/abs/2502.16533v2)|null|
+|**2024-10-30**|**Graph Signal Processing for Global Stock Market Realized Volatility Forecasting**|Zhengyang Chi et.al.|[2410.22706v2](http://arxiv.org/abs/2410.22706v2)|[link](https://github.com/MikeZChi/GSPHAR)|
+|**2025-02-27**|**Accurate and Scalable Graph Neural Networks via Message Invariance**|Zhihao Shi et.al.|[2502.19693v1](http://arxiv.org/abs/2502.19693v1)|null|
+|**2025-02-27**|**Training Robust Graph Neural Networks by Modeling Noise Dependencies**|Yeonjun In et.al.|[2502.19670v1](http://arxiv.org/abs/2502.19670v1)|null|
+|**2024-02-26**|**Hyperdimensional Representation Learning for Node Classification and Link Prediction**|Abhishek Dalvi et.al.|[2402.17073v3](http://arxiv.org/abs/2402.17073v3)|null|
 |**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377v1](http://arxiv.org/abs/2502.19377v1)|null|
-|**2024-06-09**|**What is my quantum computer good for? Quantum capability learning with physics-aware neural networks**|Daniel Hothem et.al.|[2406.05636v2](http://arxiv.org/abs/2406.05636v2)|null|
-|**2025-02-24**|**Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks**|Taos Transue et.al.|[2502.17612v2](http://arxiv.org/abs/2502.17612v2)|null|
-|**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252v1](http://arxiv.org/abs/2502.19252v1)|null|
-|**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181v1](http://arxiv.org/abs/2502.19181v1)|null|
-|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998v1](http://arxiv.org/abs/2502.18998v1)|null|
-|**2025-01-31**|**Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks**|Xiaoyan Jiang et.al.|[2501.18851v2](http://arxiv.org/abs/2501.18851v2)|null|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v6](http://arxiv.org/abs/2408.12594v6)|[link](https://github.com/jaygagaga/pronog)|
-|**2024-05-03**|**Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems**|Ha An Le et.al.|[2405.01979v3](http://arxiv.org/abs/2405.01979v3)|null|
-|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875v1](http://arxiv.org/abs/2502.18875v1)|null|
-|**2025-02-05**|**TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics**|Lu Yi et.al.|[2502.02975v2](http://arxiv.org/abs/2502.02975v2)|[link](https://github.com/TGB-Seq/TGB-Seq)|
-|**2025-02-26**|**TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization**|Anay Majee et.al.|[2502.18847v1](http://arxiv.org/abs/2502.18847v1)|null|
-|**2025-02-26**|**Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation**|Yuxiang Wang et.al.|[2502.18771v1](http://arxiv.org/abs/2502.18771v1)|[link](https://github.com/myflashbarry/LLM-benchmarking)|
-|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743v1](http://arxiv.org/abs/2502.18743v1)|null|
-|**2025-02-17**|**Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs**|Batu El et.al.|[2502.12352v2](http://arxiv.org/abs/2502.12352v2)|[link](https://github.com/batu-el/understanding-inductive-biases-of-gnns)|
+|**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043v3](http://arxiv.org/abs/2406.04043v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Understanding the Limits of Deep Tabular Methods with Temporal Shift**|Hao-Run Cai et.al.|[2502.20260v1](http://arxiv.org/abs/2502.20260v1)|null|
+|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v3](http://arxiv.org/abs/2410.16577v3)|null|
+|**2024-10-30**|**VerifyPrompt: How to Verify Text-to-Image Models Behind Black-Box API?**|Ji Guo et.al.|[2410.22725v3](http://arxiv.org/abs/2410.22725v3)|null|
+|**2025-02-27**|**Time-Varying Identification of Structural Vector Autoregressions**|Annika Camehl et.al.|[2502.19659v1](http://arxiv.org/abs/2502.19659v1)|null|
+|**2025-02-26**|**Extremely Greedy Equivalence Search**|Achille Nazaret et.al.|[2502.19551v1](http://arxiv.org/abs/2502.19551v1)|null|
+|**2021-07-21**|**Bayesian iterative screening in ultra-high dimensional linear regressions**|Run Wang et.al.|[2107.10175v2](http://arxiv.org/abs/2107.10175v2)|null|
+|**2025-02-26**|**Validating the predictions of mathematical models describing tumor growth and treatment response**|Guillermo Lorenzo et.al.|[2502.19333v1](http://arxiv.org/abs/2502.19333v1)|null|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v5](http://arxiv.org/abs/2206.04902v5)|[link](https://github.com/luisgruber/GK-IJF-BVAR)|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v3](http://arxiv.org/abs/2501.08945v3)|[link](https://github.com/yiliu1998/coadvise)|
+|**2025-02-26**|**MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition**|Dongwei Xu et.al.|[2502.19071v1](http://arxiv.org/abs/2502.19071v1)|null|
+|**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834v1](http://arxiv.org/abs/2502.18834v1)|null|
+|**2025-02-26**|**Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data**|Rong Wu et.al.|[2502.18756v1](http://arxiv.org/abs/2502.18756v1)|null|
+|**2025-02-25**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models**|Fengze Yang et.al.|[2502.18652v1](http://arxiv.org/abs/2502.18652v1)|null|
+|**2025-02-25**|**A Matsuoka-Based GARMA Model for Hydrological Forecasting: Theory, Estimation, and Applications**|Guilherme Pumi et.al.|[2502.18645v1](http://arxiv.org/abs/2502.18645v1)|null|
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v4](http://arxiv.org/abs/2304.09310v4)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
 |**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
 |**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-26**|**Validating the predictions of mathematical models describing tumor growth and treatment response**|Guillermo Lorenzo et.al.|[2502.19333v1](http://arxiv.org/abs/2502.19333v1)|null|
-|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v5](http://arxiv.org/abs/2206.04902v5)|[link](https://github.com/luisgruber/GK-IJF-BVAR)|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v3](http://arxiv.org/abs/2501.08945v3)|[link](https://github.com/yiliu1998/coadvise)|
-|**2025-02-26**|**MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition**|Dongwei Xu et.al.|[2502.19071v1](http://arxiv.org/abs/2502.19071v1)|null|
-|**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834v1](http://arxiv.org/abs/2502.18834v1)|null|
-|**2025-02-26**|**Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data**|Rong Wu et.al.|[2502.18756v1](http://arxiv.org/abs/2502.18756v1)|null|
-|**2025-02-25**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models**|Fengze Yang et.al.|[2502.18652v1](http://arxiv.org/abs/2502.18652v1)|null|
-|**2025-02-25**|**A Matsuoka-Based GARMA Model for Hydrological Forecasting: Theory, Estimation, and Applications**|Guilherme Pumi et.al.|[2502.18645v1](http://arxiv.org/abs/2502.18645v1)|null|
-|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v4](http://arxiv.org/abs/2304.09310v4)|null|
-|**2024-10-03**|**Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling**|Yuxuan Yao et.al.|[2410.03777v2](http://arxiv.org/abs/2410.03777v2)|null|
-|**2025-02-16**|**Quantifying the Capability Boundary of DeepSeek Models: An Application-Driven Performance Analysis**|Kaikai Zhao et.al.|[2502.11164v3](http://arxiv.org/abs/2502.11164v3)|null|
-|**2025-02-01**|**Robust Knowledge Distillation in Federated Learning: Counteracting Backdoor Attacks**|Ebtisaam Alharbi et.al.|[2502.00587v2](http://arxiv.org/abs/2502.00587v2)|null|
-|**2025-02-25**|**Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**|Wenkai Yang et.al.|[2502.18080v1](http://arxiv.org/abs/2502.18080v1)|null|
-|**2025-02-25**|**AirCast: Improving Air Pollution Forecasting Through Multi-Variable Data Alignment**|Vishal Nedungadi et.al.|[2502.17919v1](http://arxiv.org/abs/2502.17919v1)|[link](https://github.com/vishalned/aircast)|
-|**2024-10-17**|**ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization**|Chen Bo Calvin Zhang et.al.|[2410.13837v3](http://arxiv.org/abs/2410.13837v3)|[link](https://github.com/calvincbzhang/orso)|
