@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-01 07:25:32 Asia/Shanghai
+ Automated deployment @ 2025-03-01 19:21:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -38,25 +38,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160v2](http://arxiv.org/abs/2502.17160v2)|null|
-|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v3](http://arxiv.org/abs/2403.01505v3)|null|
-|**2025-02-22**|**Bayesian nonparametric inference on a Fréchet class**|Emanuela Dreassi et.al.|[2502.16192v1](http://arxiv.org/abs/2502.16192v1)|null|
-|**2025-02-21**|**Fréchet Cumulative Covariance Net for Deep Nonlinear Sufficient Dimension Reduction with Random Objects**|Hang Yuan et.al.|[2502.15374v1](http://arxiv.org/abs/2502.15374v1)|null|
-|**2024-09-15**|**Topology and geometry of the general composition of formal power series -- towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v2](http://arxiv.org/abs/2409.09853v2)|null|
-|**2022-08-26**|**Global Fréchet regression from time correlated bivariate curve data in manifolds**|A. Torres-Signes et.al.|[2208.12585v5](http://arxiv.org/abs/2208.12585v5)|null|
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v5](http://arxiv.org/abs/2202.04912v5)|null|
-|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v3](http://arxiv.org/abs/2306.15857v3)|null|
-|**2025-02-04**|**Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry**|Masanari Kimura et.al.|[2502.01995v1](http://arxiv.org/abs/2502.01995v1)|null|
-|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
-|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
-|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
-|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
-|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -75,6 +56,25 @@
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160v2](http://arxiv.org/abs/2502.17160v2)|null|
+|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v3](http://arxiv.org/abs/2403.01505v3)|null|
+|**2025-02-22**|**Bayesian nonparametric inference on a Fréchet class**|Emanuela Dreassi et.al.|[2502.16192v1](http://arxiv.org/abs/2502.16192v1)|null|
+|**2025-02-21**|**Fréchet Cumulative Covariance Net for Deep Nonlinear Sufficient Dimension Reduction with Random Objects**|Hang Yuan et.al.|[2502.15374v1](http://arxiv.org/abs/2502.15374v1)|null|
+|**2024-09-15**|**Topology and geometry of the general composition of formal power series -- towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v2](http://arxiv.org/abs/2409.09853v2)|null|
+|**2022-08-26**|**Global Fréchet regression from time correlated bivariate curve data in manifolds**|A. Torres-Signes et.al.|[2208.12585v5](http://arxiv.org/abs/2208.12585v5)|null|
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v5](http://arxiv.org/abs/2202.04912v5)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Sun Yuan et.al.|[2306.15857v3](http://arxiv.org/abs/2306.15857v3)|null|
+|**2025-02-04**|**Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry**|Masanari Kimura et.al.|[2502.01995v1](http://arxiv.org/abs/2502.01995v1)|null|
+|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v2](http://arxiv.org/abs/2501.06259v2)|null|
+|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572v1](http://arxiv.org/abs/2501.15572v1)|null|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
+|**2025-01-22**|**Transforming Dogs on the Line: On the Fréchet Distance Under Translation or Scaling in 1D**|Lotte Blank et.al.|[2501.12821v1](http://arxiv.org/abs/2501.12821v1)|null|
+|**2025-01-22**|**Faster Fréchet Distance under Transformations**|Kevin Buchin et.al.|[2501.12814v1](http://arxiv.org/abs/2501.12814v1)|null|
 
 ## Variable Selection
 
