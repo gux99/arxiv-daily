@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-02 07:25:53 Asia/Shanghai
+ Automated deployment @ 2025-03-02 19:22:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,27 @@
 |**2024-02-26**|**Hyperdimensional Representation Learning for Node Classification and Link Prediction**|Abhishek Dalvi et.al.|[2402.17073v3](http://arxiv.org/abs/2402.17073v3)|null|
 |**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377v1](http://arxiv.org/abs/2502.19377v1)|null|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043v3](http://arxiv.org/abs/2406.04043v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Understanding the Limits of Deep Tabular Methods with Temporal Shift**|Hao-Run Cai et.al.|[2502.20260v1](http://arxiv.org/abs/2502.20260v1)|null|
+|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v3](http://arxiv.org/abs/2410.16577v3)|null|
+|**2024-10-30**|**VerifyPrompt: How to Verify Text-to-Image Models Behind Black-Box API?**|Ji Guo et.al.|[2410.22725v3](http://arxiv.org/abs/2410.22725v3)|null|
+|**2025-02-27**|**Time-Varying Identification of Structural Vector Autoregressions**|Annika Camehl et.al.|[2502.19659v1](http://arxiv.org/abs/2502.19659v1)|null|
+|**2025-02-26**|**Extremely Greedy Equivalence Search**|Achille Nazaret et.al.|[2502.19551v1](http://arxiv.org/abs/2502.19551v1)|null|
+|**2021-07-21**|**Bayesian iterative screening in ultra-high dimensional linear regressions**|Run Wang et.al.|[2107.10175v2](http://arxiv.org/abs/2107.10175v2)|null|
+|**2025-02-26**|**Validating the predictions of mathematical models describing tumor growth and treatment response**|Guillermo Lorenzo et.al.|[2502.19333v1](http://arxiv.org/abs/2502.19333v1)|null|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v5](http://arxiv.org/abs/2206.04902v5)|[link](https://github.com/luisgruber/GK-IJF-BVAR)|
+|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v3](http://arxiv.org/abs/2501.08945v3)|[link](https://github.com/yiliu1998/coadvise)|
+|**2025-02-26**|**MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition**|Dongwei Xu et.al.|[2502.19071v1](http://arxiv.org/abs/2502.19071v1)|null|
+|**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834v1](http://arxiv.org/abs/2502.18834v1)|null|
+|**2025-02-26**|**Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data**|Rong Wu et.al.|[2502.18756v1](http://arxiv.org/abs/2502.18756v1)|null|
+|**2025-02-25**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models**|Fengze Yang et.al.|[2502.18652v1](http://arxiv.org/abs/2502.18652v1)|null|
+|**2025-02-25**|**A Matsuoka-Based GARMA Model for Hydrological Forecasting: Theory, Estimation, and Applications**|Guilherme Pumi et.al.|[2502.18645v1](http://arxiv.org/abs/2502.18645v1)|null|
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v4](http://arxiv.org/abs/2304.09310v4)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-27**|**Understanding the Limits of Deep Tabular Methods with Temporal Shift**|Hao-Run Cai et.al.|[2502.20260v1](http://arxiv.org/abs/2502.20260v1)|null|
-|**2024-10-21**|**Bayesian High-dimensional Linear Regression with Sparse Projection-posterior**|Samhita Pal et.al.|[2410.16577v3](http://arxiv.org/abs/2410.16577v3)|null|
-|**2024-10-30**|**VerifyPrompt: How to Verify Text-to-Image Models Behind Black-Box API?**|Ji Guo et.al.|[2410.22725v3](http://arxiv.org/abs/2410.22725v3)|null|
-|**2025-02-27**|**Time-Varying Identification of Structural Vector Autoregressions**|Annika Camehl et.al.|[2502.19659v1](http://arxiv.org/abs/2502.19659v1)|null|
-|**2025-02-26**|**Extremely Greedy Equivalence Search**|Achille Nazaret et.al.|[2502.19551v1](http://arxiv.org/abs/2502.19551v1)|null|
-|**2021-07-21**|**Bayesian iterative screening in ultra-high dimensional linear regressions**|Run Wang et.al.|[2107.10175v2](http://arxiv.org/abs/2107.10175v2)|null|
-|**2025-02-26**|**Validating the predictions of mathematical models describing tumor growth and treatment response**|Guillermo Lorenzo et.al.|[2502.19333v1](http://arxiv.org/abs/2502.19333v1)|null|
-|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v5](http://arxiv.org/abs/2206.04902v5)|[link](https://github.com/luisgruber/GK-IJF-BVAR)|
-|**2025-01-15**|**COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials**|Yi Liu et.al.|[2501.08945v3](http://arxiv.org/abs/2501.08945v3)|[link](https://github.com/yiliu1998/coadvise)|
-|**2025-02-26**|**MCLRL: A Multi-Domain Contrastive Learning with Reinforcement Learning Framework for Few-Shot Modulation Recognition**|Dongwei Xu et.al.|[2502.19071v1](http://arxiv.org/abs/2502.19071v1)|null|
-|**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834v1](http://arxiv.org/abs/2502.18834v1)|null|
-|**2025-02-26**|**Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data**|Rong Wu et.al.|[2502.18756v1](http://arxiv.org/abs/2502.18756v1)|null|
-|**2025-02-25**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models**|Fengze Yang et.al.|[2502.18652v1](http://arxiv.org/abs/2502.18652v1)|null|
-|**2025-02-25**|**A Matsuoka-Based GARMA Model for Hydrological Forecasting: Theory, Estimation, and Applications**|Guilherme Pumi et.al.|[2502.18645v1](http://arxiv.org/abs/2502.18645v1)|null|
-|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v4](http://arxiv.org/abs/2304.09310v4)|null|
