@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-14 07:26:10 Asia/Shanghai
+ Automated deployment @ 2025-03-14 19:23:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,6 +20,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
+|**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Viet-Hoang Tran et.al.|[2410.04692v2](http://arxiv.org/abs/2410.04692v2)|null|
+|**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v3](http://arxiv.org/abs/2404.17365v3)|[link](https://github.com/fhendriks11/simegnn)|
+|**2023-06-14**|**Uncertainty-Aware Robust Learning on Noisy Graphs**|Shuyi Chen et.al.|[2306.08210v2](http://arxiv.org/abs/2306.08210v2)|null|
+|**2025-03-13**|**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation**|Zeyi Xu et.al.|[2503.10257v1](http://arxiv.org/abs/2503.10257v1)|null|
+|**2024-10-07**|**Accelerating Flood Warnings by 10 Hours: The Power of River Network Topology in AI-enhanced Flood Forecasting**|Hongjun Wang et.al.|[2410.05536v3](http://arxiv.org/abs/2410.05536v3)|null|
+|**2025-03-12**|**Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis**|Chenjun Li et.al.|[2503.09808v1](http://arxiv.org/abs/2503.09808v1)|null|
+|**2025-03-12**|**How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?**|Mir Imtiaz Mostafiz et.al.|[2503.09726v1](http://arxiv.org/abs/2503.09726v1)|null|
 |**2023-07-03**|**Data-driven decoding of quantum error correcting codes using graph neural networks**|Moritz Lange et.al.|[2307.01241v2](http://arxiv.org/abs/2307.01241v2)|null|
 |**2024-09-20**|**A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network**|Julian Carvajal Rico et.al.|[2409.13671v2](http://arxiv.org/abs/2409.13671v2)|null|
 |**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v1](http://arxiv.org/abs/2503.09401v1)|null|
@@ -27,14 +35,6 @@
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366v1](http://arxiv.org/abs/2503.09366v1)|null|
 |**2025-03-12**|**Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**|Yu Bu et.al.|[2503.09281v1](http://arxiv.org/abs/2503.09281v1)|null|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251v1](http://arxiv.org/abs/2503.09251v1)|null|
-|**2025-03-05**|**Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection**|Yue Hou et.al.|[2503.03241v2](http://arxiv.org/abs/2503.03241v2)|[link](https://github.com/name-is-what/sego)|
-|**2024-12-24**|**High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263v5](http://arxiv.org/abs/2412.18263v5)|[link](https://github.com/shihaoshao-gh/ict-decomposition-and-equivariant-bases)|
-|**2025-03-12**|**TreeX: Generating Global Graphical GNN Explanations via Critical Subtree Extraction**|Shengyao Lu et.al.|[2503.09051v1](http://arxiv.org/abs/2503.09051v1)|null|
-|**2025-03-12**|**Adaptive Backdoor Attacks with Reasonable Constraints on Graph Neural Networks**|Xuewen Dong et.al.|[2503.09049v1](http://arxiv.org/abs/2503.09049v1)|null|
-|**2025-01-06**|**Intelligent logistics management robot path planning algorithm integrating transformer and GCN network**|Hao Luo et.al.|[2501.02749v2](http://arxiv.org/abs/2501.02749v2)|null|
-|**2024-06-14**|**Robustness Inspired Graph Backdoor Defense**|Zhiwei Zhang et.al.|[2406.09836v2](http://arxiv.org/abs/2406.09836v2)|null|
-|**2025-03-12**|**Towards Quantifying Long-Range Interactions in Graph Machine Learning: a Large Graph Dataset and a Measurement**|Huidong Liang et.al.|[2503.09008v1](http://arxiv.org/abs/2503.09008v1)|null|
-|**2024-12-16**|**Feasibility Study of Measuring $Λ^0\to nπ^{0}$ Using a High-Granularity Zero-Degree Calorimeter at the Future Electron-Ion Collider**|Sebouh J. Paul et.al.|[2412.12346v2](http://arxiv.org/abs/2412.12346v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -81,6 +81,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**A Neumann-Neumann Acceleration with Coarse Space for Domain Decomposition of Extreme Learning Machines**|Chang-Ock Lee et.al.|[2503.10032v1](http://arxiv.org/abs/2503.10032v1)|null|
 |**2025-03-12**|**Unreflected Use of Tabular Data Repositories Can Undermine Research Quality**|Andrej Tschalzev et.al.|[2503.09159v1](http://arxiv.org/abs/2503.09159v1)|null|
 |**2025-03-11**|**Questioning Normality: A study of wavelet leaders distribution**|Wejdene Ben Nasr et.al.|[2503.08821v1](http://arxiv.org/abs/2503.08821v1)|null|
 |**2025-03-07**|**Model-based bi-clustering using multivariate Poisson-lognormal with general block-diagonal covariance matrix and its applications**|Caitlin Kral et.al.|[2503.05961v2](http://arxiv.org/abs/2503.05961v2)|null|
@@ -95,4 +96,3 @@
 |**2025-03-09**|**Bayesian Synthetic Control with a Soft Simplex Constraint**|Yihong Xu et.al.|[2503.06454v1](http://arxiv.org/abs/2503.06454v1)|null|
 |**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
 |**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
-|**2025-03-08**|**On a fast consistent selection of nested models with possibly unnormalised probability densities**|Rong Bian et.al.|[2503.06331v1](http://arxiv.org/abs/2503.06331v1)|null|
