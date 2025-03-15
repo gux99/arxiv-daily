@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-15 07:28:25 Asia/Shanghai
+ Automated deployment @ 2025-03-15 19:21:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -36,28 +36,26 @@
 |**2025-03-12**|**Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**|Yu Bu et.al.|[2503.09281v1](http://arxiv.org/abs/2503.09281v1)|null|
 |**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251v1](http://arxiv.org/abs/2503.09251v1)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**A Neumann-Neumann Acceleration with Coarse Space for Domain Decomposition of Extreme Learning Machines**|Chang-Ock Lee et.al.|[2503.10032v1](http://arxiv.org/abs/2503.10032v1)|null|
-|**2025-03-12**|**Unreflected Use of Tabular Data Repositories Can Undermine Research Quality**|Andrej Tschalzev et.al.|[2503.09159v1](http://arxiv.org/abs/2503.09159v1)|null|
-|**2025-03-11**|**Questioning Normality: A study of wavelet leaders distribution**|Wejdene Ben Nasr et.al.|[2503.08821v1](http://arxiv.org/abs/2503.08821v1)|null|
-|**2025-03-07**|**Model-based bi-clustering using multivariate Poisson-lognormal with general block-diagonal covariance matrix and its applications**|Caitlin Kral et.al.|[2503.05961v2](http://arxiv.org/abs/2503.05961v2)|null|
-|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634v1](http://arxiv.org/abs/2503.08634v1)|null|
-|**2025-03-10**|**ReLATE: Resilient Learner Selection for Multivariate Time-Series Classification Against Adversarial Attacks**|Cagla Ipek Kocal et.al.|[2503.07882v1](http://arxiv.org/abs/2503.07882v1)|null|
-|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v1](http://arxiv.org/abs/2503.07459v1)|null|
-|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v2](http://arxiv.org/abs/2502.03831v2)|null|
-|**2025-03-10**|**A right-truncated Poisson mixture model for analyzing count data**|Babagnidé François Koladjo et.al.|[2503.07254v1](http://arxiv.org/abs/2503.07254v1)|null|
-|**2025-02-18**|**The Majority Vote Paradigm Shift: When Popular Meets Optimal**|Antonio Purificato et.al.|[2502.12581v3](http://arxiv.org/abs/2502.12581v3)|null|
-|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v3](http://arxiv.org/abs/2406.05612v3)|[link](https://github.com/pranavphoenix/Backbones)|
-|**2025-02-24**|**Towards Typologically Aware Rescoring to Mitigate Unfaithfulness in Lower-Resource Languages**|Tsan Tsai Chan et.al.|[2502.17664v2](http://arxiv.org/abs/2502.17664v2)|null|
-|**2025-03-09**|**Bayesian Synthetic Control with a Soft Simplex Constraint**|Yihong Xu et.al.|[2503.06454v1](http://arxiv.org/abs/2503.06454v1)|null|
-|**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
-|**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
-
-## Non-Euclidean Staistics
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
+|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|[link](https://github.com/statsle/dprgd)|
+|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
+|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
+|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
+|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
+|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+|**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,21 +76,23 @@
 |**2022-08-26**|**Global Fréchet regression from time correlated bivariate curve data in manifolds**|A. Torres-Signes et.al.|[2208.12585v5](http://arxiv.org/abs/2208.12585v5)|null|
 |**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
 
-### Frechet Mean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
-|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|null|
-|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
-|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
-|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
-|**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
+|**2025-03-13**|**A Neumann-Neumann Acceleration with Coarse Space for Domain Decomposition of Extreme Learning Machines**|Chang-Ock Lee et.al.|[2503.10032v1](http://arxiv.org/abs/2503.10032v1)|null|
+|**2025-03-12**|**Unreflected Use of Tabular Data Repositories Can Undermine Research Quality**|Andrej Tschalzev et.al.|[2503.09159v1](http://arxiv.org/abs/2503.09159v1)|null|
+|**2025-03-11**|**Questioning Normality: A study of wavelet leaders distribution**|Wejdene Ben Nasr et.al.|[2503.08821v1](http://arxiv.org/abs/2503.08821v1)|null|
+|**2025-03-07**|**Model-based bi-clustering using multivariate Poisson-lognormal with general block-diagonal covariance matrix and its applications**|Caitlin Kral et.al.|[2503.05961v2](http://arxiv.org/abs/2503.05961v2)|null|
+|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634v1](http://arxiv.org/abs/2503.08634v1)|null|
+|**2025-03-10**|**ReLATE: Resilient Learner Selection for Multivariate Time-Series Classification Against Adversarial Attacks**|Cagla Ipek Kocal et.al.|[2503.07882v1](http://arxiv.org/abs/2503.07882v1)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v1](http://arxiv.org/abs/2503.07459v1)|[link](https://github.com/gersteinlab/medagents-benchmark)|
+|**2025-02-06**|**Optimizing Bayesian model selection for equation of state of cold neutron stars**|Rahul Kashyap et.al.|[2502.03831v2](http://arxiv.org/abs/2502.03831v2)|null|
+|**2025-03-10**|**A right-truncated Poisson mixture model for analyzing count data**|Babagnidé François Koladjo et.al.|[2503.07254v1](http://arxiv.org/abs/2503.07254v1)|null|
+|**2025-02-18**|**The Majority Vote Paradigm Shift: When Popular Meets Optimal**|Antonio Purificato et.al.|[2502.12581v3](http://arxiv.org/abs/2502.12581v3)|null|
+|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v3](http://arxiv.org/abs/2406.05612v3)|[link](https://github.com/pranavphoenix/Backbones)|
+|**2025-02-24**|**Towards Typologically Aware Rescoring to Mitigate Unfaithfulness in Lower-Resource Languages**|Tsan Tsai Chan et.al.|[2502.17664v2](http://arxiv.org/abs/2502.17664v2)|null|
+|**2025-03-09**|**Bayesian Synthetic Control with a Soft Simplex Constraint**|Yihong Xu et.al.|[2503.06454v1](http://arxiv.org/abs/2503.06454v1)|null|
+|**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
+|**2025-03-09**|**Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds (DAVOS): Properties of Variability-Selected AGNs in the Dark Energy Survey Deep Fields**|Yichen Liu et.al.|[2503.06372v1](http://arxiv.org/abs/2503.06372v1)|null|
