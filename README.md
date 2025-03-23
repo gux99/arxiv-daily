@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-23 07:26:21 Asia/Shanghai
+ Automated deployment @ 2025-03-23 19:24:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,27 @@
 |**2025-03-19**|**PEnGUiN: Partially Equivariant Graph NeUral Networks for Sample Efficient MARL**|Joshua McClellan et.al.|[2503.15615v1](http://arxiv.org/abs/2503.15615v1)|null|
 |**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|null|
 |**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360v1](http://arxiv.org/abs/2503.15360v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-09-24**|**Comparison study of variable selection procedures in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v3](http://arxiv.org/abs/2109.12006v3)|null|
+|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v4](http://arxiv.org/abs/2411.19146v4)|null|
+|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010v1](http://arxiv.org/abs/2503.16010v1)|null|
+|**2025-03-16**|**KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection**|Zhiyu Liang et.al.|[2503.12478v2](http://arxiv.org/abs/2503.12478v2)|[link](https://github.com/chenyuanTKCY/KDSelector)|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v2](http://arxiv.org/abs/2503.07459v2)|[link](https://github.com/gersteinlab/medagents-benchmark)|
+|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v2](http://arxiv.org/abs/2411.08205v2)|null|
+|**2025-03-19**|**A Precision Trial Case Study for Heterogeneous Treatment Effects in Obstructive Sleep Apnea**|Lara Maleyeff et.al.|[2503.15455v1](http://arxiv.org/abs/2503.15455v1)|null|
+|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
+|**2025-03-18**|**Sepsyn-OLCP: An Online Learning-based Framework for Early Sepsis Prediction with Uncertainty Quantification using Conformal Prediction**|Anni Zhou et.al.|[2503.14663v1](http://arxiv.org/abs/2503.14663v1)|null|
+|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150v1](http://arxiv.org/abs/2503.14150v1)|[link](https://github.com/yng314/xai_for_wildfire)|
+|**2025-03-18**|**Bayesian high-dimensional biological pathway-guided mediation analysis with application to metabolomics**|Yuzi Zhang et.al.|[2503.13894v1](http://arxiv.org/abs/2503.13894v1)|null|
+|**2025-03-17**|**Minnesota BART**|Pedro A. Lima et.al.|[2503.13759v1](http://arxiv.org/abs/2503.13759v1)|null|
+|**2025-03-17**|**fkbma: An R Package for Detecting Tailoring Variables with Free-Knot B-Splines and Bayesian Model Averaging**|Lara Maleyeff et.al.|[2503.13297v1](http://arxiv.org/abs/2503.13297v1)|null|
+|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v4](http://arxiv.org/abs/2407.04194v4)|null|
+|**2025-03-17**|**Bayesian Cox model with graph-structured variable selection priors for multi-omics biomarker identification**|Tobias Østmo Hermansen et.al.|[2503.13078v1](http://arxiv.org/abs/2503.13078v1)|[link](https://github.com/tobiasoh/master_thesis)|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2025-02-22**|**Bayesian nonparametric inference on a Fréchet class**|Emanuela Dreassi et.al.|[2502.16192v1](http://arxiv.org/abs/2502.16192v1)|null|
 |**2025-02-21**|**Fréchet Cumulative Covariance Net for Deep Nonlinear Sufficient Dimension Reduction with Random Objects**|Hang Yuan et.al.|[2502.15374v1](http://arxiv.org/abs/2502.15374v1)|null|
 |**2024-09-15**|**Topology and geometry of the general composition of formal power series -- towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v2](http://arxiv.org/abs/2409.09853v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-09-24**|**Comparison study of variable selection procedures in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v3](http://arxiv.org/abs/2109.12006v3)|null|
-|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146v4](http://arxiv.org/abs/2411.19146v4)|null|
-|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010v1](http://arxiv.org/abs/2503.16010v1)|null|
-|**2025-03-16**|**KDSelector: A Knowledge-Enhanced and Data-Efficient Model Selector Learning Framework for Time Series Anomaly Detection**|Zhiyu Liang et.al.|[2503.12478v2](http://arxiv.org/abs/2503.12478v2)|[link](https://github.com/chenyuanTKCY/KDSelector)|
-|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459v2](http://arxiv.org/abs/2503.07459v2)|[link](https://github.com/gersteinlab/medagents-benchmark)|
-|**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205v2](http://arxiv.org/abs/2411.08205v2)|null|
-|**2025-03-19**|**A Precision Trial Case Study for Heterogeneous Treatment Effects in Obstructive Sleep Apnea**|Lara Maleyeff et.al.|[2503.15455v1](http://arxiv.org/abs/2503.15455v1)|null|
-|**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v1](http://arxiv.org/abs/2503.15169v1)|null|
-|**2025-03-18**|**Sepsyn-OLCP: An Online Learning-based Framework for Early Sepsis Prediction with Uncertainty Quantification using Conformal Prediction**|Anni Zhou et.al.|[2503.14663v1](http://arxiv.org/abs/2503.14663v1)|null|
-|**2025-03-18**|**Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data**|Yihang Zhou et.al.|[2503.14150v1](http://arxiv.org/abs/2503.14150v1)|[link](https://github.com/yng314/xai_for_wildfire)|
-|**2025-03-18**|**Bayesian high-dimensional biological pathway-guided mediation analysis with application to metabolomics**|Yuzi Zhang et.al.|[2503.13894v1](http://arxiv.org/abs/2503.13894v1)|null|
-|**2025-03-17**|**Minnesota BART**|Pedro A. Lima et.al.|[2503.13759v1](http://arxiv.org/abs/2503.13759v1)|null|
-|**2025-03-17**|**fkbma: An R Package for Detecting Tailoring Variables with Free-Knot B-Splines and Bayesian Model Averaging**|Lara Maleyeff et.al.|[2503.13297v1](http://arxiv.org/abs/2503.13297v1)|null|
-|**2024-07-05**|**Regularization Using Synthetic Data in High-Dimensional Models**|Weihao Li et.al.|[2407.04194v4](http://arxiv.org/abs/2407.04194v4)|null|
-|**2025-03-17**|**Bayesian Cox model with graph-structured variable selection priors for multi-omics biomarker identification**|Tobias Østmo Hermansen et.al.|[2503.13078v1](http://arxiv.org/abs/2503.13078v1)|[link](https://github.com/tobiasoh/master_thesis)|
