@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-30 07:26:08 Asia/Shanghai
+ Automated deployment @ 2025-03-30 19:24:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -28,7 +28,7 @@
 |**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|[link](https://github.com/trantin84/wigcn)|
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|null|
 |**2024-04-30**|**A Logic for Reasoning About Aggregate-Combine Graph Neural Networks**|Pierre Nunn et.al.|[2405.00205v2](http://arxiv.org/abs/2405.00205v2)|null|
-|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|null|
+|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|[link](https://github.com/snudatalab/AugWard)|
 |**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316v2](http://arxiv.org/abs/2503.19316v2)|null|
 |**2024-12-01**|**MCBLT: Multi-Camera Multi-Object 3D Tracking in Long Videos**|Yizhou Wang et.al.|[2412.00692v3](http://arxiv.org/abs/2412.00692v3)|null|
 |**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880v1](http://arxiv.org/abs/2503.20880v1)|[link](https://github.com/amayags/biox-cpath)|
@@ -37,25 +37,6 @@
 |**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666v2](http://arxiv.org/abs/2503.19666v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721v1](http://arxiv.org/abs/2503.21721v1)|null|
-|**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|null|
-|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v2](http://arxiv.org/abs/2412.06011v2)|[link](https://github.com/melon-xu/topocellgen)|
-|**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
-|**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
-|**2025-03-21**|**On the inverse elastic problem for isotropic media using Eshelby and Lippmann-Schwinger integral formulations**|Drossos Gintides et.al.|[2503.17508v1](http://arxiv.org/abs/2503.17508v1)|null|
-|**2025-03-19**|**Nonlinear Grassmannians: plain, decorated, augmented**|Stefan Haller et.al.|[2503.15363v1](http://arxiv.org/abs/2503.15363v1)|null|
-|**2025-03-17**|**Constant Approximation of Fréchet Distance in Strongly Subquadratic Time**|Siu-Wing Cheng et.al.|[2503.12746v1](http://arxiv.org/abs/2503.12746v1)|null|
-|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377v3](http://arxiv.org/abs/2503.08377v3)|null|
-|**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234v2](http://arxiv.org/abs/2502.11234v2)|null|
-|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v2](http://arxiv.org/abs/2407.12261v2)|null|
-|**2023-02-15**|**Predicting Distributions of Physical Activity Profiles in the NHANES Database Using a Partially Linear Fréchet Single Index Model**|Marcos Matabuena et.al.|[2302.07692v2](http://arxiv.org/abs/2302.07692v2)|[link](https://github.com/aghosal89/fsi_nhanes_application)|
-|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid Shiri et.al.|[2501.15572v2](http://arxiv.org/abs/2501.15572v2)|null|
-|**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
-|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v2](http://arxiv.org/abs/2211.10765v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +57,25 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721v1](http://arxiv.org/abs/2503.21721v1)|null|
+|**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|null|
+|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v2](http://arxiv.org/abs/2412.06011v2)|[link](https://github.com/melon-xu/topocellgen)|
+|**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
+|**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
+|**2025-03-21**|**On the inverse elastic problem for isotropic media using Eshelby and Lippmann-Schwinger integral formulations**|Drossos Gintides et.al.|[2503.17508v1](http://arxiv.org/abs/2503.17508v1)|null|
+|**2025-03-19**|**Nonlinear Grassmannians: plain, decorated, augmented**|Stefan Haller et.al.|[2503.15363v1](http://arxiv.org/abs/2503.15363v1)|null|
+|**2025-03-17**|**Constant Approximation of Fréchet Distance in Strongly Subquadratic Time**|Siu-Wing Cheng et.al.|[2503.12746v1](http://arxiv.org/abs/2503.12746v1)|null|
+|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377v3](http://arxiv.org/abs/2503.08377v3)|null|
+|**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234v2](http://arxiv.org/abs/2502.11234v2)|null|
+|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v2](http://arxiv.org/abs/2407.12261v2)|null|
+|**2023-02-15**|**Predicting Distributions of Physical Activity Profiles in the NHANES Database Using a Partially Linear Fréchet Single Index Model**|Marcos Matabuena et.al.|[2302.07692v2](http://arxiv.org/abs/2302.07692v2)|[link](https://github.com/aghosal89/fsi_nhanes_application)|
+|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid Shiri et.al.|[2501.15572v2](http://arxiv.org/abs/2501.15572v2)|null|
+|**2025-03-09**|**fastfrechet: An R package for fast implementation of Fréchet regression with distributional responses**|Alexander Coulter et.al.|[2503.06401v1](http://arxiv.org/abs/2503.06401v1)|null|
+|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v2](http://arxiv.org/abs/2211.10765v2)|null|
+
 ## Variable Selection
 
 ### Variable selection
@@ -86,6 +86,7 @@
 |**2025-03-27**|**Simulation-based assessment of a Bayesian survival model with flexible baseline hazard and time-dependent effects**|Iain R. Timmins et.al.|[2503.21388v1](http://arxiv.org/abs/2503.21388v1)|null|
 |**2025-03-27**|**Variable selection via thresholding**|Ka Long Keith Ho et.al.|[2503.21137v1](http://arxiv.org/abs/2503.21137v1)|null|
 |**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401v1](http://arxiv.org/abs/2503.20401v1)|null|
+|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v8](http://arxiv.org/abs/1905.11027v8)|null|
 |**2025-03-26**|**Advancements in Natural Language Processing: Exploring Transformer-Based Architectures for Text Understanding**|Tianhao Wu et.al.|[2503.20227v1](http://arxiv.org/abs/2503.20227v1)|null|
 |**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump model subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v4](http://arxiv.org/abs/2406.19787v4)|[link](https://github.com/a-ceccarelli/distributions_n-state_VJ_model)|
 |**2024-10-22**|**A general framework for probabilistic model uncertainty**|Vik Shirvaikar et.al.|[2410.17108v2](http://arxiv.org/abs/2410.17108v2)|[link](https://github.com/vshirvaikar/MPmodel)|
@@ -95,4 +96,3 @@
 |**2025-03-24**|**Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking**|Sheikh Muhammad Farjad et.al.|[2503.18857v1](http://arxiv.org/abs/2503.18857v1)|null|
 |**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v1](http://arxiv.org/abs/2503.18790v1)|null|
 |**2025-03-24**|**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**|Yunhong Lu et.al.|[2503.18454v1](http://arxiv.org/abs/2503.18454v1)|[link](https://github.com/JaydenLyh/InPO)|
-|**2025-03-22**|**Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A minireview**|Dilshod Nematov et.al.|[2503.18975v1](http://arxiv.org/abs/2503.18975v1)|null|
