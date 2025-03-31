@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-31 07:27:31 Asia/Shanghai
+ Automated deployment @ 2025-03-31 19:25:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU**|Peng Zhu et.al.|[2410.20679v2](http://arxiv.org/abs/2410.20679v2)|null|
+|**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569v1](http://arxiv.org/abs/2503.22569v1)|null|
+|**2025-03-18**|**Efficient Data Selection for Training Genomic Perturbation Models**|George Panagopoulos et.al.|[2503.14571v2](http://arxiv.org/abs/2503.14571v2)|null|
+|**2025-03-28**|**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**|Fabian Schmidt et.al.|[2503.22277v1](http://arxiv.org/abs/2503.22277v1)|null|
+|**2024-11-21**|**Predicting rigidity and connectivity percolation in disordered particulate networks using graph neural networks**|D. A. Head et.al.|[2411.14159v2](http://arxiv.org/abs/2411.14159v2)|null|
+|**2025-03-28**|**Data-driven modeling of fluid flow around rotating structures with graph neural networks**|Rui Gao et.al.|[2503.22252v1](http://arxiv.org/abs/2503.22252v1)|null|
+|**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316v3](http://arxiv.org/abs/2503.19316v3)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097v1](http://arxiv.org/abs/2503.22097v1)|null|
+|**2024-10-22**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs**|Haolin Li et.al.|[2410.16593v3](http://arxiv.org/abs/2410.16593v3)|null|
+|**2025-03-27**|**Improving Equivariant Networks with Probabilistic Symmetry Breaking**|Hannah Lawrence et.al.|[2503.21985v1](http://arxiv.org/abs/2503.21985v1)|null|
 |**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|[link](https://github.com/cgoliver/rnaglib)|
 |**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384v2](http://arxiv.org/abs/2503.03384v2)|[link](https://github.com/idea-iitd/gnnmerge)|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579v1](http://arxiv.org/abs/2503.21579v1)|null|
 |**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635v2](http://arxiv.org/abs/2503.06635v2)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471v1](http://arxiv.org/abs/2503.21471v1)|null|
-|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468v1](http://arxiv.org/abs/2503.21468v1)|[link](https://github.com/trantin84/wigcn)|
-|**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|null|
-|**2024-04-30**|**A Logic for Reasoning About Aggregate-Combine Graph Neural Networks**|Pierre Nunn et.al.|[2405.00205v2](http://arxiv.org/abs/2405.00205v2)|null|
-|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105v1](http://arxiv.org/abs/2503.21105v1)|[link](https://github.com/snudatalab/AugWard)|
-|**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316v2](http://arxiv.org/abs/2503.19316v2)|null|
-|**2024-12-01**|**MCBLT: Multi-Camera Multi-Object 3D Tracking in Long Videos**|Yizhou Wang et.al.|[2412.00692v3](http://arxiv.org/abs/2412.00692v3)|null|
-|**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880v1](http://arxiv.org/abs/2503.20880v1)|[link](https://github.com/amayags/biox-cpath)|
-|**2025-03-26**|**$β$-GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630v1](http://arxiv.org/abs/2503.20630v1)|null|
-|**2024-05-29**|**Valid Conformal Prediction for Dynamic GNNs**|Ed Davis et.al.|[2405.19230v2](http://arxiv.org/abs/2405.19230v2)|[link](https://github.com/edwarddavis1/valid_conformal_for_dynamic_gnn)|
-|**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666v2](http://arxiv.org/abs/2503.19666v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -81,8 +81,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-28**|**A Unified Approach for Estimating Various Treatment Effects in Causal Inference**|Kuan-Hsun Wu et.al.|[2503.22616v1](http://arxiv.org/abs/2503.22616v1)|null|
+|**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595v1](http://arxiv.org/abs/2503.22595v1)|null|
+|**2025-03-27**|**Nearest Neighbour Equilibrium Clustering**|David P. Hofmeyr et.al.|[2503.21431v2](http://arxiv.org/abs/2503.21431v2)|[link](https://github.com/davidhofmeyr/nnec)|
+|**2025-03-28**|**Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation**|Grayson W. White et.al.|[2503.22103v1](http://arxiv.org/abs/2503.22103v1)|null|
 |**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|null|
-|**2025-03-27**|**Nearest Neighbour Equilibrium Clustering**|David P. Hofmeyr et.al.|[2503.21431v1](http://arxiv.org/abs/2503.21431v1)|[link](https://github.com/davidhofmeyr/nnec)|
 |**2025-03-27**|**Simulation-based assessment of a Bayesian survival model with flexible baseline hazard and time-dependent effects**|Iain R. Timmins et.al.|[2503.21388v1](http://arxiv.org/abs/2503.21388v1)|null|
 |**2025-03-27**|**Variable selection via thresholding**|Ka Long Keith Ho et.al.|[2503.21137v1](http://arxiv.org/abs/2503.21137v1)|null|
 |**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401v1](http://arxiv.org/abs/2503.20401v1)|null|
@@ -93,6 +96,3 @@
 |**2024-06-03**|**New limits on warm inflation from pulsar timing arrays**|Rocco D'Agostino et.al.|[2406.01475v3](http://arxiv.org/abs/2406.01475v3)|null|
 |**2025-03-25**|**Bayesian Outlier Detection for Matrix-variate Models**|Monica Billio et.al.|[2503.19515v1](http://arxiv.org/abs/2503.19515v1)|null|
 |**2025-03-25**|**Face Spoofing Detection using Deep Learning**|Najeebullah et.al.|[2503.19223v1](http://arxiv.org/abs/2503.19223v1)|[link](https://github.com/zamaex96/Spoof-Detect-Using-ViT)|
-|**2025-03-24**|**Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking**|Sheikh Muhammad Farjad et.al.|[2503.18857v1](http://arxiv.org/abs/2503.18857v1)|null|
-|**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v1](http://arxiv.org/abs/2503.18790v1)|null|
-|**2025-03-24**|**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**|Yunhong Lu et.al.|[2503.18454v1](http://arxiv.org/abs/2503.18454v1)|[link](https://github.com/JaydenLyh/InPO)|
