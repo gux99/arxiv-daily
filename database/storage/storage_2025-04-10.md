@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-10 07:26:51 Asia/Shanghai
+ Automated deployment @ 2025-04-10 19:25:38 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-09**|**Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics**|Srushti Patil et.al.|[2504.07077v1](http://arxiv.org/abs/2504.07077v1)|null|
+|**2024-12-15**|**Point Cloud Deep Learning Methods for Particle Shower Reconstruction in the DHCAL**|Maryna Borysova et.al.|[2412.11208v3](http://arxiv.org/abs/2412.11208v3)|null|
+|**2024-12-30**|**Exploring DHCAL design and performance with Graph Neural Networks**|M. Borysova et.al.|[2501.00128v3](http://arxiv.org/abs/2501.00128v3)|null|
+|**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972v2](http://arxiv.org/abs/2410.07972v2)|null|
+|**2025-04-09**|**Benchmarking Convolutional Neural Network and Graph Neural Network based Surrogate Models on a Real-World Car External Aerodynamics Dataset**|Sam Jacob Jacob et.al.|[2504.06699v1](http://arxiv.org/abs/2504.06699v1)|null|
+|**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660v1](http://arxiv.org/abs/2504.06660v1)|null|
+|**2025-04-09**|**GRAIN: Multi-Granular and Implicit Information Aggregation Graph Neural Network for Heterophilous Graphs**|Songwei Zhao et.al.|[2504.06649v1](http://arxiv.org/abs/2504.06649v1)|null|
+|**2023-05-17**|**SIGMA: An Efficient Heterophilous Graph Neural Network with Fast Global Aggregation**|Haoyu Liu et.al.|[2305.09958v4](http://arxiv.org/abs/2305.09958v4)|[link](https://github.com/conferencescode/sigma)|
+|**2025-04-08**|**Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach**|Zihao Song et.al.|[2504.06439v1](http://arxiv.org/abs/2504.06439v1)|null|
+|**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426v1](http://arxiv.org/abs/2504.06426v1)|null|
+|**2025-04-08**|**Deep spatio-temporal point processes: Advances and new directions**|Xiuyuan Cheng et.al.|[2504.06364v1](http://arxiv.org/abs/2504.06364v1)|null|
 |**2025-04-08**|**Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction**|Zongyue Qin et.al.|[2504.06193v1](http://arxiv.org/abs/2504.06193v1)|null|
 |**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206v3](http://arxiv.org/abs/2402.10206v3)|null|
 |**2025-04-08**|**Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem**|Aitor Morais et.al.|[2504.05989v1](http://arxiv.org/abs/2504.05989v1)|null|
 |**2025-02-07**|**Graph Federated Learning Based Proactive Content Caching in Edge Computing**|Rui Wang et.al.|[2502.04760v2](http://arxiv.org/abs/2502.04760v2)|null|
-|**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908v1](http://arxiv.org/abs/2504.05908v1)|null|
-|**2024-06-11**|**On the Hölder Stability of Multiset and Graph Neural Networks**|Yair Davidson et.al.|[2406.06984v3](http://arxiv.org/abs/2406.06984v3)|null|
-|**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844v1](http://arxiv.org/abs/2504.05844v1)|null|
-|**2025-02-05**|**RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry**|Li Sun et.al.|[2502.03251v2](http://arxiv.org/abs/2502.03251v2)|null|
-|**2024-06-17**|**STNAGNN: Data-driven Spatio-temporal Brain Connectivity beyond FC**|Jiyao Wang et.al.|[2406.12065v2](http://arxiv.org/abs/2406.12065v2)|null|
-|**2025-04-07**|**Graph Neural Networks for Enhancing Ensemble Forecasts of Extreme Rainfall**|Christopher Bülte et.al.|[2504.05471v1](http://arxiv.org/abs/2504.05471v1)|null|
-|**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454v1](http://arxiv.org/abs/2504.05454v1)|null|
-|**2025-04-07**|**A Novel Approach to Linking Histology Images with DNA Methylation**|Manahil Raza et.al.|[2504.05403v1](http://arxiv.org/abs/2504.05403v1)|null|
-|**2024-05-15**|**Learning Coarse-Grained Dynamics on Graph**|Yin Yu et.al.|[2405.09324v2](http://arxiv.org/abs/2405.09324v2)|null|
-|**2025-04-07**|**Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting**|Shuai Han et.al.|[2504.05140v1](http://arxiv.org/abs/2504.05140v1)|null|
-|**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030v1](http://arxiv.org/abs/2504.05030v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -81,6 +81,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
+|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
+|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
+|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
 |**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|null|
 |**2025-04-08**|**Dynamical Dark Energy in light of the DESI DR2 Baryonic Acoustic Oscillations Measurements**|Gan Gu et.al.|[2504.06118v1](http://arxiv.org/abs/2504.06118v1)|null|
 |**2025-03-07**|**Rediscovering Hyperelasticity by Deep Symbolic Regression**|Rasul Abdusalamov et.al.|[2503.05387v2](http://arxiv.org/abs/2503.05387v2)|null|
@@ -92,7 +96,3 @@
 |**2025-04-06**|**An Empirical Comparison of Text Summarization: A Multi-Dimensional Evaluation of Large Language Models**|Anantharaman Janakiraman et.al.|[2504.04534v1](http://arxiv.org/abs/2504.04534v1)|null|
 |**2025-04-05**|**Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources**|Junrong Lai et.al.|[2504.04211v1](http://arxiv.org/abs/2504.04211v1)|null|
 |**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v2](http://arxiv.org/abs/2310.19114v2)|null|
-|**2025-04-05**|**Model Selection via MCRB Optimization**|Nadav E. Rosenthal et.al.|[2504.04136v1](http://arxiv.org/abs/2504.04136v1)|null|
-|**2024-10-10**|**Negative Control Outcome Adjustment in Early-Phase Randomized Trials: Estimating Vaccine Effects on Immune Responses in HIV Exposed Uninfected Infants**|Ethan Ashby et.al.|[2410.08078v2](http://arxiv.org/abs/2410.08078v2)|null|
-|**2025-04-04**|**Confirmatory Biomarker Identification via Derandomized Knockoffs for Cox Regression with k-FWER Control**|Rui Liu et.al.|[2504.03907v1](http://arxiv.org/abs/2504.03907v1)|null|
-|**2025-04-04**|**Quantifying Robustness: A Benchmarking Framework for Deep Learning Forecasting in Cyber-Physical Systems**|Alexander Windmann et.al.|[2504.03494v1](http://arxiv.org/abs/2504.03494v1)|null|
