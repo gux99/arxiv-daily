@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-13 07:40:01 Asia/Shanghai
+ Automated deployment @ 2025-04-13 19:23:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -36,28 +36,26 @@
 |**2024-12-30**|**Exploring DHCAL design and performance with Graph Neural Networks**|M. Borysova et.al.|[2501.00128v3](http://arxiv.org/abs/2501.00128v3)|null|
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972v2](http://arxiv.org/abs/2410.07972v2)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-10**|**What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks**|Pavel Chizhov et.al.|[2504.07825v1](http://arxiv.org/abs/2504.07825v1)|null|
-|**2025-04-10**|**Penalized Linear Models for Highly Correlated High-Dimensional Immunophenotyping Data**|Xiaoru Dong et.al.|[2504.07771v1](http://arxiv.org/abs/2504.07771v1)|null|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v2](http://arxiv.org/abs/2408.04359v2)|null|
-|**2025-04-10**|**Robust Social Planning**|Florian Mudekereza et.al.|[2504.07401v1](http://arxiv.org/abs/2504.07401v1)|null|
-|**2025-04-10**|**A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data**|Guilherme Pumi et.al.|[2504.07351v1](http://arxiv.org/abs/2504.07351v1)|null|
-|**2024-11-09**|**UQ of 2D Slab Burner DNS: Surrogates, Uncertainty Propagation, and Parameter Calibration**|Georgios Georgalis et.al.|[2411.16693v2](http://arxiv.org/abs/2411.16693v2)|null|
-|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v1](http://arxiv.org/abs/2504.07197v1)|null|
-|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
-|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
-|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
-|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
-|**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|null|
-|**2025-04-08**|**Dynamical Dark Energy in light of the DESI DR2 Baryonic Acoustic Oscillations Measurements**|Gan Gu et.al.|[2504.06118v1](http://arxiv.org/abs/2504.06118v1)|null|
-|**2025-03-07**|**Rediscovering Hyperelasticity by Deep Symbolic Regression**|Rasul Abdusalamov et.al.|[2503.05387v2](http://arxiv.org/abs/2503.05387v2)|null|
-|**2025-02-19**|**DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering tasks**|Daniel Fernandes et.al.|[2502.14926v3](http://arxiv.org/abs/2502.14926v3)|null|
-
-## Non-Euclidean Staistics
+|**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v2](http://arxiv.org/abs/2411.05083v2)|null|
+|**2025-04-08**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684v1](http://arxiv.org/abs/2504.05684v1)|null|
+|**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v2](http://arxiv.org/abs/2310.19114v2)|null|
+|**2024-12-24**|**Fréchet regression with implicit denoising and multicollinearity reduction**|Dou El Kefel Mansouri et.al.|[2412.18247v2](http://arxiv.org/abs/2412.18247v2)|null|
+|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721v1](http://arxiv.org/abs/2503.21721v1)|null|
+|**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|null|
+|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v2](http://arxiv.org/abs/2412.06011v2)|[link](https://github.com/melon-xu/topocellgen)|
+|**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
+|**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
+|**2025-03-21**|**On the inverse elastic problem for isotropic media using Eshelby and Lippmann-Schwinger integral formulations**|Drossos Gintides et.al.|[2503.17508v1](http://arxiv.org/abs/2503.17508v1)|null|
+|**2025-03-19**|**Nonlinear Grassmannians: plain, decorated, augmented**|Stefan Haller et.al.|[2503.15363v1](http://arxiv.org/abs/2503.15363v1)|null|
+|**2025-03-17**|**Constant Approximation of Fréchet Distance in Strongly Subquadratic Time**|Siu-Wing Cheng et.al.|[2503.12746v1](http://arxiv.org/abs/2503.12746v1)|null|
+|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377v3](http://arxiv.org/abs/2503.08377v3)|null|
+|**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234v2](http://arxiv.org/abs/2502.11234v2)|null|
+|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v2](http://arxiv.org/abs/2407.12261v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,21 +76,23 @@
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-07**|**Are Models of Strong Gravitational Lensing by Clusters Converging or Diverging?**|Derek Perera et.al.|[2411.05083v2](http://arxiv.org/abs/2411.05083v2)|null|
-|**2025-04-08**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684v1](http://arxiv.org/abs/2504.05684v1)|null|
-|**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v2](http://arxiv.org/abs/2310.19114v2)|null|
-|**2024-12-24**|**Fréchet regression with implicit denoising and multicollinearity reduction**|Dou El Kefel Mansouri et.al.|[2412.18247v2](http://arxiv.org/abs/2412.18247v2)|null|
-|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721v1](http://arxiv.org/abs/2503.21721v1)|null|
-|**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|null|
-|**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v2](http://arxiv.org/abs/2412.06011v2)|[link](https://github.com/melon-xu/topocellgen)|
-|**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
-|**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
-|**2025-03-21**|**On the inverse elastic problem for isotropic media using Eshelby and Lippmann-Schwinger integral formulations**|Drossos Gintides et.al.|[2503.17508v1](http://arxiv.org/abs/2503.17508v1)|null|
-|**2025-03-19**|**Nonlinear Grassmannians: plain, decorated, augmented**|Stefan Haller et.al.|[2503.15363v1](http://arxiv.org/abs/2503.15363v1)|null|
-|**2025-03-17**|**Constant Approximation of Fréchet Distance in Strongly Subquadratic Time**|Siu-Wing Cheng et.al.|[2503.12746v1](http://arxiv.org/abs/2503.12746v1)|null|
-|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377v3](http://arxiv.org/abs/2503.08377v3)|null|
-|**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234v2](http://arxiv.org/abs/2502.11234v2)|null|
-|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v2](http://arxiv.org/abs/2407.12261v2)|null|
+|**2025-04-10**|**What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks**|Pavel Chizhov et.al.|[2504.07825v1](http://arxiv.org/abs/2504.07825v1)|null|
+|**2025-04-10**|**Penalized Linear Models for Highly Correlated High-Dimensional Immunophenotyping Data**|Xiaoru Dong et.al.|[2504.07771v1](http://arxiv.org/abs/2504.07771v1)|null|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v2](http://arxiv.org/abs/2408.04359v2)|null|
+|**2025-04-10**|**Robust Social Planning**|Florian Mudekereza et.al.|[2504.07401v1](http://arxiv.org/abs/2504.07401v1)|null|
+|**2025-04-10**|**A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data**|Guilherme Pumi et.al.|[2504.07351v1](http://arxiv.org/abs/2504.07351v1)|null|
+|**2024-11-09**|**UQ of 2D Slab Burner DNS: Surrogates, Uncertainty Propagation, and Parameter Calibration**|Georgios Georgalis et.al.|[2411.16693v2](http://arxiv.org/abs/2411.16693v2)|null|
+|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v1](http://arxiv.org/abs/2504.07197v1)|null|
+|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
+|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
+|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
+|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
+|**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|null|
+|**2025-04-08**|**Dynamical Dark Energy in light of the DESI DR2 Baryonic Acoustic Oscillations Measurements**|Gan Gu et.al.|[2504.06118v1](http://arxiv.org/abs/2504.06118v1)|null|
+|**2025-03-07**|**Rediscovering Hyperelasticity by Deep Symbolic Regression**|Rasul Abdusalamov et.al.|[2503.05387v2](http://arxiv.org/abs/2503.05387v2)|null|
+|**2025-02-19**|**DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering tasks**|Daniel Fernandes et.al.|[2502.14926v3](http://arxiv.org/abs/2502.14926v3)|null|
