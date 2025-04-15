@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-15 07:27:22 Asia/Shanghai
+ Automated deployment @ 2025-04-15 19:25:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710v1](http://arxiv.org/abs/2504.08710v1)|null|
-|**2024-12-19**|**Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**|Zijie Zhou et.al.|[2412.15302v2](http://arxiv.org/abs/2412.15302v2)|[link](https://github.com/Dodo-D-Caster/Tokenphormer)|
-|**2024-10-17**|**Addressing Graph Heterogeneity and Heterophily from A Spectral Perspective**|Kangkang Lu et.al.|[2410.13373v2](http://arxiv.org/abs/2410.13373v2)|null|
-|**2025-04-11**|**LGRPool: Hierarchical Graph Pooling Via Local-Global Regularisation**|Farshad Noravesh et.al.|[2504.08530v1](http://arxiv.org/abs/2504.08530v1)|null|
-|**2025-04-11**|**Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application**|Abdo Abouelrous et.al.|[2504.08401v1](http://arxiv.org/abs/2504.08401v1)|null|
-|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v3](http://arxiv.org/abs/2407.08797v3)|[link](https://github.com/PingChang818/DID4HLS)|
-|**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195v1](http://arxiv.org/abs/2504.08195v1)|null|
-|**2025-04-11**|**Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention**|Qiuwu Sha et.al.|[2504.08183v1](http://arxiv.org/abs/2504.08183v1)|null|
-|**2024-12-12**|**Opinion de-polarization of social networks with GNNs**|Konstantinos Mylonas et.al.|[2412.09404v2](http://arxiv.org/abs/2412.09404v2)|null|
-|**2025-04-10**|**Communication-Efficient Cooperative Localization: A Graph Neural Network Approach**|Yinan Zou et.al.|[2504.08135v1](http://arxiv.org/abs/2504.08135v1)|null|
-|**2025-04-10**|**Scaling Laws of Graph Neural Networks for Atomistic Materials Modeling**|Chaojian Li et.al.|[2504.08112v1](http://arxiv.org/abs/2504.08112v1)|null|
-|**2025-04-10**|**Trading Graph Neural Network**|Xian Wu et.al.|[2504.07923v1](http://arxiv.org/abs/2504.07923v1)|null|
-|**2025-03-03**|**Soybean Disease Detection via Interpretable Hybrid CNN-GNN: Integrating MobileNetV2 and GraphSAGE with Cross-Modal Attention**|Md Abrar Jahin et.al.|[2503.01284v2](http://arxiv.org/abs/2503.01284v2)|null|
-|**2025-03-02**|**CAGN-GAT Fusion: A Hybrid Contrastive Attentive Graph Neural Network for Network Intrusion Detection**|Md Abrar Jahin et.al.|[2503.00961v2](http://arxiv.org/abs/2503.00961v2)|[link](https://github.com/Abrar2652/Network-Intrusion-Detection)|
-|**2025-04-10**|**Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks**|Marius Kurz et.al.|[2504.07741v1](http://arxiv.org/abs/2504.07741v1)|null|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432v1](http://arxiv.org/abs/2504.10432v1)|null|
+|**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412v1](http://arxiv.org/abs/2504.10412v1)|null|
+|**2023-06-01**|**Renormalized Graph Representations for Node Classification**|Francesco Caso et.al.|[2306.00707v2](http://arxiv.org/abs/2306.00707v2)|null|
+|**2025-04-14**|**GNN-ACLP: Graph Neural Networks based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240v1](http://arxiv.org/abs/2504.10240v1)|null|
+|**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783v2](http://arxiv.org/abs/2412.03783v2)|null|
+|**2025-04-14**|**Learning to Beamform for Cooperative Localization and Communication: A Link Heterogeneous GNN-Based Approach**|Lixiang Lian et.al.|[2504.10060v1](http://arxiv.org/abs/2504.10060v1)|null|
+|**2025-04-14**|**COUNTER: Cluster GCN based Energy Efficient Resource Management for Sustainable Cloud Computing Environments**|Han Wang et.al.|[2504.09995v1](http://arxiv.org/abs/2504.09995v1)|null|
+|**2025-04-14**|**Towards Unbiased Federated Graph Learning: Label and Topology Perspectives**|Zhengyu Wu et.al.|[2504.09963v1](http://arxiv.org/abs/2504.09963v1)|null|
+|**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736v2](http://arxiv.org/abs/2503.03736v2)|[link](https://github.com/sourajitdas/State-Augmented-Routing-Wireless-Communication)|
+|**2025-03-29**|**Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks**|Zewen Liu et.al.|[2503.23167v2](http://arxiv.org/abs/2503.23167v2)|[link](https://github.com/emory-melody/awesome-graph-ndes)|
+|**2020-04-20**|**Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network**|Guanming Xiong et.al.|[2004.13821v4](http://arxiv.org/abs/2004.13821v4)|null|
+|**2024-08-26**|**Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks**|Gang Qu et.al.|[2408.14254v2](http://arxiv.org/abs/2408.14254v2)|null|
+|**2025-04-13**|**Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network**|Ruiwen Ding et.al.|[2504.09430v1](http://arxiv.org/abs/2504.09430v1)|null|
+|**2025-04-13**|**Spatially Directional Dual-Attention GAT for Spatial Fluoride Health Risk Modeling**|Da Yuan et.al.|[2504.09416v1](http://arxiv.org/abs/2504.09416v1)|null|
+|**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692v4](http://arxiv.org/abs/2401.03692v4)|null|
 
 ## Non-Euclidean Staistics
 
@@ -81,18 +81,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-06**|**EDCA - An Evolutionary Data-Centric AutoML Framework for Efficient Pipelines**|Joana Simões et.al.|[2503.04350v2](http://arxiv.org/abs/2503.04350v2)|null|
+|**2025-04-14**|**Eigengap Sparsity for Covariance Parsimony**|Tom Szwagier et.al.|[2504.10110v1](http://arxiv.org/abs/2504.10110v1)|null|
+|**2025-02-28**|**Structural breaks detection and variable selection in dynamic linear regression via the Iterative Fused LASSO in high dimension**|Angelo Milfont et.al.|[2502.20816v2](http://arxiv.org/abs/2502.20816v2)|null|
+|**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900v1](http://arxiv.org/abs/2504.09900v1)|null|
+|**2025-04-12**|**Beyond Glucose-Only Assessment: Advancing Nocturnal Hypoglycemia Prediction in Children with Type 1 Diabetes**|Marco Voegeli et.al.|[2504.09299v1](http://arxiv.org/abs/2504.09299v1)|null|
+|**2025-04-12**|**Stochastic Claims Reserving Using State Space Modeling**|Rajesh Selukar et.al.|[2504.09292v1](http://arxiv.org/abs/2504.09292v1)|null|
+|**2025-04-12**|**Accurate Diagnosis of Respiratory Viruses Using an Explainable Machine Learning with Mid-Infrared Biomolecular Fingerprinting of Nasopharyngeal Secretions**|Wenwen Zhang et.al.|[2504.09211v1](http://arxiv.org/abs/2504.09211v1)|null|
+|**2025-04-12**|**crowd-hpo: Realistic Hyperparameter Optimization and Benchmarking for Learning from Crowds with Noisy Labels**|Marek Herde et.al.|[2504.09085v1](http://arxiv.org/abs/2504.09085v1)|null|
+|**2023-08-20**|**Model Selection over Partially Ordered Sets**|Armeen Taeb et.al.|[2308.10375v4](http://arxiv.org/abs/2308.10375v4)|[link](https://github.com/armeentaeb/model-selection-over-posets)|
+|**2023-01-16**|**Understanding Best Subset Selection: A Tale of Two C(omplex)ities**|Saptarshi Roy et.al.|[2301.06259v3](http://arxiv.org/abs/2301.06259v3)|null|
 |**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638v1](http://arxiv.org/abs/2504.08638v1)|null|
 |**2025-04-10**|**Penalized Linear Models for Highly Correlated High-Dimensional Immunophenotyping Data**|Xiaoru Dong et.al.|[2504.07771v2](http://arxiv.org/abs/2504.07771v2)|[link](https://github.com/xiaorudong/berm-paper)|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v2](http://arxiv.org/abs/2407.16557v2)|[link](https://github.com/codelion/optillm/blob/main/optillm/rto.py)|
 |**2025-03-29**|**Likelihood Level Adapted Estimation of Marginal Likelihood for Bayesian Model Selection**|Subhayan De et.al.|[2503.23018v2](http://arxiv.org/abs/2503.23018v2)|null|
 |**2025-04-10**|**What the HellaSwag? On the Validity of Common-Sense Reasoning Benchmarks**|Pavel Chizhov et.al.|[2504.07825v1](http://arxiv.org/abs/2504.07825v1)|[link](https://github.com/pchizhov/hellaswag-evaluation)|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v2](http://arxiv.org/abs/2408.04359v2)|null|
-|**2025-04-10**|**Robust Social Planning**|Florian Mudekereza et.al.|[2504.07401v1](http://arxiv.org/abs/2504.07401v1)|null|
-|**2025-04-10**|**A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data**|Guilherme Pumi et.al.|[2504.07351v1](http://arxiv.org/abs/2504.07351v1)|null|
-|**2024-11-09**|**UQ of 2D Slab Burner DNS: Surrogates, Uncertainty Propagation, and Parameter Calibration**|Georgios Georgalis et.al.|[2411.16693v2](http://arxiv.org/abs/2411.16693v2)|null|
-|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v1](http://arxiv.org/abs/2504.07197v1)|null|
-|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v1](http://arxiv.org/abs/2504.06984v1)|null|
-|**2025-04-09**|**Network Cross-Validation and Model Selection via Subsampling**|Sayan Chakrabarty et.al.|[2504.06903v1](http://arxiv.org/abs/2504.06903v1)|null|
-|**2025-04-08**|**LassoRNet: Accurate dim-light melatonin onset time prediction from multiple blood tissue samples**|Michael T. Gorczyca et.al.|[2504.06494v1](http://arxiv.org/abs/2504.06494v1)|null|
-|**2025-04-08**|**ESPRESSO reveals a single but perturbed broad-line region in the supermassive black hole binary candidate PG 1302-102**|Fabio Rigamonti et.al.|[2504.06331v1](http://arxiv.org/abs/2504.06331v1)|null|
-|**2023-11-22**|**Penalty-Induced Basis Exploration for Bayesian Splines**|Sunwoo Lim et.al.|[2311.13481v3](http://arxiv.org/abs/2311.13481v3)|[link](https://github.com/damelim/bpbs)|
