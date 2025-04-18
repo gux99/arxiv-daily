@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-18 07:27:14 Asia/Shanghai
+ Automated deployment @ 2025-04-18 19:24:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-10**|**AHSG: Adversarial Attack on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468v2](http://arxiv.org/abs/2412.07468v2)|null|
+|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034v1](http://arxiv.org/abs/2504.13034v1)|null|
+|**2024-11-18**|**Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics**|Amaury Wei et.al.|[2411.11467v2](http://arxiv.org/abs/2411.11467v2)|null|
+|**2024-10-04**|**Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction**|Giuseppe Alessio D'Inverno et.al.|[2410.03802v3](http://arxiv.org/abs/2410.03802v3)|[link](https://github.com/AleDinve/aneurysm_gnn)|
+|**2024-01-29**|**Unveiling Molecular Moieties through Hierarchical Grad-CAM Graph Explainability**|Salvatore Contino et.al.|[2402.01744v4](http://arxiv.org/abs/2402.01744v4)|[link](https://github.com/chilab1/hge)|
+|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|null|
+|**2024-10-13**|**Control the GNN: Utilizing Neural Controller with Lyapunov Stability for Test-Time Feature Reconstruction**|Jielong Yang et.al.|[2410.09708v2](http://arxiv.org/abs/2410.09708v2)|null|
+|**2025-04-11**|**Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application**|Abdo Abouelrous et.al.|[2504.08401v2](http://arxiv.org/abs/2504.08401v2)|null|
+|**2025-04-15**|**Transfer Learning for Temporal Link Prediction**|Ayan Chatterjee et.al.|[2504.10925v2](http://arxiv.org/abs/2504.10925v2)|[link](https://github.com/google-research/google-research/tree/master/fm4tlp)|
+|**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627v1](http://arxiv.org/abs/2504.12627v1)|null|
+|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474v1](http://arxiv.org/abs/2504.12474v1)|null|
 |**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065v2](http://arxiv.org/abs/2404.15065v2)|null|
 |**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011v1](http://arxiv.org/abs/2504.12011v1)|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v1](http://arxiv.org/abs/2504.11907v1)|null|
 |**2025-04-16**|**HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems**|Qiyue Chen et.al.|[2504.11885v1](http://arxiv.org/abs/2504.11885v1)|null|
-|**2025-04-16**|**Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs**|Kishan Gurumurthy et.al.|[2504.11808v1](http://arxiv.org/abs/2504.11808v1)|null|
-|**2024-10-04**|**Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs**|Tianqi Shang et.al.|[2410.09080v2](http://arxiv.org/abs/2410.09080v2)|[link](https://github.com/hwq0726/sdohenpkg)|
-|**2025-04-16**|**Extended Short- and Long-Range Mesh Learning for Fast and Generalized Garment Simulation**|Aoran Liu et.al.|[2504.11763v1](http://arxiv.org/abs/2504.11763v1)|null|
-|**2025-04-16**|**Clustering and analysis of user behaviour in blockchain: A case study of Planet IX**|Dorottya Zelenyanszki et.al.|[2504.11702v1](http://arxiv.org/abs/2504.11702v1)|null|
-|**2025-04-16**|**H$^3$GNNs: Harmonizing Heterophily and Homophily in GNNs via Joint Structural Node Encoding and Self-Supervised Learning**|Rui Xue et.al.|[2504.11699v1](http://arxiv.org/abs/2504.11699v1)|null|
-|**2025-04-15**|**Network Alignment**|Rui Tang et.al.|[2504.11367v1](http://arxiv.org/abs/2504.11367v1)|null|
-|**2025-04-15**|**Accurate Machine Learning Interatomic Potentials for Polyacene Molecular Crystals: Application to Single Molecule Host-Guest Systems**|Burak Gurlek et.al.|[2504.11224v1](http://arxiv.org/abs/2504.11224v1)|null|
-|**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|null|
-|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370v3](http://arxiv.org/abs/2412.18370v3)|[link](https://github.com/bdi-lab/monti)|
-|**2025-04-15**|**AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification**|Maximilian G. Schuh et.al.|[2504.11091v1](http://arxiv.org/abs/2504.11091v1)|null|
-|**2025-04-15**|**Why am I seeing this? Towards recognizing social media recommender systems with missing recommendations**|Sabrina Guidotti et.al.|[2504.11000v1](http://arxiv.org/abs/2504.11000v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142v1](http://arxiv.org/abs/2504.13142v1)|null|
+|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v1](http://arxiv.org/abs/2504.13057v1)|null|
+|**2023-06-21**|**Challenges and Opportunities in Improving Worst-Group Generalization in Presence of Spurious Features**|Siddharth Joshi et.al.|[2306.11957v5](http://arxiv.org/abs/2306.11957v5)|[link](https://github.com/bigml-cs-ucla/spuco)|
+|**2025-04-16**|**Can Pre-training Indicators Reliably Predict Fine-tuning Outcomes of LLMs?**|Hansi Zeng et.al.|[2504.12491v1](http://arxiv.org/abs/2504.12491v1)|null|
+|**2025-04-16**|**The Digital Cybersecurity Expert: How Far Have We Come?**|Dawei Wang et.al.|[2504.11783v1](http://arxiv.org/abs/2504.11783v1)|null|
+|**2025-04-16**|**Post-selection Inference in Regression Models for Group Testing Data**|Qinyan Shen et.al.|[2504.11767v1](http://arxiv.org/abs/2504.11767v1)|null|
+|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v4](http://arxiv.org/abs/2401.14359v4)|null|
+|**2025-02-10**|**The Value of Information in Human-AI Decision-making**|Ziyang Guo et.al.|[2502.06152v3](http://arxiv.org/abs/2502.06152v3)|null|
+|**2025-04-15**|**Physics-Aware Initialization Refinement in Code-Aided EM for Blind Channel Estimation**|Chin-Hung Chen et.al.|[2504.11241v1](http://arxiv.org/abs/2504.11241v1)|null|
+|**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369v2](http://arxiv.org/abs/2406.03369v2)|null|
+|**2025-04-15**|**Is model selection possible for the $\ell_p$-loss? PCO estimation for regression models**|Claire Lacour et.al.|[2504.11217v1](http://arxiv.org/abs/2504.11217v1)|null|
+|**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002v1](http://arxiv.org/abs/2504.11002v1)|null|
+|**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248v2](http://arxiv.org/abs/2410.22248v2)|null|
+|**2023-04-14**|**Scalable Variational Bayes Inference for Dynamic Variable Selection**|Nicolas Bianco et.al.|[2304.07096v2](http://arxiv.org/abs/2304.07096v2)|null|
+|**2025-03-06**|**EDCA - An Evolutionary Data-Centric AutoML Framework for Efficient Pipelines**|Joana Simões et.al.|[2503.04350v2](http://arxiv.org/abs/2503.04350v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377v3](http://arxiv.org/abs/2503.08377v3)|null|
 |**2025-02-16**|**MaskFlow: Discrete Flows For Flexible and Efficient Long Video Generation**|Michael Fuest et.al.|[2502.11234v2](http://arxiv.org/abs/2502.11234v2)|null|
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v2](http://arxiv.org/abs/2407.12261v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**The Digital Cybersecurity Expert: How Far Have We Come?**|Dawei Wang et.al.|[2504.11783v1](http://arxiv.org/abs/2504.11783v1)|null|
-|**2025-04-16**|**Post-selection Inference in Regression Models for Group Testing Data**|Qinyan Shen et.al.|[2504.11767v1](http://arxiv.org/abs/2504.11767v1)|null|
-|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v4](http://arxiv.org/abs/2401.14359v4)|null|
-|**2025-02-10**|**The Value of Information in Human-AI Decision-making**|Ziyang Guo et.al.|[2502.06152v3](http://arxiv.org/abs/2502.06152v3)|null|
-|**2025-04-15**|**Physics-Aware Initialization Refinement in Code-Aided EM for Blind Channel Estimation**|Chin-Hung Chen et.al.|[2504.11241v1](http://arxiv.org/abs/2504.11241v1)|null|
-|**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369v2](http://arxiv.org/abs/2406.03369v2)|null|
-|**2025-04-15**|**Is model selection possible for the $\ell_p$-loss? PCO estimation for regression models**|Claire Lacour et.al.|[2504.11217v1](http://arxiv.org/abs/2504.11217v1)|null|
-|**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002v1](http://arxiv.org/abs/2504.11002v1)|null|
-|**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248v2](http://arxiv.org/abs/2410.22248v2)|null|
-|**2023-04-14**|**Scalable Variational Bayes Inference for Dynamic Variable Selection**|Nicolas Bianco et.al.|[2304.07096v2](http://arxiv.org/abs/2304.07096v2)|null|
-|**2025-03-06**|**EDCA - An Evolutionary Data-Centric AutoML Framework for Efficient Pipelines**|Joana Simões et.al.|[2503.04350v2](http://arxiv.org/abs/2503.04350v2)|null|
-|**2025-04-14**|**Eigengap Sparsity for Covariance Parsimony**|Tom Szwagier et.al.|[2504.10110v1](http://arxiv.org/abs/2504.10110v1)|null|
-|**2025-02-28**|**Structural breaks detection and variable selection in dynamic linear regression via the Iterative Fused LASSO in high dimension**|Angelo Milfont et.al.|[2502.20816v2](http://arxiv.org/abs/2502.20816v2)|null|
-|**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900v1](http://arxiv.org/abs/2504.09900v1)|null|
-|**2025-04-12**|**Beyond Glucose-Only Assessment: Advancing Nocturnal Hypoglycemia Prediction in Children with Type 1 Diabetes**|Marco Voegeli et.al.|[2504.09299v1](http://arxiv.org/abs/2504.09299v1)|null|
