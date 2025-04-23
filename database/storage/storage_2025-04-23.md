@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-23 07:27:20 Asia/Shanghai
+ Automated deployment @ 2025-04-23 19:26:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,44 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938v1](http://arxiv.org/abs/2504.15938v1)|null|
+|**2025-04-22**|**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**|Xiang Li et.al.|[2504.15920v1](http://arxiv.org/abs/2504.15920v1)|null|
+|**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905v1](http://arxiv.org/abs/2504.15905v1)|null|
+|**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v2](http://arxiv.org/abs/2504.11907v2)|null|
+|**2024-12-30**|**Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges**|Nguyen Xuan Tung et.al.|[2412.20634v2](http://arxiv.org/abs/2412.20634v2)|null|
+|**2024-11-10**|**Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response**|Agatha Schmidt et.al.|[2411.06500v2](http://arxiv.org/abs/2411.06500v2)|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768v2](http://arxiv.org/abs/2504.13768v2)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541v1](http://arxiv.org/abs/2504.15541v1)|null|
+|**2025-01-18**|**ClusterViG: Efficient Globally Aware Vision GNNs via Image Partitioning**|Dhruv Parikh et.al.|[2501.10640v2](http://arxiv.org/abs/2501.10640v2)|null|
+|**2025-04-21**|**Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports**|Jiseon Kim et.al.|[2504.15333v1](http://arxiv.org/abs/2504.15333v1)|null|
 |**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147v1](http://arxiv.org/abs/2504.15147v1)|null|
 |**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075v1](http://arxiv.org/abs/2504.15075v1)|null|
 |**2025-04-21**|**Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis**|Yulong Li et.al.|[2504.15072v1](http://arxiv.org/abs/2504.15072v1)|null|
 |**2025-03-31**|**Lorentzian Graph Isomorphic Network**|Srinitish Srinivasan et.al.|[2504.00142v2](http://arxiv.org/abs/2504.00142v2)|[link](https://github.com/Deceptrax123/LGIN)|
 |**2025-04-21**|**Edge-boosted graph learning for functional brain connectivity analysis**|David Yang et.al.|[2504.14796v1](http://arxiv.org/abs/2504.14796v1)|null|
-|**2025-04-20**|**Uncovering Issues in the Radio Access Network by Looking at the Neighbors**|José Suárez-Varela et.al.|[2504.14686v1](http://arxiv.org/abs/2504.14686v1)|null|
-|**2025-04-20**|**LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method**|Yue Li et.al.|[2504.14494v1](http://arxiv.org/abs/2504.14494v1)|null|
-|**2025-04-20**|**Beamforming Design and Association Scheme for Multi-RIS Multi-User mmWave Systems Through Graph Neural Networks**|Mengbing Liu et.al.|[2504.14464v1](http://arxiv.org/abs/2504.14464v1)|null|
-|**2025-04-19**|**Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction**|Till Rossner et.al.|[2504.14361v1](http://arxiv.org/abs/2504.14361v1)|null|
-|**2023-03-22**|**Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points**|Valentino Delle Rose et.al.|[2303.12853v3](http://arxiv.org/abs/2303.12853v3)|null|
-|**2025-04-19**|**CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective**|Ze Zhao et.al.|[2504.14282v1](http://arxiv.org/abs/2504.14282v1)|null|
-|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474v2](http://arxiv.org/abs/2504.12474v2)|null|
-|**2025-03-02**|**Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction**|Qia Hu et.al.|[2503.00860v6](http://arxiv.org/abs/2503.00860v6)|[link](https://github.com/huqiachn/his-gcn)|
-|**2025-04-19**|**Dual-channel Heterophilic Message Passing for Graph Fraud Detection**|Wenxin Zhang et.al.|[2504.14205v1](http://arxiv.org/abs/2504.14205v1)|null|
-|**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786v1](http://arxiv.org/abs/2504.13786v1)|null|
 
-## Non-Euclidean Staistics
+## Variable Selection
 
-### Frechet Mean
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-18**|**Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations**|Magalie Bénéfice et.al.|[2504.13502v1](http://arxiv.org/abs/2504.13502v1)|null|
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
-|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|[link](https://github.com/statsle/dprgd)|
-|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
-|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
-|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+|**2024-05-30**|**A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty**|Kazuki Sakamoto et.al.|[2406.02584v4](http://arxiv.org/abs/2406.02584v4)|[link](https://github.com/aiandglobaldevelopmentlab/eo-poverty-review)|
+|**2025-04-22**|**Joint leave-group-out cross-validation in Bayesian spatial models**|Alex Cooper et.al.|[2504.15586v1](http://arxiv.org/abs/2504.15586v1)|null|
+|**2025-04-21**|**Topological model selection: a case-study in tumour-induced angiogenesis**|Robert A McDonald et.al.|[2504.15442v1](http://arxiv.org/abs/2504.15442v1)|null|
+|**2025-04-21**|**Bayesian model selection of Primordial Black Holes and Dressed Primordial Black Holes with lensed Gravitational Waves**|Xin-yi Lin et.al.|[2504.14980v1](http://arxiv.org/abs/2504.14980v1)|null|
+|**2025-03-21**|**A Predictive Services Architecture for Efficient Airspace Operations**|Ítalo Romani de Oliveira et.al.|[2503.17515v2](http://arxiv.org/abs/2503.17515v2)|null|
+|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v1](http://arxiv.org/abs/2504.13520v1)|null|
+|**2024-12-19**|**The Group R2D2 Shrinkage Prior for Sparse Linear Models with Grouped Covariates**|Eric Yanchenko et.al.|[2412.15293v2](http://arxiv.org/abs/2412.15293v2)|null|
+|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142v1](http://arxiv.org/abs/2504.13142v1)|null|
+|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v1](http://arxiv.org/abs/2504.13057v1)|null|
+|**2023-06-21**|**Challenges and Opportunities in Improving Worst-Group Generalization in Presence of Spurious Features**|Siddharth Joshi et.al.|[2306.11957v5](http://arxiv.org/abs/2306.11957v5)|[link](https://github.com/bigml-cs-ucla/spuco)|
+|**2025-04-16**|**Can Pre-training Indicators Reliably Predict Fine-tuning Outcomes of LLMs?**|Hansi Zeng et.al.|[2504.12491v1](http://arxiv.org/abs/2504.12491v1)|null|
+|**2025-04-16**|**The Digital Cybersecurity Expert: How Far Have We Come?**|Dawei Wang et.al.|[2504.11783v1](http://arxiv.org/abs/2504.11783v1)|null|
+|**2025-04-16**|**Post-selection Inference in Regression Models for Group Testing Data**|Qinyan Shen et.al.|[2504.11767v1](http://arxiv.org/abs/2504.11767v1)|null|
+|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v4](http://arxiv.org/abs/2401.14359v4)|null|
+|**2025-02-10**|**The Value of Information in Human-AI Decision-making**|Ziyang Guo et.al.|[2502.06152v3](http://arxiv.org/abs/2502.06152v3)|null|
+
+## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,23 +78,21 @@
 |**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
 |**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-21**|**Bayesian model selection of Primordial Black Holes and Dressed Primordial Black Holes with lensed Gravitational Waves**|Xin-yi Lin et.al.|[2504.14980v1](http://arxiv.org/abs/2504.14980v1)|null|
-|**2025-03-21**|**A Predictive Services Architecture for Efficient Airspace Operations**|Ítalo Romani de Oliveira et.al.|[2503.17515v2](http://arxiv.org/abs/2503.17515v2)|null|
-|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v1](http://arxiv.org/abs/2504.13520v1)|null|
-|**2024-12-19**|**The Group R2D2 Shrinkage Prior for Sparse Linear Models with Grouped Covariates**|Eric Yanchenko et.al.|[2412.15293v2](http://arxiv.org/abs/2412.15293v2)|null|
-|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142v1](http://arxiv.org/abs/2504.13142v1)|null|
-|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v1](http://arxiv.org/abs/2504.13057v1)|null|
-|**2023-06-21**|**Challenges and Opportunities in Improving Worst-Group Generalization in Presence of Spurious Features**|Siddharth Joshi et.al.|[2306.11957v5](http://arxiv.org/abs/2306.11957v5)|[link](https://github.com/bigml-cs-ucla/spuco)|
-|**2025-04-16**|**Can Pre-training Indicators Reliably Predict Fine-tuning Outcomes of LLMs?**|Hansi Zeng et.al.|[2504.12491v1](http://arxiv.org/abs/2504.12491v1)|null|
-|**2025-04-16**|**The Digital Cybersecurity Expert: How Far Have We Come?**|Dawei Wang et.al.|[2504.11783v1](http://arxiv.org/abs/2504.11783v1)|null|
-|**2025-04-16**|**Post-selection Inference in Regression Models for Group Testing Data**|Qinyan Shen et.al.|[2504.11767v1](http://arxiv.org/abs/2504.11767v1)|null|
-|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v4](http://arxiv.org/abs/2401.14359v4)|null|
-|**2025-02-10**|**The Value of Information in Human-AI Decision-making**|Ziyang Guo et.al.|[2502.06152v3](http://arxiv.org/abs/2502.06152v3)|null|
-|**2025-04-15**|**Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection**|Haoming Wang et.al.|[2504.13938v1](http://arxiv.org/abs/2504.13938v1)|null|
-|**2025-04-15**|**Physics-Aware Initialization Refinement in Code-Aided EM for Blind Channel Estimation**|Chin-Hung Chen et.al.|[2504.11241v1](http://arxiv.org/abs/2504.11241v1)|null|
-|**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369v2](http://arxiv.org/abs/2406.03369v2)|null|
+|**2025-04-18**|**Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations**|Magalie Bénéfice et.al.|[2504.13502v1](http://arxiv.org/abs/2504.13502v1)|null|
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
+|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|[link](https://github.com/statsle/dprgd)|
+|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
+|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
+|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
+|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
+|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
