@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-25 07:27:28 Asia/Shanghai
+ Automated deployment @ 2025-04-25 19:25:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,6 +20,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749v1](http://arxiv.org/abs/2504.17749v1)|null|
+|**2025-04-24**|**Prototype-enhanced prediction in graph neural networks for climate applications**|Nawid Keshtmand et.al.|[2504.17492v1](http://arxiv.org/abs/2504.17492v1)|null|
+|**2024-05-21**|**MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation**|Zhaoning Yu et.al.|[2405.12519v2](http://arxiv.org/abs/2405.12519v2)|null|
+|**2025-04-24**|**HeRB: Heterophily-Resolved Structure Balancer for Graph Neural Networks**|Ke-Jia Chen et.al.|[2504.17276v1](http://arxiv.org/abs/2504.17276v1)|null|
+|**2025-04-23**|**Discovering the Precursors of Traffic Breakdowns Using Spatiotemporal Graph Attribution Networks**|Zhaobin Mo et.al.|[2504.17109v1](http://arxiv.org/abs/2504.17109v1)|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655v1](http://arxiv.org/abs/2504.16655v1)|null|
 |**2025-01-23**|**GNN-based Anchor Embedding for Exact Subgraph Matching**|Bin Yang et.al.|[2502.00031v3](http://arxiv.org/abs/2502.00031v3)|null|
 |**2025-04-23**|**Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks**|Mao Wang et.al.|[2504.16360v1](http://arxiv.org/abs/2504.16360v1)|null|
@@ -30,11 +35,6 @@
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v2](http://arxiv.org/abs/2504.11907v2)|null|
 |**2024-12-30**|**Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges**|Nguyen Xuan Tung et.al.|[2412.20634v2](http://arxiv.org/abs/2412.20634v2)|null|
 |**2024-11-10**|**Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response**|Agatha Schmidt et.al.|[2411.06500v2](http://arxiv.org/abs/2411.06500v2)|null|
-|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768v2](http://arxiv.org/abs/2504.13768v2)|null|
-|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541v1](http://arxiv.org/abs/2504.15541v1)|null|
-|**2025-01-18**|**ClusterViG: Efficient Globally Aware Vision GNNs via Image Partitioning**|Dhruv Parikh et.al.|[2501.10640v2](http://arxiv.org/abs/2501.10640v2)|null|
-|**2025-04-21**|**Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports**|Jiseon Kim et.al.|[2504.15333v1](http://arxiv.org/abs/2504.15333v1)|null|
-|**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147v1](http://arxiv.org/abs/2504.15147v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -60,6 +60,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v1](http://arxiv.org/abs/2504.17342v1)|null|
 |**2025-04-21**|**DRAGON: Distributional Rewards Optimize Diffusion Generative Models**|Yatong Bai et.al.|[2504.15217v1](http://arxiv.org/abs/2504.15217v1)|null|
 |**2025-04-19**|**Cross-attention for State-based model RWKV-7**|Liu Xiao et.al.|[2504.14260v1](http://arxiv.org/abs/2504.14260v1)|[link](https://github.com/torchrwkv/flash-linear-attention)|
 |**2025-04-19**|**Robust Estimation in metric spaces: Achieving Exponential Concentration with a Fréchet Median**|Jakwang Kim et.al.|[2504.14161v1](http://arxiv.org/abs/2504.14161v1)|null|
@@ -74,14 +75,16 @@
 |**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|null|
 |**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v2](http://arxiv.org/abs/2412.06011v2)|[link](https://github.com/melon-xu/topocellgen)|
 |**2024-12-02**|**Merging synthetic and real embryo data for advanced AI predictions**|Oriana Presacan et.al.|[2412.01255v2](http://arxiv.org/abs/2412.01255v2)|[link](https://github.com/orianapresacan/EmbryoStageGen)|
-|**2025-03-22**|**LZMidi: Compression-Based Symbolic Music Generation**|Connor Ding et.al.|[2503.17654v1](http://arxiv.org/abs/2503.17654v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871v1](http://arxiv.org/abs/2504.16871v1)|null|
+|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871v2](http://arxiv.org/abs/2504.16871v2)|null|
+|**2025-04-24**|**Concentration inequalities and cut-off phenomena for penalized model selection within a basic Rademacher framework**|Pascal Massart et.al.|[2504.17559v1](http://arxiv.org/abs/2504.17559v1)|null|
+|**2025-01-23**|**Model selection tests for truncated vine copulas under nested hypotheses**|Ichiro Nishi et.al.|[2501.13304v2](http://arxiv.org/abs/2501.13304v2)|null|
+|**2021-08-29**|**Survival Analysis with Graph-Based Regularization for Predictors**|Liyan Xie et.al.|[2108.12827v3](http://arxiv.org/abs/2108.12827v3)|null|
 |**2024-06-20**|**On integral priors for multiple comparison in Bayesian model selection**|Diego Salmerón et.al.|[2406.14184v3](http://arxiv.org/abs/2406.14184v3)|null|
 |**2025-04-23**|**Evaluating Meta-Regression Techniques: A Simulation Study on Heterogeneity in Location and Time**|Ali Habibnia et.al.|[2504.16696v1](http://arxiv.org/abs/2504.16696v1)|null|
 |**2025-04-23**|**Enhancing Variable Selection in Large-scale Logistic Regression: Leveraging Manual Labeling with Beneficial Noise**|Xiaofei Wu et.al.|[2504.16585v1](http://arxiv.org/abs/2504.16585v1)|null|
@@ -93,6 +96,3 @@
 |**2025-03-21**|**A Predictive Services Architecture for Efficient Airspace Operations**|Ítalo Romani de Oliveira et.al.|[2503.17515v2](http://arxiv.org/abs/2503.17515v2)|null|
 |**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v1](http://arxiv.org/abs/2504.13520v1)|null|
 |**2024-12-19**|**The Group R2D2 Shrinkage Prior for Sparse Linear Models with Grouped Covariates**|Eric Yanchenko et.al.|[2412.15293v2](http://arxiv.org/abs/2412.15293v2)|null|
-|**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142v1](http://arxiv.org/abs/2504.13142v1)|null|
-|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v1](http://arxiv.org/abs/2504.13057v1)|null|
-|**2023-06-21**|**Challenges and Opportunities in Improving Worst-Group Generalization in Presence of Spurious Features**|Siddharth Joshi et.al.|[2306.11957v5](http://arxiv.org/abs/2306.11957v5)|[link](https://github.com/bigml-cs-ucla/spuco)|
