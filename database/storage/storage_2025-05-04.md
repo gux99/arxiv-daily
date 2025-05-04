@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-04 07:27:07 Asia/Shanghai
+ Automated deployment @ 2025-05-04 19:24:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,6 +35,27 @@
 |**2025-04-29**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869v2](http://arxiv.org/abs/2504.20869v2)|null|
 |**2025-04-30**|**ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning**|Sixuan Wang et.al.|[2504.21254v1](http://arxiv.org/abs/2504.21254v1)|null|
 |**2025-04-30**|**Database and deep-learning scalability of anharmonic phonon properties by automated brute-force first-principles calculations**|Masato Ohnishi et.al.|[2504.21245v1](http://arxiv.org/abs/2504.21245v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-01**|**Joint inference for gravitational wave signals and glitches using a data-informed glitch model**|Ann-Kristin Malz et.al.|[2505.00657v1](http://arxiv.org/abs/2505.00657v1)|null|
+|**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|null|
+|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v2](http://arxiv.org/abs/2504.13520v2)|null|
+|**2025-04-30**|**Towards Robust and Generalizable Gerchberg Saxton based Physics Inspired Neural Networks for Computer Generated Holography: A Sensitivity Analysis Framework**|Ankit Amrutkar et.al.|[2505.00220v1](http://arxiv.org/abs/2505.00220v1)|null|
+|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v1](http://arxiv.org/abs/2504.21812v1)|null|
+|**2025-04-30**|**Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series**|Michael Wieck-Sosa et.al.|[2504.21647v1](http://arxiv.org/abs/2504.21647v1)|null|
+|**2025-04-30**|**Physics-Informed Priors Improve Gravitational-Wave Constraints on Neutron-Star Matter**|Spencer J. Magnall et.al.|[2504.21526v1](http://arxiv.org/abs/2504.21526v1)|null|
+|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v3](http://arxiv.org/abs/2208.07086v3)|[link](https://github.com/vandenman/equalitysampler)|
+|**2025-01-10**|**An Efficient Dual ADMM for Huber Regression with Fused Lasso Penalty**|Mengjiao Shi et.al.|[2501.05676v2](http://arxiv.org/abs/2501.05676v2)|null|
+|**2025-04-30**|**Hurdle Network Model With Latent Dynamic Shrinkage For Enhanced Edge Prediction in Zero-Inflated Directed Network Time Series**|Sandipan Pramanik et.al.|[2504.21275v1](http://arxiv.org/abs/2504.21275v1)|null|
+|**2024-05-01**|**SARMA: Scalable Low-Rank High-Dimensional Autoregressive Moving Averages via Tensor Decomposition**|Feiqing Huang et.al.|[2405.00626v2](http://arxiv.org/abs/2405.00626v2)|null|
+|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v3](http://arxiv.org/abs/2407.16557v3)|[link](https://github.com/codelion/optillm/blob/main/optillm/rto.py)|
+|**2025-04-29**|**Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare**|Lovedeep Gondara et.al.|[2504.21191v1](http://arxiv.org/abs/2504.21191v1)|null|
+|**2025-02-08**|**Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews**|Izunna Okpala et.al.|[2502.05439v2](http://arxiv.org/abs/2502.05439v2)|null|
+|**2025-04-29**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095v1](http://arxiv.org/abs/2504.21095v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Joint inference for gravitational wave signals and glitches using a data-informed glitch model**|Ann-Kristin Malz et.al.|[2505.00657v1](http://arxiv.org/abs/2505.00657v1)|null|
-|**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|null|
-|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520v2](http://arxiv.org/abs/2504.13520v2)|null|
-|**2025-04-30**|**Towards Robust and Generalizable Gerchberg Saxton based Physics Inspired Neural Networks for Computer Generated Holography: A Sensitivity Analysis Framework**|Ankit Amrutkar et.al.|[2505.00220v1](http://arxiv.org/abs/2505.00220v1)|null|
-|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v1](http://arxiv.org/abs/2504.21812v1)|null|
-|**2025-04-30**|**Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series**|Michael Wieck-Sosa et.al.|[2504.21647v1](http://arxiv.org/abs/2504.21647v1)|null|
-|**2025-04-30**|**Physics-Informed Priors Improve Gravitational-Wave Constraints on Neutron-Star Matter**|Spencer J. Magnall et.al.|[2504.21526v1](http://arxiv.org/abs/2504.21526v1)|null|
-|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v3](http://arxiv.org/abs/2208.07086v3)|[link](https://github.com/vandenman/equalitysampler)|
-|**2025-01-10**|**An Efficient Dual ADMM for Huber Regression with Fused Lasso Penalty**|Mengjiao Shi et.al.|[2501.05676v2](http://arxiv.org/abs/2501.05676v2)|null|
-|**2025-04-30**|**Hurdle Network Model With Latent Dynamic Shrinkage For Enhanced Edge Prediction in Zero-Inflated Directed Network Time Series**|Sandipan Pramanik et.al.|[2504.21275v1](http://arxiv.org/abs/2504.21275v1)|null|
-|**2024-05-01**|**SARMA: Scalable Low-Rank High-Dimensional Autoregressive Moving Averages via Tensor Decomposition**|Feiqing Huang et.al.|[2405.00626v2](http://arxiv.org/abs/2405.00626v2)|null|
-|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v3](http://arxiv.org/abs/2407.16557v3)|[link](https://github.com/codelion/optillm/blob/main/optillm/rto.py)|
-|**2025-04-29**|**Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare**|Lovedeep Gondara et.al.|[2504.21191v1](http://arxiv.org/abs/2504.21191v1)|null|
-|**2025-02-08**|**Agentic AI Systems Applied to tasks in Financial Services: Modeling and model risk management crews**|Izunna Okpala et.al.|[2502.05439v2](http://arxiv.org/abs/2502.05439v2)|null|
-|**2025-04-29**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095v1](http://arxiv.org/abs/2504.21095v1)|null|
