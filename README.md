@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-12 07:27:16 Asia/Shanghai
+ Automated deployment @ 2025-05-12 19:26:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,6 +20,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Higher-Order Graphon Neural Networks: Approximation and Cut Distance**|Daniel Herbst et.al.|[2503.14338v2](http://arxiv.org/abs/2503.14338v2)|null|
+|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778v2](http://arxiv.org/abs/2502.01778v2)|[link](https://github.com/stavrosorf/dt4evs)|
+|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785v1](http://arxiv.org/abs/2505.05785v1)|null|
+|**2025-01-23**|**An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks**|Vivek Bharadwaj et.al.|[2501.13986v4](http://arxiv.org/abs/2501.13986v4)|[link](https://github.com/passionlab/openequivariance)|
+|**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652v1](http://arxiv.org/abs/2505.05652v1)|null|
 |**2024-10-09**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**|Zhengyu Hu et.al.|[2410.07074v3](http://arxiv.org/abs/2410.07074v3)|null|
 |**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123v1](http://arxiv.org/abs/2505.05123v1)|null|
 |**2025-05-08**|**Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks**|Zhifeng Hu et.al.|[2505.04981v1](http://arxiv.org/abs/2505.04981v1)|null|
@@ -30,32 +35,6 @@
 |**2024-08-27**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021v2](http://arxiv.org/abs/2408.16021v2)|[link](https://github.com/yasir-ali-farrukh/gnn4id)|
 |**2025-05-07**|**Piecewise Constant Spectral Graph Neural Network**|Vahan Martirosyan et.al.|[2505.04808v1](http://arxiv.org/abs/2505.04808v1)|null|
 |**2024-09-20**|**Learning to Compare Hardware Designs for High-Level Synthesis**|Yunsheng Bai et.al.|[2409.13138v2](http://arxiv.org/abs/2409.13138v2)|null|
-|**2025-05-07**|**Multi-Granular Attention based Heterogeneous Hypergraph Neural Network**|Hong Jin et.al.|[2505.04340v1](http://arxiv.org/abs/2505.04340v1)|null|
-|**2024-10-29**|**A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification**|Flavio Corradini et.al.|[2410.22377v2](http://arxiv.org/abs/2410.22377v2)|null|
-|**2024-06-30**|**Commute Graph Neural Networks**|Wei Zhuo et.al.|[2407.01635v6](http://arxiv.org/abs/2407.01635v6)|null|
-|**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550v2](http://arxiv.org/abs/2410.19550v2)|null|
-|**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083v1](http://arxiv.org/abs/2505.04083v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416v1](http://arxiv.org/abs/2505.05416v1)|null|
-|**2025-03-19**|**Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v2](http://arxiv.org/abs/2503.15169v2)|null|
-|**2025-05-08**|**Model Selection for Unit-root Time Series with Many Predictors**|Shuo-Chieh Huang et.al.|[2505.04884v1](http://arxiv.org/abs/2505.04884v1)|null|
-|**2025-03-11**|**MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation**|Anzhe Cheng et.al.|[2503.10686v2](http://arxiv.org/abs/2503.10686v2)|null|
-|**2025-05-07**|**A data-driven approach for star formation parameterization using symbolic regression**|Diane M. Salim et.al.|[2505.04681v1](http://arxiv.org/abs/2505.04681v1)|null|
-|**2025-01-30**|**Vision-Language Model Selection and Reuse for Downstream Adaptation**|Hao-Zhe Tan et.al.|[2501.18271v2](http://arxiv.org/abs/2501.18271v2)|null|
-|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v2](http://arxiv.org/abs/2401.12697v2)|[link](https://github.com/marcoelba/selectiveinference)|
-|**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|null|
-|**2025-05-06**|**Machine Learning: a Lecture Note**|Kyunghyun Cho et.al.|[2505.03861v1](http://arxiv.org/abs/2505.03861v1)|null|
-|**2025-05-06**|**CUI-MET: Clinical Utility Index Dose Optimization Approach for Multiple-Dose, Multiple-Outcome Randomized Trial Designs**|Fanni Zhang et.al.|[2505.03633v1](http://arxiv.org/abs/2505.03633v1)|null|
-|**2024-05-31**|**Sparse-Group Boosting with Balanced Selection Frequencies: A Simulation-Based Approach and R Implementation**|Fabian Obster et.al.|[2405.21037v2](http://arxiv.org/abs/2405.21037v2)|[link](https://github.com/FabianObster/sgboost-introduction)|
-|**2025-05-06**|**Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction**|Julia Bringewald et.al.|[2505.03385v1](http://arxiv.org/abs/2505.03385v1)|[link](https://github.com/juliabringewald/Solar-Flare-Forecast)|
-|**2025-05-06**|**A Symbolic and Statistical Learning Framework to Discover Bioprocessing Regulatory Mechanism: Cell Culture Example**|Keilung Choy et.al.|[2505.03177v1](http://arxiv.org/abs/2505.03177v1)|null|
-|**2025-05-06**|**Nonparametric learning of covariate-based Markov jump processes using RKHS techniques**|Yuchen Han et.al.|[2505.03119v1](http://arxiv.org/abs/2505.03119v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -81,6 +60,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
 |**2024-01-26**|**Faster Fréchet Distance Approximation through Truncated Smoothing**|Thijs van der Horst et.al.|[2401.14815v2](http://arxiv.org/abs/2401.14815v2)|null|
 |**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v2](http://arxiv.org/abs/2501.03834v2)|null|
 |**2025-05-08**|**Local linear Fréchet curve regression in manifolds**|M. D. Ruiz-Medina et.al.|[2505.05168v1](http://arxiv.org/abs/2505.05168v1)|null|
@@ -94,5 +75,24 @@
 |**2025-04-29**|**ProT-GFDM: A Generative Fractional Diffusion Model for Protein Generation**|Xiao Liang et.al.|[2504.21092v1](http://arxiv.org/abs/2504.21092v1)|null|
 |**2024-02-29**|**Interface fluctuations for $1$D stochastic Allen-Cahn equation revisited**|Weijun Xu et.al.|[2402.19070v2](http://arxiv.org/abs/2402.19070v2)|null|
 |**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499v2](http://arxiv.org/abs/2504.13499v2)|[link](https://github.com/ErgastiAlex/U-Shape-Mamba)|
-|**2025-04-25**|**DOSE : Drum One-Shot Extraction from Music Mixture**|Suntae Hwang et.al.|[2504.18157v1](http://arxiv.org/abs/2504.18157v1)|[link](https://github.com/hsuneh/dose)|
-|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v1](http://arxiv.org/abs/2504.17342v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-29**|**Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing**|Helen R. Fryer et.al.|[2312.17566v3](http://arxiv.org/abs/2312.17566v3)|null|
+|**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416v1](http://arxiv.org/abs/2505.05416v1)|null|
+|**2025-03-19**|**Benchmarking Open-Source Large Language Models on Healthcare Text Classification Tasks**|Yuting Guo et.al.|[2503.15169v2](http://arxiv.org/abs/2503.15169v2)|null|
+|**2025-05-08**|**Model Selection for Unit-root Time Series with Many Predictors**|Shuo-Chieh Huang et.al.|[2505.04884v1](http://arxiv.org/abs/2505.04884v1)|null|
+|**2025-03-11**|**MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation**|Anzhe Cheng et.al.|[2503.10686v2](http://arxiv.org/abs/2503.10686v2)|null|
+|**2025-05-07**|**A data-driven approach for star formation parameterization using symbolic regression**|Diane M. Salim et.al.|[2505.04681v1](http://arxiv.org/abs/2505.04681v1)|null|
+|**2025-01-30**|**Vision-Language Model Selection and Reuse for Downstream Adaptation**|Hao-Zhe Tan et.al.|[2501.18271v2](http://arxiv.org/abs/2501.18271v2)|null|
+|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v2](http://arxiv.org/abs/2401.12697v2)|[link](https://github.com/marcoelba/selectiveinference)|
+|**2025-05-06**|**Robust Variable Selection in High-dimensional Nonparametric Additive Model**|Suneel Babu Chatla et.al.|[2505.04009v1](http://arxiv.org/abs/2505.04009v1)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|null|
+|**2025-05-06**|**Machine Learning: a Lecture Note**|Kyunghyun Cho et.al.|[2505.03861v1](http://arxiv.org/abs/2505.03861v1)|null|
+|**2025-05-06**|**CUI-MET: Clinical Utility Index Dose Optimization Approach for Multiple-Dose, Multiple-Outcome Randomized Trial Designs**|Fanni Zhang et.al.|[2505.03633v1](http://arxiv.org/abs/2505.03633v1)|null|
+|**2024-05-31**|**Sparse-Group Boosting with Balanced Selection Frequencies: A Simulation-Based Approach and R Implementation**|Fabian Obster et.al.|[2405.21037v2](http://arxiv.org/abs/2405.21037v2)|[link](https://github.com/FabianObster/sgboost-introduction)|
+|**2025-05-06**|**Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction**|Julia Bringewald et.al.|[2505.03385v1](http://arxiv.org/abs/2505.03385v1)|[link](https://github.com/juliabringewald/Solar-Flare-Forecast)|
+|**2025-05-06**|**A Symbolic and Statistical Learning Framework to Discover Bioprocessing Regulatory Mechanism: Cell Culture Example**|Keilung Choy et.al.|[2505.03177v1](http://arxiv.org/abs/2505.03177v1)|null|
