@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-17 07:27:53 Asia/Shanghai
+ Automated deployment @ 2025-05-17 19:24:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -59,25 +59,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
-|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
-|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
-|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
-|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
-|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
-|**2024-01-26**|**Faster Fréchet Distance Approximation through Truncated Smoothing**|Thijs van der Horst et.al.|[2401.14815v2](http://arxiv.org/abs/2401.14815v2)|null|
-|**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v2](http://arxiv.org/abs/2501.03834v2)|null|
-|**2025-05-08**|**Local linear Fréchet curve regression in manifolds**|M. D. Ruiz-Medina et.al.|[2505.05168v1](http://arxiv.org/abs/2505.05168v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|null|
-|**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926v1](http://arxiv.org/abs/2505.04926v1)|null|
-|**2023-03-02**|**Debiased Machine Learning of Aggregated Intersection Bounds and Other Causal Parameters**|Vira Semenova et.al.|[2303.00982v3](http://arxiv.org/abs/2303.00982v3)|null|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|[link](https://github.com/kapilw25/Evaluation_generated_images)|
-|**2024-09-26**|**Exploring Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v2](http://arxiv.org/abs/2409.17899v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -96,3 +77,22 @@
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
+|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
+|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
+|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
+|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
+|**2024-01-26**|**Faster Fréchet Distance Approximation through Truncated Smoothing**|Thijs van der Horst et.al.|[2401.14815v2](http://arxiv.org/abs/2401.14815v2)|null|
+|**2025-01-07**|**The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon**|Thijs van der Horst et.al.|[2501.03834v2](http://arxiv.org/abs/2501.03834v2)|null|
+|**2025-05-08**|**Local linear Fréchet curve regression in manifolds**|M. D. Ruiz-Medina et.al.|[2505.05168v1](http://arxiv.org/abs/2505.05168v1)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|null|
+|**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926v1](http://arxiv.org/abs/2505.04926v1)|null|
+|**2023-03-02**|**Debiased Machine Learning of Aggregated Intersection Bounds and Other Causal Parameters**|Vira Semenova et.al.|[2303.00982v3](http://arxiv.org/abs/2303.00982v3)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|[link](https://github.com/kapilw25/Evaluation_generated_images)|
+|**2024-09-26**|**Exploring Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899v2](http://arxiv.org/abs/2409.17899v2)|null|
