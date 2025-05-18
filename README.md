@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-18 07:27:06 Asia/Shanghai
+ Automated deployment @ 2025-05-18 19:24:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -95,4 +95,4 @@
 |**2024-10-15**|**DiffGAN: A Test Generation Approach for Differential Testing of Deep Neural Networks**|Zohreh Aghababaeyan et.al.|[2410.19794v2](http://arxiv.org/abs/2410.19794v2)|null|
 |**2025-05-12**|**Reassessing Large Language Model Boolean Query Generation for Systematic Reviews**|Shuai Wang et.al.|[2505.07155v1](http://arxiv.org/abs/2505.07155v1)|null|
 |**2025-05-11**|**A Sparse Bayesian Learning Algorithm for Estimation of Interaction Kernels in Motsch-Tadmor Model**|Jinchao Feng et.al.|[2505.07068v1](http://arxiv.org/abs/2505.07068v1)|null|
-|**2025-05-10**|**Quantifying uncertainty and stability among highly correlated predictors: a subspace perspective**|Xiaozhu Zhang et.al.|[2505.06760v1](http://arxiv.org/abs/2505.06760v1)|null|
+|**2025-05-10**|**Quantifying uncertainty and stability among highly correlated predictors: a subspace perspective**|Xiaozhu Zhang et.al.|[2505.06760v1](http://arxiv.org/abs/2505.06760v1)|[link](https://github.com/Xiaozhu-Zhang1998/FSSS_Reproducible_Codes)|
