@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-22 07:28:04 Asia/Shanghai
+ Automated deployment @ 2025-05-22 19:26:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,21 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-20**|**Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium**|Xinxin Fan et.al.|[2505.14463v1](http://arxiv.org/abs/2505.14463v1)|null|
-|**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453v1](http://arxiv.org/abs/2505.14453v1)|null|
-|**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408v1](http://arxiv.org/abs/2505.14408v1)|null|
-|**2025-04-11**|**Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction**|Mengying Yuan et.al.|[2504.12324v2](http://arxiv.org/abs/2504.12324v2)|null|
-|**2024-02-14**|**Safe Distributed Control of Multi-Robot Systems with Communication Delays**|Luca Ballotta et.al.|[2402.09382v4](http://arxiv.org/abs/2402.09382v4)|[link](https://github.com/lucaballotta/macbf-gnn)|
-|**2024-10-03**|**EvoMesh: Adaptive Physical Simulation with Hierarchical Graph Evolutions**|Huayu Deng et.al.|[2410.03779v2](http://arxiv.org/abs/2410.03779v2)|null|
-|**2025-02-02**|**DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale**|Ziyang Zheng et.al.|[2502.01681v3](http://arxiv.org/abs/2502.01681v3)|[link](https://github.com/zyzheng17/DeepGate4-ICLR-25)|
-|**2025-05-20**|**Unsupervised Graph Clustering with Deep Structural Entropy**|Jingyun Zhang et.al.|[2505.14040v1](http://arxiv.org/abs/2505.14040v1)|null|
-|**2025-05-20**|**Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening**|Guoming Li et.al.|[2505.14033v1](http://arxiv.org/abs/2505.14033v1)|null|
-|**2024-12-26**|**ERGNN: Spectral Graph Neural Network With Explicitly-Optimized Rational Graph Filters**|Guoming Li et.al.|[2412.19106v3](http://arxiv.org/abs/2412.19106v3)|null|
-|**2025-05-20**|**Towards Comprehensive and Prerequisite-Free Explainer for Graph Neural Networks**|Han Zhang et.al.|[2505.14005v1](http://arxiv.org/abs/2505.14005v1)|null|
-|**2024-09-11**|**Mixture of Scope Experts at Test: Generalizing Deeper Graph Neural Networks with Shallow Variants**|Gangda Deng et.al.|[2409.06998v3](http://arxiv.org/abs/2409.06998v3)|null|
-|**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754v1](http://arxiv.org/abs/2505.13754v1)|null|
-|**2021-11-12**|**Implicit vs Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2111.06592v3](http://arxiv.org/abs/2111.06592v3)|null|
-|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530v4](http://arxiv.org/abs/2410.06530v4)|[link](https://github.com/geometric-intelligence/topobenchmark)|
+|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|null|
+|**2025-05-21**|**Graph Conditional Flow Matching for Relational Data Generation**|Davide Scassola et.al.|[2505.15668v1](http://arxiv.org/abs/2505.15668v1)|null|
+|**2025-05-21**|**HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations**|Martin Carrasco et.al.|[2505.15405v1](http://arxiv.org/abs/2505.15405v1)|null|
+|**2025-05-21**|**Piecewise-linear Ricci curvature flows on weighted graphs**|Jicheng Ma et.al.|[2505.15395v1](http://arxiv.org/abs/2505.15395v1)|null|
+|**2025-04-15**|**AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification**|Maximilian G. Schuh et.al.|[2504.11091v2](http://arxiv.org/abs/2504.11091v2)|null|
+|**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453v2](http://arxiv.org/abs/2505.14453v2)|null|
+|**2025-02-08**|**Rethinking Link Prediction for Directed Graphs**|Mingguo He et.al.|[2502.05724v2](http://arxiv.org/abs/2502.05724v2)|null|
+|**2025-05-21**|**NeuBM: Mitigating Model Bias in Graph Neural Networks through Neutral Input Calibration**|Jiawei Gu et.al.|[2505.15180v1](http://arxiv.org/abs/2505.15180v1)|null|
+|**2025-05-21**|**SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps**|Jiawei Gu et.al.|[2505.15177v1](http://arxiv.org/abs/2505.15177v1)|null|
+|**2025-05-21**|**EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression**|Tong Cheng et.al.|[2505.15140v1](http://arxiv.org/abs/2505.15140v1)|null|
+|**2025-05-21**|**Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis**|Badhan Mazumder et.al.|[2505.15139v1](http://arxiv.org/abs/2505.15139v1)|null|
+|**2025-05-21**|**Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling**|Badhan Mazumder et.al.|[2505.15135v1](http://arxiv.org/abs/2505.15135v1)|null|
+|**2024-10-03**|**EvoMesh: Adaptive Physical Simulation with Hierarchical Graph Evolutions**|Huayu Deng et.al.|[2410.03779v3](http://arxiv.org/abs/2410.03779v3)|[link](https://github.com/hbell99/evomesh)|
+|**2025-05-21**|**Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing**|Longlong Li et.al.|[2505.15015v1](http://arxiv.org/abs/2505.15015v1)|null|
+|**2024-10-08**|**FedGraph: A Research Library and Benchmark for Federated Graph Learning**|Yuhang Yao et.al.|[2410.06340v3](http://arxiv.org/abs/2410.06340v3)|[link](https://github.com/fedgraph/fedgraph)|
 
 ## Non-Euclidean Staistics
 
@@ -81,18 +81,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-21**|**LCDB 1.1: A Database Illustrating Learning Curves Are More Ill-Behaved Than Previously Thought**|Cheng Yan et.al.|[2505.15657v1](http://arxiv.org/abs/2505.15657v1)|null|
+|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|null|
+|**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057v2](http://arxiv.org/abs/2504.13057v2)|null|
+|**2025-05-21**|**Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One**|Yiwen Song et.al.|[2505.15306v1](http://arxiv.org/abs/2505.15306v1)|null|
+|**2025-05-20**|**An Asymptotic Equation Linking WAIC and WBIC in Singular Models**|Naoki Hayashi et.al.|[2505.13902v2](http://arxiv.org/abs/2505.13902v2)|null|
+|**2025-05-21**|**In-Domain African Languages Translation Using LLMs and Multi-armed Bandits**|Pratik Rakesh Singh et.al.|[2505.15069v1](http://arxiv.org/abs/2505.15069v1)|null|
+|**2025-02-18**|**SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models**|Seanie Lee et.al.|[2502.12464v4](http://arxiv.org/abs/2502.12464v4)|[link](https://github.com/seanie12/safe-route)|
+|**2025-05-20**|**A kernel-based framework for covariate significance tests in nonparametric regression**|Daniel Diz-Castro et.al.|[2505.14851v1](http://arxiv.org/abs/2505.14851v1)|null|
 |**2025-05-17**|**Thompson Sampling-like Algorithms for Stochastic Rising Bandits**|Marco Fiandri et.al.|[2505.12092v2](http://arxiv.org/abs/2505.12092v2)|null|
 |**2025-05-20**|**Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI**|Annika Bush et.al.|[2505.14435v1](http://arxiv.org/abs/2505.14435v1)|null|
 |**2025-05-20**|**Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals**|Qianli Wang et.al.|[2505.13972v1](http://arxiv.org/abs/2505.13972v1)|null|
-|**2025-05-20**|**An Asymptotic Equation Linking WAIC and WBIC in Singular Models**|Naoki Hayashi et.al.|[2505.13902v1](http://arxiv.org/abs/2505.13902v1)|null|
-|**2025-02-18**|**SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models**|Seanie Lee et.al.|[2502.12464v3](http://arxiv.org/abs/2502.12464v3)|null|
 |**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052v1](http://arxiv.org/abs/2505.13052v1)|null|
 |**2025-05-19**|**PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization**|Dong Kyu Cho et.al.|[2505.12745v1](http://arxiv.org/abs/2505.12745v1)|null|
 |**2025-05-19**|**AD-AGENT: A Multi-agent Framework for End-to-end Anomaly Detection**|Tiankai Yang et.al.|[2505.12594v1](http://arxiv.org/abs/2505.12594v1)|null|
 |**2024-03-20**|**Bridge the Modality and Capability Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v3](http://arxiv.org/abs/2403.13797v3)|null|
-|**2025-05-18**|**High-Dimensional Dynamic Covariance Models with Random Forests**|Shuguang Yu et.al.|[2505.12444v1](http://arxiv.org/abs/2505.12444v1)|null|
-|**2024-07-26**|**ClinicRealm: Re-evaluating Large Language Models with Conventional Machine Learning for Non-Generative Clinical Prediction Tasks**|Yinghao Zhu et.al.|[2407.18525v2](http://arxiv.org/abs/2407.18525v2)|null|
-|**2025-05-17**|**Zero-Shot Forecasting Mortality Rates: A Global Study**|Gabor Petnehazi et.al.|[2505.13521v1](http://arxiv.org/abs/2505.13521v1)|null|
-|**2025-05-17**|**Exploring the Potential of SSL Models for Sound Event Detection**|Hanfang Cui et.al.|[2505.11889v1](http://arxiv.org/abs/2505.11889v1)|null|
-|**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v3](http://arxiv.org/abs/2409.05672v3)|null|
-|**2025-05-16**|**Consistency of Bayes factors for linear models**|Elías Moreno et.al.|[2505.11705v1](http://arxiv.org/abs/2505.11705v1)|null|
