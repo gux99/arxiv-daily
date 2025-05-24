@@ -1,0 +1,1389 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="Network%20Statistics/Graph%20Neural%20Network/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.342714a4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#arxiv-daily" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              arxiv-daily
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/gux99/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/gux99/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    arxiv-daily
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#network-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Statistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Network Statistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#network-bootstrap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Bootstrap
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graph-neural-network" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Neural Network
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#non-euclidean-staistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non-Euclidean Staistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Non-Euclidean Staistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frechet-mean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frechet Mean
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#non-eculidean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non Eculidean
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable Selection
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Variable Selection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variable-selection_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable selection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Network Statistics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Network Statistics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Network%20Statistics/Graph%20Neural%20Network/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Graph Neural Network
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Network%20Statistics/Network%20Bootstrap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Network Bootstrap
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Non Euclidean Staistics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Non Euclidean Staistics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Non-Euclidean%20Staistics/Frechet%20Mean/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Frechet Mean
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Non-Euclidean%20Staistics/Non%20Eculidean/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Non Eculidean
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Variable Selection
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Variable Selection
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Variable%20Selection/Variable%20selection/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Variable selection
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#network-statistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Statistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Network Statistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#network-bootstrap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Network Bootstrap
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#graph-neural-network" class="md-nav__link">
+    <span class="md-ellipsis">
+      Graph Neural Network
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#non-euclidean-staistics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non-Euclidean Staistics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Non-Euclidean Staistics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frechet-mean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frechet Mean
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#non-eculidean" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non Eculidean
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable Selection
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Variable Selection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#variable-selection_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variable selection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="arxiv-daily">arxiv-daily</h1>
+<p>Automated deployment @ 2025-05-24 19:23:38 Asia/Shanghai</p>
+<blockquote>
+<p>Welcome to contribute! Add your topics and keywords in <a href="https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml"><code>topic.yml</code></a>.
+You can also view historical data through the <a href="https://github.com/gux99/arxiv-daily/blob/main/database/storage">storage</a>.</p>
+</blockquote>
+<h2 id="network-statistics">Network Statistics</h2>
+<h3 id="network-bootstrap">Network Bootstrap</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2024-10-28</strong></td>
+<td style="text-align: center;"><strong>Valid Bootstraps for Network Embeddings with Applications to Network Visualisation</strong></td>
+<td style="text-align: center;">Emerald Dilworth et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.20895v4">2410.20895v4</a></td>
+<td style="text-align: center;"><a href="https://github.com/0emerald/validbootstrapsfornetworkembeddings">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-12-11</strong></td>
+<td style="text-align: center;"><strong>Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach</strong></td>
+<td style="text-align: center;">Hang Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2412.08038v3">2412.08038v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>Can We Validate Counterfactual Estimations in the Presence of General Network Interference?</strong></td>
+<td style="text-align: center;">Sadegh Shirani et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.01106v1">2502.01106v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/causalmp/causalmp">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-03-02</strong></td>
+<td style="text-align: center;"><strong>Improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise</strong></td>
+<td style="text-align: center;">Li Meng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2203.01004v3">2203.01004v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-08-03</strong></td>
+<td style="text-align: center;"><strong>One Node at a Time: Node-Level Network Classification</strong></td>
+<td style="text-align: center;">Saray Shai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2208.02162v1">2208.02162v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2020-04-14</strong></td>
+<td style="text-align: center;"><strong>Edgeworth expansions for network moments</strong></td>
+<td style="text-align: center;">Yuan Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2004.06615v2">2004.06615v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/yzhanghf/NetworkEdgeworthExpansion">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2020-12-01</strong></td>
+<td style="text-align: center;"><strong>Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes</strong></td>
+<td style="text-align: center;">Damien Bouchabou et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2012.02300v1">2012.02300v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2013-03-18</strong></td>
+<td style="text-align: center;"><strong>Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles</strong></td>
+<td style="text-align: center;">Gregory Norcie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1303.4155v2">1303.4155v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="graph-neural-network">Graph Neural Network</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization</strong></td>
+<td style="text-align: center;">Shengyu Feng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16952v1">2505.16952v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Unsupervised Prompting for Graph Neural Networks</strong></td>
+<td style="text-align: center;">Peyman Baghershahi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16903v1">2505.16903v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Structure-Aligned Protein Language Model</strong></td>
+<td style="text-align: center;">Can Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16896v1">2505.16896v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Statistical Test for Saliency Maps of Graph Neural Networks via Selective Inference</strong></td>
+<td style="text-align: center;">Shuichi Nishino et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16893v1">2505.16893v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-12-18</strong></td>
+<td style="text-align: center;"><strong>Reinforcement Learning Based Quantum Circuit Optimization via ZX-Calculus</strong></td>
+<td style="text-align: center;">Jordi Riu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2312.11597v4">2312.11597v4</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-01</strong></td>
+<td style="text-align: center;"><strong>SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction</strong></td>
+<td style="text-align: center;">Junchi Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.00625v3">2505.00625v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/MustBeOne/SA-GAT-SR">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?</strong></td>
+<td style="text-align: center;">Nicolas Keriven et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16736v1">2505.16736v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-03</strong></td>
+<td style="text-align: center;"><strong>Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity</strong></td>
+<td style="text-align: center;">Erpai Luo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.01171v2">2502.01171v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-03-19</strong></td>
+<td style="text-align: center;"><strong>FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization</strong></td>
+<td style="text-align: center;">Cheng Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2403.12474v2">2403.12474v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-12-04</strong></td>
+<td style="text-align: center;"><strong>Semi-decentralized Training of Spatio-Temporal Graph Neural Networks for Traffic Prediction</strong></td>
+<td style="text-align: center;">Ivan Kralj et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2412.03188v2">2412.03188v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Joint Relational Database Generation via Graph-Conditional Diffusion Models</strong></td>
+<td style="text-align: center;">Mohamed Amine Ketata et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16527v1">2505.16527v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-21</strong></td>
+<td style="text-align: center;"><strong>Cosmology from Point Clouds with Dark Matter Halos from the Quijote Simulations</strong></td>
+<td style="text-align: center;">Atrideb Chatterjee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.13119v2">2405.13119v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization</strong></td>
+<td style="text-align: center;">Robbert Reijnen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16471v1">2505.16471v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods</strong></td>
+<td style="text-align: center;">Meng Yan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16466v1">2505.16466v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning</strong></td>
+<td style="text-align: center;">Anas Ali et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16371v1">2505.16371v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h2 id="non-euclidean-staistics">Non-Euclidean Staistics</h2>
+<h3 id="frechet-mean">Frechet Mean</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2025-04-18</strong></td>
+<td style="text-align: center;"><strong>Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations</strong></td>
+<td style="text-align: center;">Magalie Bénéfice et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2504.13502v1">2504.13502v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-07</strong></td>
+<td style="text-align: center;"><strong>Tropical Fréchet Means</strong></td>
+<td style="text-align: center;">Bo Lin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.05322v1">2502.05322v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/ooinaruhugh/TropicalFrechetMeans.jl">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-10-20</strong></td>
+<td style="text-align: center;"><strong>Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces</strong></td>
+<td style="text-align: center;">Christof Schötz et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2310.13668v3">2310.13668v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-11-15</strong></td>
+<td style="text-align: center;"><strong>A central limit theorem for random tangent fields on stratified spaces</strong></td>
+<td style="text-align: center;">Jonathan C. Mattingly et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2311.09454v3">2311.09454v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-07-08</strong></td>
+<td style="text-align: center;"><strong>A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams</strong></td>
+<td style="text-align: center;">Yueqi Cao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2207.03943v3">2207.03943v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-22</strong></td>
+<td style="text-align: center;"><strong>Fréchet Means in Infinite Dimensions</strong></td>
+<td style="text-align: center;">Adam Quinn Jaffe et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.17214v2">2410.17214v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-12-25</strong></td>
+<td style="text-align: center;"><strong>Empirical likelihood for Fréchet means on open books</strong></td>
+<td style="text-align: center;">Karthik Bharath et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2412.18818v1">2412.18818v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-07</strong></td>
+<td style="text-align: center;"><strong>Decentralized Online Riemannian Optimization with Dynamic Environments</strong></td>
+<td style="text-align: center;">Hengchao Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.05128v1">2410.05128v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/statsle/dprgd">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-08-14</strong></td>
+<td style="text-align: center;"><strong>Uniform Consistency of Generalized Fréchet Means</strong></td>
+<td style="text-align: center;">Andrea Aveni et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2408.07534v1">2408.07534v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-01-06</strong></td>
+<td style="text-align: center;"><strong>Quotient geometry of bounded or fixed rank correlation matrices</strong></td>
+<td style="text-align: center;">Hengchao Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.03126v3">2401.03126v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/hengchaochen/geomcorr">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-22</strong></td>
+<td style="text-align: center;"><strong>Huber means on Riemannian manifolds</strong></td>
+<td style="text-align: center;">Jongmin Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.15764v1">2407.15764v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-10</strong></td>
+<td style="text-align: center;"><strong>Random matrix theory improved Fréchet mean of symmetric positive definite matrices</strong></td>
+<td style="text-align: center;">Florent Bouchard et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.06558v2">2405.06558v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/ammarmian/icml-rmt-2024">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-02-19</strong></td>
+<td style="text-align: center;"><strong>A Lower Bound for Estimating Fréchet Means</strong></td>
+<td style="text-align: center;">Shayan Hundrieser et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2402.12290v1">2402.12290v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-02-22</strong></td>
+<td style="text-align: center;"><strong>Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance</strong></td>
+<td style="text-align: center;">Ce Ju et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2302.11410v3">2302.11410v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-11-18</strong></td>
+<td style="text-align: center;"><strong>Strong law of large numbers for the generalized Fréchet means with random minimizing domains</strong></td>
+<td style="text-align: center;">Jaesung Park et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2311.10958v1">2311.10958v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h3 id="non-eculidean">Non Eculidean</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2025-05-10</strong></td>
+<td style="text-align: center;"><strong>HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation</strong></td>
+<td style="text-align: center;">Hang Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.06512v3">2505.06512v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/hwang-cs-ime/hcma">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-14</strong></td>
+<td style="text-align: center;"><strong>Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions</strong></td>
+<td style="text-align: center;">Chudamani Poudyal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.09860v1">2505.09860v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-12</strong></td>
+<td style="text-align: center;"><strong>Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids</strong></td>
+<td style="text-align: center;">Yuting Cai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.08082v1">2505.08082v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-12</strong></td>
+<td style="text-align: center;"><strong>Protein FID: Improved Evaluation of Protein Structure Generative Models</strong></td>
+<td style="text-align: center;">Felix Faltings et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.08041v1">2505.08041v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-07-31</strong></td>
+<td style="text-align: center;"><strong>Deep Fréchet Regression</strong></td>
+<td style="text-align: center;">Su I Iao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2407.21407v2">2407.21407v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-09</strong></td>
+<td style="text-align: center;"><strong>Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation</strong></td>
+<td style="text-align: center;">Dongying Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.06117v1">2505.06117v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-04-24</strong></td>
+<td style="text-align: center;"><strong>Fréchet Distance in Unweighted Planar Graphs</strong></td>
+<td style="text-align: center;">Ivor van der Hoog et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2504.17342v2">2504.17342v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-01-26</strong></td>
+<td style="text-align: center;"><strong>Faster Fréchet Distance Approximation through Truncated Smoothing</strong></td>
+<td style="text-align: center;">Thijs van der Horst et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2401.14815v2">2401.14815v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-01-07</strong></td>
+<td style="text-align: center;"><strong>The Geodesic Fréchet Distance Between Two Curves Bounding a Simple Polygon</strong></td>
+<td style="text-align: center;">Thijs van der Horst et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2501.03834v2">2501.03834v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-08</strong></td>
+<td style="text-align: center;"><strong>Local linear Fréchet curve regression in manifolds</strong></td>
+<td style="text-align: center;">M. D. Ruiz-Medina et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.05168v1">2505.05168v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-08</strong></td>
+<td style="text-align: center;"><strong>ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis</strong></td>
+<td style="text-align: center;">Onkar Susladkar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.04963v1">2505.04963v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-08</strong></td>
+<td style="text-align: center;"><strong>Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses</strong></td>
+<td style="text-align: center;">Kyunghee Han et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.04926v1">2505.04926v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-03-02</strong></td>
+<td style="text-align: center;"><strong>Debiased Machine Learning of Aggregated Intersection Bounds and Other Causal Parameters</strong></td>
+<td style="text-align: center;">Vira Semenova et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2303.00982v3">2303.00982v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-06</strong></td>
+<td style="text-align: center;"><strong>Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models</strong></td>
+<td style="text-align: center;">Kapil Wanaskar et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.04650v1">2505.04650v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/kapilw25/Evaluation_generated_images">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-09-26</strong></td>
+<td style="text-align: center;"><strong>Exploring Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations</strong></td>
+<td style="text-align: center;">Yujia Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2409.17899v2">2409.17899v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+<h2 id="variable-selection">Variable Selection</h2>
+<h3 id="variable-selection_1">Variable selection</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs</strong></td>
+<td style="text-align: center;">Rui Ye et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16997v1">2505.16997v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-10-22</strong></td>
+<td style="text-align: center;"><strong>Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model</strong></td>
+<td style="text-align: center;">Xingche Guo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2310.14419v4">2310.14419v4</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Periodic Variability in Space Photometry of 181 New Supermassive Black Hole Binary Candidates</strong></td>
+<td style="text-align: center;">Pablo Huijse et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16884v1">2505.16884v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Multi-Output Gaussian Processes for Graph-Structured Data</strong></td>
+<td style="text-align: center;">Ayano Nakai-Kasai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16755v1">2505.16755v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-14</strong></td>
+<td style="text-align: center;"><strong>A Unified Approach to Routing and Cascading for LLMs</strong></td>
+<td style="text-align: center;">Jasper Dekoninck et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.10347v3">2410.10347v3</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-22</strong></td>
+<td style="text-align: center;"><strong>Selection of Dwarf Galaxies Hosting AGNs: A Measure of Bias and Contamination using Unsupervised Machine Learning Techniques</strong></td>
+<td style="text-align: center;">Sogol Sanjaripour et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16509v1">2505.16509v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-16</strong></td>
+<td style="text-align: center;"><strong>Supervised Models Can Generalize Also When Trained on Random Labels</strong></td>
+<td style="text-align: center;">Oskar Allerbo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.11006v2">2505.11006v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/allerbo/training_without_y">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-02-18</strong></td>
+<td style="text-align: center;"><strong>SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models</strong></td>
+<td style="text-align: center;">Seanie Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2502.12464v5">2502.12464v5</a></td>
+<td style="text-align: center;"><a href="https://github.com/seanie12/safe-route">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-04-09</strong></td>
+<td style="text-align: center;"><strong>Rapid inference and comparison of gravitational-wave population models with neural variational posteriors</strong></td>
+<td style="text-align: center;">Matthew Mould et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2504.07197v2">2504.07197v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-21</strong></td>
+<td style="text-align: center;"><strong>Quantile Predictions for Equity Premium using Penalized Quantile Regression with Consistent Variable Selection across Multiple Quantiles</strong></td>
+<td style="text-align: center;">Shaobo Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.16019v1">2505.16019v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-21</strong></td>
+<td style="text-align: center;"><strong>LCDB 1.1: A Database Illustrating Learning Curves Are More Ill-Behaved Than Previously Thought</strong></td>
+<td style="text-align: center;">Cheng Yan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.15657v1">2505.15657v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/learning-curve-research/LCDB-1.1">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-21</strong></td>
+<td style="text-align: center;"><strong>Second-Order Convergence in Private Stochastic Non-Convex Optimization</strong></td>
+<td style="text-align: center;">Youming Tao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.15647v1">2505.15647v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-04-17</strong></td>
+<td style="text-align: center;"><strong>Covariate balancing estimation and model selection for difference-in-differences approach</strong></td>
+<td style="text-align: center;">Takamichi Baba et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2504.13057v2">2504.13057v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-21</strong></td>
+<td style="text-align: center;"><strong>Multiple Weaks Win Single Strong: Large Language Models Ensemble Weak Reinforcement Learning Agents into a Supreme One</strong></td>
+<td style="text-align: center;">Yiwen Song et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.15306v1">2505.15306v1</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-05-20</strong></td>
+<td style="text-align: center;"><strong>An Asymptotic Equation Linking WAIC and WBIC in Singular Models</strong></td>
+<td style="text-align: center;">Naoki Hayashi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2505.13902v2">2505.13902v2</a></td>
+<td style="text-align: center;">null</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
