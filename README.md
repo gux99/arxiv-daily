@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-27 07:28:25 Asia/Shanghai
+ Automated deployment @ 2025-05-27 19:27:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-07**|**OneProt: Towards Multi-Modal Protein Foundation Models**|Klemens Flöge et.al.|[2411.04863v2](http://arxiv.org/abs/2411.04863v2)|[link](https://github.com/klemens-floege/oneprot)|
-|**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088v1](http://arxiv.org/abs/2505.18088v1)|null|
-|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v1](http://arxiv.org/abs/2505.17939v1)|null|
-|**2025-05-21**|**NeuBM: Mitigating Model Bias in Graph Neural Networks through Neutral Input Calibration**|Jiawei Gu et.al.|[2505.15180v2](http://arxiv.org/abs/2505.15180v2)|null|
-|**2025-05-21**|**SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps**|Jiawei Gu et.al.|[2505.15177v2](http://arxiv.org/abs/2505.15177v2)|null|
-|**2025-05-23**|**A Network Science Approach to Granular Time Series Segmentation**|Ivana Kesić et.al.|[2505.17640v1](http://arxiv.org/abs/2505.17640v1)|null|
-|**2025-05-23**|**Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs**|Yusheng Zhao et.al.|[2505.17599v1](http://arxiv.org/abs/2505.17599v1)|null|
-|**2025-05-20**|**Towards Comprehensive and Prerequisite-Free Explainer for Graph Neural Networks**|Han Zhang et.al.|[2505.14005v2](http://arxiv.org/abs/2505.14005v2)|[link](https://github.com/zh2209645/open)|
-|**2025-02-26**|**NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders**|Jun-En Ding et.al.|[2502.18786v3](http://arxiv.org/abs/2502.18786v3)|null|
-|**2025-05-23**|**Graph Mamba for Efficient Whole Slide Image Understanding**|Jiaxuan Lu et.al.|[2505.17457v1](http://arxiv.org/abs/2505.17457v1)|null|
-|**2025-05-22**|**Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control**|Zhen Zhang et.al.|[2505.16249v2](http://arxiv.org/abs/2505.16249v2)|null|
-|**2025-05-23**|**Are GNNs Worth the Effort for IoT Botnet Detection? A Comparative Study of VAE-GNN vs. ViT-MLP and VAE-MLP Approaches**|Hassan Wasswa et.al.|[2505.17363v1](http://arxiv.org/abs/2505.17363v1)|null|
-|**2025-05-23**|**Graph Attention Neural Network for Botnet Detection: Evaluating Autoencoder, VAE and PCA-Based Dimension Reduction**|Hassan Wasswa et.al.|[2505.17357v1](http://arxiv.org/abs/2505.17357v1)|null|
-|**2025-05-22**|**Model-Free Graph Data Selection under Distribution Shift**|Ting-Wei Li et.al.|[2505.17293v1](http://arxiv.org/abs/2505.17293v1)|null|
-|**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219v2](http://arxiv.org/abs/2409.15219v2)|null|
+|**2025-05-26**|**An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks**|Jinyan Wang et.al.|[2505.20074v1](http://arxiv.org/abs/2505.20074v1)|null|
+|**2025-05-26**|**Graph Wave Networks**|Juwei Yue et.al.|[2505.20034v1](http://arxiv.org/abs/2505.20034v1)|null|
+|**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514v2](http://arxiv.org/abs/2502.16514v2)|null|
+|**2025-05-26**|**GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation**|Zhiyu Wang et.al.|[2505.19802v1](http://arxiv.org/abs/2505.19802v1)|null|
+|**2025-05-26**|**Language Model-Enhanced Message Passing for Heterophilic Graph Learning**|Wenjun Wang et.al.|[2505.19762v1](http://arxiv.org/abs/2505.19762v1)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v3](http://arxiv.org/abs/2408.17252v3)|null|
+|**2024-06-05**|**Residual Connections and Normalization Can Provably Prevent Oversmoothing in GNNs**|Michael Scholkemper et.al.|[2406.02997v3](http://arxiv.org/abs/2406.02997v3)|null|
+|**2025-05-26**|**STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization**|Haoyu Zhang et.al.|[2505.19547v1](http://arxiv.org/abs/2505.19547v1)|null|
+|**2025-05-26**|**MetaGMT: Improving Actionable Interpretability of Graph Multilinear Networks via Meta-Learning Filtration**|Rishabh Bhattacharya et.al.|[2505.19445v1](http://arxiv.org/abs/2505.19445v1)|null|
+|**2024-10-22**|**SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs**|Leyao Wang et.al.|[2410.16882v3](http://arxiv.org/abs/2410.16882v3)|null|
+|**2025-04-29**|**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs**|Zihan Chen et.al.|[2504.21206v2](http://arxiv.org/abs/2504.21206v2)|null|
+|**2025-05-13**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614v3](http://arxiv.org/abs/2505.08614v3)|[link](https://github.com/vpsg-research/waveguard)|
+|**2025-05-25**|**Chordless Structure: A Pathway to Simple and Expressive GNNs**|Hongxu Pan et.al.|[2505.19188v1](http://arxiv.org/abs/2505.19188v1)|null|
+|**2024-12-21**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441v3](http://arxiv.org/abs/2412.16441v3)|null|
+|**2025-01-30**|**Beyond Message Passing: Neural Graph Pattern Machine**|Zehong Wang et.al.|[2501.18739v2](http://arxiv.org/abs/2501.18739v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**Dynamically Learned Test-Time Model Routing in Language Model Zoos with Service Level Guarantees**|Herbert Woisetschläger et.al.|[2505.19947v1](http://arxiv.org/abs/2505.19947v1)|null|
+|**2025-05-26**|**Weighted Leave-One-Out Cross Validation**|Luc Pronzato et.al.|[2505.19737v1](http://arxiv.org/abs/2505.19737v1)|null|
+|**2025-01-23**|**Time Series Embedding Methods for Classification Tasks: A Review**|Habib Irani et.al.|[2501.13392v2](http://arxiv.org/abs/2501.13392v2)|[link](https://github.com/imics-lab/time-series-embedding)|
+|**2025-05-25**|**A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models**|Arianna Ceccarelli et.al.|[2505.19292v1](http://arxiv.org/abs/2505.19292v1)|null|
+|**2025-01-29**|**On the double robustness of Conditional Feature Importance**|Angel Reyero Lobo et.al.|[2501.17520v3](http://arxiv.org/abs/2501.17520v3)|null|
+|**2025-05-25**|**OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter Optimization**|Meher Bhaskar Madiraju et.al.|[2505.19205v1](http://arxiv.org/abs/2505.19205v1)|null|
+|**2025-05-25**|**A Unified Framework for Variable Selection in Model-Based Clustering with Missing Not at Random**|Binh H. Ho et.al.|[2505.19093v1](http://arxiv.org/abs/2505.19093v1)|null|
+|**2025-05-24**|**PromptWise: Online Learning for Cost-Aware Prompt Assignment in Generative Models**|Xiaoyan Hu et.al.|[2505.18901v1](http://arxiv.org/abs/2505.18901v1)|null|
+|**2025-03-18**|**COPA: Comparing the incomparable in multi-objective model evaluation**|Adrián Javaloy et.al.|[2503.14321v2](http://arxiv.org/abs/2503.14321v2)|null|
+|**2025-05-23**|**Learning Latent Variable Models via Jarzynski-adjusted Langevin Algorithm**|James Cuin et.al.|[2505.18427v1](http://arxiv.org/abs/2505.18427v1)|null|
 |**2025-05-23**|**A new measure of dependence: Integrated $R^2$**|Mona Azadkia et.al.|[2505.18146v1](http://arxiv.org/abs/2505.18146v1)|null|
 |**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115v1](http://arxiv.org/abs/2505.18115v1)|null|
 |**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097v1](http://arxiv.org/abs/2505.18097v1)|null|
 |**2025-05-23**|**Rethinking Climate Econometrics: Data Cleaning, Flexible Trend Controls, and Predictive Validation**|Christof Schötz et.al.|[2505.18033v1](http://arxiv.org/abs/2505.18033v1)|null|
 |**2025-05-23**|**Handling Symbolic Language in Student Texts: A Comparative Study of NLP Embedding Models**|Tom Bleckmann et.al.|[2505.17950v1](http://arxiv.org/abs/2505.17950v1)|null|
-|**2025-05-12**|**Tuning for Trustworthiness -- Balancing Performance and Explanation Consistency in Neural Network Optimization**|Alexander Hinterleitner et.al.|[2505.07910v2](http://arxiv.org/abs/2505.07910v2)|null|
-|**2025-05-05**|**From Course to Skill: Evaluating LLM Performance in Curricular Analytics**|Zhen Xu et.al.|[2505.02324v2](http://arxiv.org/abs/2505.02324v2)|[link](https://github.com/aequitas-lab/evaluation-of-llm-in-ca-aied-2025)|
-|**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052v2](http://arxiv.org/abs/2505.13052v2)|null|
-|**2025-04-28**|**OpenTCM: A GraphRAG-Empowered LLM-based System for Traditional Chinese Medicine Knowledge Retrieval and Diagnosis**|Jinglin He et.al.|[2504.20118v2](http://arxiv.org/abs/2504.20118v2)|null|
-|**2025-05-22**|**Approach to Finding a Robust Deep Learning Model**|Alexey Boldyrev et.al.|[2505.17254v1](http://arxiv.org/abs/2505.17254v1)|null|
-|**2025-05-22**|**LASSO-ODE: A framework for mechanistic model identifiability and selection in disease transmission modeling**|Jiale Tan et.al.|[2505.17252v1](http://arxiv.org/abs/2505.17252v1)|null|
-|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|[link](https://github.com/masworks/x-mas)|
-|**2023-10-22**|**Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model**|Xingche Guo et.al.|[2310.14419v4](http://arxiv.org/abs/2310.14419v4)|null|
-|**2025-05-22**|**Periodic Variability in Space Photometry of 181 New Supermassive Black Hole Binary Candidates**|Pablo Huijse et.al.|[2505.16884v1](http://arxiv.org/abs/2505.16884v1)|null|
-|**2025-05-22**|**Multi-Output Gaussian Processes for Graph-Structured Data**|Ayano Nakai-Kasai et.al.|[2505.16755v1](http://arxiv.org/abs/2505.16755v1)|null|
 
 ## Non-Euclidean Staistics
 
