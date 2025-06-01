@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-01 07:28:30 Asia/Shanghai
+ Automated deployment @ 2025-06-01 19:25:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,27 +35,6 @@
 |**2024-12-15**|**TINED: GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation**|Ziang Zhou et.al.|[2412.11180v3](http://arxiv.org/abs/2412.11180v3)|null|
 |**2024-11-30**|**One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**|Jingzhe Liu et.al.|[2412.00315v2](http://arxiv.org/abs/2412.00315v2)|null|
 |**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034v1](http://arxiv.org/abs/2505.23034v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**A Modern Theory of Cross-Validation through the Lens of Stability**|Jing Lei et.al.|[2505.23592v1](http://arxiv.org/abs/2505.23592v1)|null|
-|**2025-05-29**|**Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE**|Zhao Chen et.al.|[2505.23535v1](http://arxiv.org/abs/2505.23535v1)|null|
-|**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793v2](http://arxiv.org/abs/2505.03793v2)|[link](https://github.com/susan571/lensllm)|
-|**2024-10-30**|**One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks**|Ji Guo et.al.|[2410.22725v4](http://arxiv.org/abs/2410.22725v4)|null|
-|**2024-10-08**|**A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints**|Michael Munn et.al.|[2410.05612v2](http://arxiv.org/abs/2410.05612v2)|null|
-|**2025-05-29**|**A Network-Guided Penalized Regression with Application to Proteomics Data**|Seungjun Ahn et.al.|[2505.22986v1](http://arxiv.org/abs/2505.22986v1)|null|
-|**2024-02-02**|**Minimal Sufficient Views: A DNN model making predictions with more evidence has higher accuracy**|Keisuke Kawano et.al.|[2402.01095v2](http://arxiv.org/abs/2402.01095v2)|null|
-|**2025-05-27**|**DeSocial: Blockchain-based Decentralized Social Networks**|Jingyuan Huang et.al.|[2505.21388v2](http://arxiv.org/abs/2505.21388v2)|[link](https://github.com/agiresearch/desocial)|
-|**2022-10-10**|**Approximate hierarchical Bayes small area estimation using NEF-QVF and poststratification**|Soumojit Das et.al.|[2210.04980v3](http://arxiv.org/abs/2210.04980v3)|null|
-|**2025-05-28**|**Variability in the massive black hole binary candidate SDSS J2320+0024: no evidence for periodic modulation**|Fabio Rigamonti et.al.|[2505.22706v1](http://arxiv.org/abs/2505.22706v1)|null|
-|**2024-11-26**|**AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v5](http://arxiv.org/abs/2411.17284v5)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
-|**2025-05-28**|**A Unified Framework for Community Detection and Model Selection in Blockmodels**|Subhankar Bhadra et.al.|[2505.22459v1](http://arxiv.org/abs/2505.22459v1)|null|
-|**2025-05-25**|**OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter Optimization**|Meher Bhaskar Madiraju et.al.|[2505.19205v2](http://arxiv.org/abs/2505.19205v2)|[link](https://github.com/MeherBhaskar/OptiMindTune)|
-|**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435v1](http://arxiv.org/abs/2505.22435v1)|null|
-|**2025-05-28**|**Network Model Averaging Prediction for Latent Space Models by K-Fold Edge Cross-Validation**|Yan Zhang et.al.|[2505.22289v1](http://arxiv.org/abs/2505.22289v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -96,3 +75,24 @@
 |**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926v1](http://arxiv.org/abs/2505.04926v1)|null|
 |**2023-03-02**|**Debiased Machine Learning of Aggregated Intersection Bounds and Other Causal Parameters**|Vira Semenova et.al.|[2303.00982v3](http://arxiv.org/abs/2303.00982v3)|null|
 |**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|[link](https://github.com/kapilw25/Evaluation_generated_images)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-29**|**A Modern Theory of Cross-Validation through the Lens of Stability**|Jing Lei et.al.|[2505.23592v1](http://arxiv.org/abs/2505.23592v1)|null|
+|**2025-05-29**|**Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE**|Zhao Chen et.al.|[2505.23535v1](http://arxiv.org/abs/2505.23535v1)|null|
+|**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793v2](http://arxiv.org/abs/2505.03793v2)|[link](https://github.com/susan571/lensllm)|
+|**2024-10-30**|**One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks**|Ji Guo et.al.|[2410.22725v4](http://arxiv.org/abs/2410.22725v4)|null|
+|**2024-10-08**|**A Bayesian Model Selection Criterion for Selecting Pretraining Checkpoints**|Michael Munn et.al.|[2410.05612v2](http://arxiv.org/abs/2410.05612v2)|null|
+|**2025-05-29**|**A Network-Guided Penalized Regression with Application to Proteomics Data**|Seungjun Ahn et.al.|[2505.22986v1](http://arxiv.org/abs/2505.22986v1)|null|
+|**2024-02-02**|**Minimal Sufficient Views: A DNN model making predictions with more evidence has higher accuracy**|Keisuke Kawano et.al.|[2402.01095v2](http://arxiv.org/abs/2402.01095v2)|null|
+|**2025-05-27**|**DeSocial: Blockchain-based Decentralized Social Networks**|Jingyuan Huang et.al.|[2505.21388v2](http://arxiv.org/abs/2505.21388v2)|[link](https://github.com/agiresearch/desocial)|
+|**2022-10-10**|**Approximate hierarchical Bayes small area estimation using NEF-QVF and poststratification**|Soumojit Das et.al.|[2210.04980v3](http://arxiv.org/abs/2210.04980v3)|null|
+|**2025-05-28**|**Variability in the massive black hole binary candidate SDSS J2320+0024: no evidence for periodic modulation**|Fabio Rigamonti et.al.|[2505.22706v1](http://arxiv.org/abs/2505.22706v1)|null|
+|**2024-11-26**|**AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v5](http://arxiv.org/abs/2411.17284v5)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
+|**2025-05-28**|**A Unified Framework for Community Detection and Model Selection in Blockmodels**|Subhankar Bhadra et.al.|[2505.22459v1](http://arxiv.org/abs/2505.22459v1)|null|
+|**2025-05-25**|**OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter Optimization**|Meher Bhaskar Madiraju et.al.|[2505.19205v2](http://arxiv.org/abs/2505.19205v2)|[link](https://github.com/MeherBhaskar/OptiMindTune)|
+|**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435v1](http://arxiv.org/abs/2505.22435v1)|null|
+|**2025-05-28**|**Network Model Averaging Prediction for Latent Space Models by K-Fold Edge Cross-Validation**|Yan Zhang et.al.|[2505.22289v1](http://arxiv.org/abs/2505.22289v1)|null|
