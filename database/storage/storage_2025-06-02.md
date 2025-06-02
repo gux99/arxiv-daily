@@ -1,9 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2025-06-02 07:28:28 Asia/Shanghai
+ Automated deployment @ 2025-06-02 19:27:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Network Statistics
+
+### Graph Neural Network
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-24**|**MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering**|Shuo Yang et.al.|[2503.18491v2](http://arxiv.org/abs/2503.18491v2)|null|
+|**2025-05-28**|**Directed Homophily-Aware Graph Neural Network**|Aihu Zhang et.al.|[2505.22362v2](http://arxiv.org/abs/2505.22362v2)|null|
+|**2025-02-13**|**Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence**|Yuankai Luo et.al.|[2502.09263v2](http://arxiv.org/abs/2502.09263v2)|[link](https://github.com/LUOyk1999/GNNPlus)|
+|**2024-06-26**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354v2](http://arxiv.org/abs/2406.18354v2)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712v2](http://arxiv.org/abs/2505.02712v2)|[link](https://github.com/jakub-zarzycki2022/gattaca)|
+|**2025-05-29**|**Hybrid-Graph Neural Network Method for Muon Fast Reconstruction in Neutrino Telescopes**|Cen Mo et.al.|[2505.23425v2](http://arxiv.org/abs/2505.23425v2)|null|
+|**2025-05-30**|**Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs**|Franziska Heeg et.al.|[2505.24438v1](http://arxiv.org/abs/2505.24438v1)|null|
+|**2025-05-30**|**Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System**|Giovanny C-Londoño et.al.|[2505.24429v1](http://arxiv.org/abs/2505.24429v1)|null|
+|**2024-03-01**|**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**|Jiaqi Han et.al.|[2403.00485v3](http://arxiv.org/abs/2403.00485v3)|null|
+|**2025-05-18**|**Pre-trained Prompt-driven Semi-supervised Local Community Detection**|Li Ni et.al.|[2505.12304v2](http://arxiv.org/abs/2505.12304v2)|null|
+|**2023-11-03**|**GNNBleed: Inference Attacks to Unveil Private Edges in Graphs with Realistic Access to GNN Models**|Zeyu Song et.al.|[2311.16139v2](http://arxiv.org/abs/2311.16139v2)|null|
+|**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172v1](http://arxiv.org/abs/2505.24172v1)|null|
+|**2025-05-30**|**Biological Pathway Guided Gene Selection Through Collaborative Reinforcement Learning**|Ehtesamul Azim et.al.|[2505.24155v1](http://arxiv.org/abs/2505.24155v1)|null|
+|**2025-05-30**|**Practical Bayes-Optimal Membership Inference Attacks**|Marcus Lassila et.al.|[2505.24089v1](http://arxiv.org/abs/2505.24089v1)|null|
+|**2025-05-29**|**Primal-Dual Neural Algorithmic Reasoning**|Yu He et.al.|[2505.24067v1](http://arxiv.org/abs/2505.24067v1)|null|
 
 ### Network Bootstrap
 |Publish Date|Title|Authors|PDF|Code|
@@ -16,25 +35,6 @@
 |**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
 |**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
 |**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
-
-### Graph Neural Network
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|null|
-|**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663v1](http://arxiv.org/abs/2505.23663v1)|[link](https://github.com/NiklasFreymuth/AMBER)|
-|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599v1](http://arxiv.org/abs/2505.23599v1)|[link](https://github.com/yuxinma98/transferring_transferability)|
-|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v2](http://arxiv.org/abs/2505.21117v2)|null|
-|**2025-05-29**|**Hybrid-Graph Neural Network Method for Muon Fast Reconstruction in Neutrino Telescopes**|Cen Mo et.al.|[2505.23425v1](http://arxiv.org/abs/2505.23425v1)|null|
-|**2025-02-18**|**USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner**|Mingcong Chen et.al.|[2502.12498v2](http://arxiv.org/abs/2502.12498v2)|null|
-|**2024-10-17**|**Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks**|Minhua Lin et.al.|[2410.13974v2](http://arxiv.org/abs/2410.13974v2)|null|
-|**2025-02-17**|**A Signed Graph Approach to Understanding and Mitigating Oversmoothing in GNNs**|Jiaqi Wang et.al.|[2502.11394v2](http://arxiv.org/abs/2502.11394v2)|null|
-|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v2](http://arxiv.org/abs/2505.22649v2)|null|
-|**2024-11-09**|**Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting**|Thuan Pham et.al.|[2411.06268v2](http://arxiv.org/abs/2411.06268v2)|null|
-|**2025-05-29**|**Equivariant Spherical Transformer for Efficient Molecular Modeling**|Junyi An et.al.|[2505.23086v1](http://arxiv.org/abs/2505.23086v1)|null|
-|**2024-11-26**|**GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers**|Guoguo Ai et.al.|[2411.17296v3](http://arxiv.org/abs/2411.17296v3)|[link](https://github.com/GGA23/GrokFormer)|
-|**2024-12-15**|**TINED: GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation**|Ziang Zhou et.al.|[2412.11180v3](http://arxiv.org/abs/2412.11180v3)|null|
-|**2024-11-30**|**One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**|Jingzhe Liu et.al.|[2412.00315v2](http://arxiv.org/abs/2412.00315v2)|null|
-|**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034v1](http://arxiv.org/abs/2505.23034v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -60,6 +60,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
 |**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
 |**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
 |**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
@@ -74,13 +75,15 @@
 |**2025-05-08**|**Local linear Fréchet curve regression in manifolds**|M. D. Ruiz-Medina et.al.|[2505.05168v1](http://arxiv.org/abs/2505.05168v1)|null|
 |**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926v1](http://arxiv.org/abs/2505.04926v1)|null|
 |**2023-03-02**|**Debiased Machine Learning of Aggregated Intersection Bounds and Other Causal Parameters**|Vira Semenova et.al.|[2303.00982v3](http://arxiv.org/abs/2303.00982v3)|null|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650v1](http://arxiv.org/abs/2505.04650v1)|[link](https://github.com/kapilw25/Evaluation_generated_images)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**A Dirichlet stochastic block model for composition-weighted networks**|Iuliia Promskaia et.al.|[2408.00651v2](http://arxiv.org/abs/2408.00651v2)|null|
+|**2025-02-20**|**Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs**|Paris Koloveas et.al.|[2502.14561v2](http://arxiv.org/abs/2502.14561v2)|[link](https://github.com/athenarc/citationintentopenllm)|
+|**2025-05-29**|**Non-null Shrinkage Regression and Subset Selection via the Fractional Ridge Regression**|Sihyung Park et.al.|[2505.23925v1](http://arxiv.org/abs/2505.23925v1)|null|
 |**2025-05-29**|**A Modern Theory of Cross-Validation through the Lens of Stability**|Jing Lei et.al.|[2505.23592v1](http://arxiv.org/abs/2505.23592v1)|null|
 |**2025-05-29**|**Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE**|Zhao Chen et.al.|[2505.23535v1](http://arxiv.org/abs/2505.23535v1)|null|
 |**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793v2](http://arxiv.org/abs/2505.03793v2)|[link](https://github.com/susan571/lensllm)|
@@ -93,6 +96,3 @@
 |**2025-05-28**|**Variability in the massive black hole binary candidate SDSS J2320+0024: no evidence for periodic modulation**|Fabio Rigamonti et.al.|[2505.22706v1](http://arxiv.org/abs/2505.22706v1)|null|
 |**2024-11-26**|**AutoElicit: Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284v5](http://arxiv.org/abs/2411.17284v5)|[link](https://github.com/alexcapstick/llm-elicited-priors)|
 |**2025-05-28**|**A Unified Framework for Community Detection and Model Selection in Blockmodels**|Subhankar Bhadra et.al.|[2505.22459v1](http://arxiv.org/abs/2505.22459v1)|null|
-|**2025-05-25**|**OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter Optimization**|Meher Bhaskar Madiraju et.al.|[2505.19205v2](http://arxiv.org/abs/2505.19205v2)|[link](https://github.com/MeherBhaskar/OptiMindTune)|
-|**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435v1](http://arxiv.org/abs/2505.22435v1)|null|
-|**2025-05-28**|**Network Model Averaging Prediction for Latent Space Models by K-Fold Edge Cross-Validation**|Yan Zhang et.al.|[2505.22289v1](http://arxiv.org/abs/2505.22289v1)|null|
