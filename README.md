@@ -1,7 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2025-06-12 07:29:58 Asia/Shanghai
+ Automated deployment @ 2025-06-12 19:27:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v3](http://arxiv.org/abs/2203.11873v3)|[link](https://github.com/SebastienCoube/Nonstat-NNGP/tree/master/Bidart/R)|
+|**2025-04-05**|**Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources**|Junrong Lai et.al.|[2504.04211v2](http://arxiv.org/abs/2504.04211v2)|null|
+|**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690v1](http://arxiv.org/abs/2506.09690v1)|null|
+|**2025-06-11**|**Estimating the Number of Components in Panel Data Finite Mixture Regression Models with an Application to Production Function Heterogeneity**|Yu Hao et.al.|[2506.09666v1](http://arxiv.org/abs/2506.09666v1)|null|
+|**2024-10-21**|**Revisiting the Equivalence of Bayesian Neural Networks and Gaussian Processes: On the Importance of Learning Activations**|Marcin Sendera et.al.|[2410.15777v3](http://arxiv.org/abs/2410.15777v3)|[link](https://github.com/gmum/bnn-functional-priors)|
+|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623v1](http://arxiv.org/abs/2506.09623v1)|null|
+|**2025-06-11**|**Evidence for Dual Periodic Signatures in PKS 0805-07 from Multi-technique Time Series Analysis**|Sikandar Akbar et.al.|[2506.09602v1](http://arxiv.org/abs/2506.09602v1)|null|
+|**2025-06-11**|**Safe Screening Rules for Group SLOPE**|Runxue Bao et.al.|[2506.09451v1](http://arxiv.org/abs/2506.09451v1)|null|
+|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443v1](http://arxiv.org/abs/2506.09443v1)|null|
+|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v9](http://arxiv.org/abs/1905.11027v9)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|null|
+|**2025-04-29**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095v2](http://arxiv.org/abs/2504.21095v2)|null|
+|**2025-06-10**|**Akaike information criterion for segmented regression models**|Kazuki Nakajima et.al.|[2506.08760v1](http://arxiv.org/abs/2506.08760v1)|null|
+|**2025-05-06**|**An Analysis of Hyper-Parameter Optimization Methods for Retrieval Augmented Generation**|Matan Orbach et.al.|[2505.03452v2](http://arxiv.org/abs/2505.03452v2)|null|
+|**2025-06-10**|**High-Dimensional Model Averaging via Cross-Validation**|Zhengyan Wan et.al.|[2506.08451v1](http://arxiv.org/abs/2506.08451v1)|null|
 
 ## Network Statistics
 
@@ -20,63 +41,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06**|**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**|Yeqing Qiu et.al.|[2412.05146v2](http://arxiv.org/abs/2412.05146v2)|null|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920v1](http://arxiv.org/abs/2506.09920v1)|null|
+|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862v1](http://arxiv.org/abs/2506.09862v1)|null|
+|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859v1](http://arxiv.org/abs/2506.09859v1)|null|
+|**2025-01-29**|**Sparser, Better, Faster, Stronger: Sparsity Detection for Efficient Automatic Differentiation**|Adrian Hill et.al.|[2501.17737v2](http://arxiv.org/abs/2501.17737v2)|[link](https://github.com/adrhill/sparseconnectivitytracer.jl)|
+|**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803v1](http://arxiv.org/abs/2506.09803v1)|null|
+|**2025-06-06**|**Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization**|Tianjun Yao et.al.|[2506.05957v3](http://arxiv.org/abs/2506.05957v3)|null|
+|**2025-03-24**|**MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering**|Shuo Yang et.al.|[2503.18491v3](http://arxiv.org/abs/2503.18491v3)|null|
+|**2025-05-27**|**Dynamical Data for More Efficient and Generalizable Learning: A Case Study in Disordered Elastic Networks**|Salman N. Salman et.al.|[2505.21125v2](http://arxiv.org/abs/2505.21125v2)|null|
+|**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265v3](http://arxiv.org/abs/2505.08265v3)|null|
+|**2025-06-10**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309v2](http://arxiv.org/abs/2506.08309v2)|null|
+|**2025-06-11**|**Toward Scalable Quantum Compilation for Modular Architecture: Qubit Mapping and Reuse via Deep Reinforcement Learning**|Sokea Sang et.al.|[2506.09323v1](http://arxiv.org/abs/2506.09323v1)|null|
+|**2024-09-20**|**A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network**|Julian Carvajal Rico et.al.|[2409.13671v3](http://arxiv.org/abs/2409.13671v3)|null|
 |**2025-06-10**|**Effective Data Pruning through Score Extrapolation**|Sebastian Schmidt et.al.|[2506.09010v1](http://arxiv.org/abs/2506.09010v1)|null|
 |**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987v1](http://arxiv.org/abs/2506.08987v1)|[link](https://github.com/ehsanngh/DeepCardioSim)|
-|**2025-06-06**|**Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization**|Tianjun Yao et.al.|[2506.05957v2](http://arxiv.org/abs/2506.05957v2)|null|
-|**2025-06-10**|**Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery**|Victor M. Tenorio et.al.|[2506.08871v1](http://arxiv.org/abs/2506.08871v1)|null|
-|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743v1](http://arxiv.org/abs/2506.08743v1)|null|
-|**2025-06-10**|**Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports**|Sidhika Balachandar et.al.|[2506.08740v1](http://arxiv.org/abs/2506.08740v1)|null|
-|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155v2](http://arxiv.org/abs/2506.05155v2)|null|
-|**2025-06-10**|**WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks**|Tingzhi Li et.al.|[2506.08602v1](http://arxiv.org/abs/2506.08602v1)|null|
-|**2025-06-10**|**HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning**|Yang Lv et.al.|[2506.08580v1](http://arxiv.org/abs/2506.08580v1)|null|
-|**2025-05-16**|**IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment**|Chunying Zhou et.al.|[2505.11205v3](http://arxiv.org/abs/2505.11205v3)|null|
-|**2025-06-10**|**Learnable Spatial-Temporal Positional Encoding for Link Prediction**|Katherine Tieu et.al.|[2506.08309v1](http://arxiv.org/abs/2506.08309v1)|null|
-|**2024-09-17**|**PropEnc: A Property Encoder for Graph Neural Networks**|Anwar Said et.al.|[2409.11554v3](http://arxiv.org/abs/2409.11554v3)|null|
-|**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854v1](http://arxiv.org/abs/2506.07854v1)|null|
-|**2024-12-01**|**A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks**|Varshita Kolipaka et.al.|[2412.00789v4](http://arxiv.org/abs/2412.00789v4)|[link](https://github.com/varshitakolipaka/corrective-unlearning-for-gnns)|
-|**2024-02-16**|**An end-to-end attention-based approach for learning on graphs**|David Buterez et.al.|[2402.10793v3](http://arxiv.org/abs/2402.10793v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|null|
-|**2025-04-29**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095v2](http://arxiv.org/abs/2504.21095v2)|null|
-|**2025-06-10**|**Akaike information criterion for segmented regression models**|Kazuki Nakajima et.al.|[2506.08760v1](http://arxiv.org/abs/2506.08760v1)|null|
-|**2025-05-06**|**An Analysis of Hyper-Parameter Optimization Methods for Retrieval Augmented Generation**|Matan Orbach et.al.|[2505.03452v2](http://arxiv.org/abs/2505.03452v2)|null|
-|**2025-06-10**|**High-Dimensional Model Averaging via Cross-Validation**|Zhengyan Wan et.al.|[2506.08451v1](http://arxiv.org/abs/2506.08451v1)|null|
-|**2025-02-10**|**SMRS: advocating a unified reporting standard for surrogate models in the artificial intelligence era**|Elizaveta Semenova et.al.|[2502.06753v2](http://arxiv.org/abs/2502.06753v2)|null|
-|**2025-06-09**|**IDENT Review: Recent Advances in Identification of Differential Equations from Noisy Data**|Roy Y. He et.al.|[2506.07604v1](http://arxiv.org/abs/2506.07604v1)|null|
-|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v3](http://arxiv.org/abs/2311.12098v3)|null|
-|**2025-06-04**|**Mechanistic models for panel data: Analysis of ecological experiments with four interacting species**|Bo Yang et.al.|[2506.04508v2](http://arxiv.org/abs/2506.04508v2)|null|
-|**2025-06-07**|**A Statistical Framework for Model Selection in LSTM Networks**|Fahad Mostafa et.al.|[2506.06840v1](http://arxiv.org/abs/2506.06840v1)|null|
-|**2025-01-30**|**Scaling Inference-Efficient Language Models**|Song Bian et.al.|[2501.18107v2](http://arxiv.org/abs/2501.18107v2)|null|
-|**2025-06-06**|**Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques**|Adarsh Prasad Behera et.al.|[2506.06579v1](http://arxiv.org/abs/2506.06579v1)|null|
-|**2025-06-06**|**Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior**|Yunqi Yang et.al.|[2506.06233v1](http://arxiv.org/abs/2506.06233v1)|null|
-|**2024-10-17**|**Ab Initio Nonparametric Variable Selection for Scalable Symbolic Regression with Large $p$**|Shengbin Ye et.al.|[2410.13681v2](http://arxiv.org/abs/2410.13681v2)|[link](https://github.com/mattsheng/PAN_SR)|
-|**2025-06-06**|**Comparative Analysis of Modern Machine Learning Models for Retail Sales Forecasting**|Luka Hobor et.al.|[2506.05941v1](http://arxiv.org/abs/2506.05941v1)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/mazurowski-lab/RaD)|
-|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
-|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
-|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
-|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
-|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
-|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
-|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
-|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
-|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
-|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
-|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -96,3 +77,22 @@
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/mazurowski-lab/RaD)|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
+|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
+|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
+|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
+|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
+|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
+|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
+|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
+|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
+|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
