@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-14 07:29:57 Asia/Shanghai
+ Automated deployment @ 2025-06-14 19:24:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -31,10 +31,31 @@
 |**2025-04-22**|**OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning**|Anirudhan Badrinath et.al.|[2504.17811v3](http://arxiv.org/abs/2504.17811v3)|null|
 |**2024-10-14**|**PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets**|Ali Kashefi et.al.|[2410.10084v3](http://arxiv.org/abs/2410.10084v3)|[link](https://github.com/ali-stanford/pointnet_kan_graphic)|
 |**2024-12-06**|**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**|Yeqing Qiu et.al.|[2412.05146v2](http://arxiv.org/abs/2412.05146v2)|null|
-|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920v1](http://arxiv.org/abs/2506.09920v1)|null|
-|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862v1](http://arxiv.org/abs/2506.09862v1)|null|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920v1](http://arxiv.org/abs/2506.09920v1)|[link](https://github.com/jhqi/ssgco-egael)|
+|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862v1](http://arxiv.org/abs/2506.09862v1)|[link](https://github.com/mikelcasals/ggc_4_qgnns)|
 |**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859v1](http://arxiv.org/abs/2506.09859v1)|null|
 |**2025-01-29**|**Sparser, Better, Faster, Stronger: Sparsity Detection for Efficient Automatic Differentiation**|Adrian Hill et.al.|[2501.17737v2](http://arxiv.org/abs/2501.17737v2)|[link](https://github.com/adrhill/sparseconnectivitytracer.jl)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**On feature selection in double-imbalanced data settings: a Random Forest approach**|Fabio Demaria et.al.|[2506.10929v1](http://arxiv.org/abs/2506.10929v1)|null|
+|**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833v1](http://arxiv.org/abs/2506.10833v1)|null|
+|**2023-02-24**|**Quark mass dependence of the low-lying charmed mesons at one loop in HH$χ$PT**|F. Gil-Domínguez et.al.|[2302.12861v2](http://arxiv.org/abs/2302.12861v2)|null|
+|**2025-06-12**|**AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length**|Junhang Cheng et.al.|[2506.10525v1](http://arxiv.org/abs/2506.10525v1)|[link](https://github.com/cjhcoder7/adaptivellm)|
+|**2025-06-11**|**Guardians of the Regime: When and Why Autocrats Create Secret Police**|Marius Mehrl et.al.|[2506.10194v1](http://arxiv.org/abs/2506.10194v1)|null|
+|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v3](http://arxiv.org/abs/2203.11873v3)|[link](https://github.com/SebastienCoube/Nonstat-NNGP/tree/master/Bidart/R)|
+|**2025-04-05**|**Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources**|Junrong Lai et.al.|[2504.04211v2](http://arxiv.org/abs/2504.04211v2)|null|
+|**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690v1](http://arxiv.org/abs/2506.09690v1)|null|
+|**2025-06-11**|**Estimating the Number of Components in Panel Data Finite Mixture Regression Models with an Application to Production Function Heterogeneity**|Yu Hao et.al.|[2506.09666v1](http://arxiv.org/abs/2506.09666v1)|null|
+|**2024-10-21**|**Revisiting the Equivalence of Bayesian Neural Networks and Gaussian Processes: On the Importance of Learning Activations**|Marcin Sendera et.al.|[2410.15777v3](http://arxiv.org/abs/2410.15777v3)|[link](https://github.com/gmum/bnn-functional-priors)|
+|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623v1](http://arxiv.org/abs/2506.09623v1)|null|
+|**2025-06-11**|**Evidence for Dual Periodic Signatures in PKS 0805-07 from Multi-technique Time Series Analysis**|Sikandar Akbar et.al.|[2506.09602v1](http://arxiv.org/abs/2506.09602v1)|null|
+|**2025-06-11**|**Safe Screening Rules for Group SLOPE**|Runxue Bao et.al.|[2506.09451v1](http://arxiv.org/abs/2506.09451v1)|null|
+|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443v1](http://arxiv.org/abs/2506.09443v1)|[link](https://github.com/s3ic-lab/robustjudge)|
+|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v9](http://arxiv.org/abs/1905.11027v9)|null|
 
 ## Non-Euclidean Staistics
 
@@ -75,24 +96,3 @@
 |**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
 |**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-12**|**On feature selection in double-imbalanced data settings: a Random Forest approach**|Fabio Demaria et.al.|[2506.10929v1](http://arxiv.org/abs/2506.10929v1)|null|
-|**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833v1](http://arxiv.org/abs/2506.10833v1)|null|
-|**2023-02-24**|**Quark mass dependence of the low-lying charmed mesons at one loop in HH$χ$PT**|F. Gil-Domínguez et.al.|[2302.12861v2](http://arxiv.org/abs/2302.12861v2)|null|
-|**2025-06-12**|**AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length**|Junhang Cheng et.al.|[2506.10525v1](http://arxiv.org/abs/2506.10525v1)|null|
-|**2025-06-11**|**Guardians of the Regime: When and Why Autocrats Create Secret Police**|Marius Mehrl et.al.|[2506.10194v1](http://arxiv.org/abs/2506.10194v1)|null|
-|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v3](http://arxiv.org/abs/2203.11873v3)|[link](https://github.com/SebastienCoube/Nonstat-NNGP/tree/master/Bidart/R)|
-|**2025-04-05**|**Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources**|Junrong Lai et.al.|[2504.04211v2](http://arxiv.org/abs/2504.04211v2)|null|
-|**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690v1](http://arxiv.org/abs/2506.09690v1)|null|
-|**2025-06-11**|**Estimating the Number of Components in Panel Data Finite Mixture Regression Models with an Application to Production Function Heterogeneity**|Yu Hao et.al.|[2506.09666v1](http://arxiv.org/abs/2506.09666v1)|null|
-|**2024-10-21**|**Revisiting the Equivalence of Bayesian Neural Networks and Gaussian Processes: On the Importance of Learning Activations**|Marcin Sendera et.al.|[2410.15777v3](http://arxiv.org/abs/2410.15777v3)|[link](https://github.com/gmum/bnn-functional-priors)|
-|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623v1](http://arxiv.org/abs/2506.09623v1)|null|
-|**2025-06-11**|**Evidence for Dual Periodic Signatures in PKS 0805-07 from Multi-technique Time Series Analysis**|Sikandar Akbar et.al.|[2506.09602v1](http://arxiv.org/abs/2506.09602v1)|null|
-|**2025-06-11**|**Safe Screening Rules for Group SLOPE**|Runxue Bao et.al.|[2506.09451v1](http://arxiv.org/abs/2506.09451v1)|null|
-|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443v1](http://arxiv.org/abs/2506.09443v1)|null|
-|**2019-05-27**|**A Geometric Modeling of Occam's Razor in Deep Learning**|Ke Sun et.al.|[1905.11027v9](http://arxiv.org/abs/1905.11027v9)|null|
