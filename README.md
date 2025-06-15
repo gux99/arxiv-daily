@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-15 07:30:41 Asia/Shanghai
+ Automated deployment @ 2025-06-15 19:24:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -38,25 +38,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/mazurowski-lab/RaD)|
-|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
-|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
-|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
-|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
-|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
-|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
-|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
-|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
-|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
-|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
-|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -75,6 +56,25 @@
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/mazurowski-lab/RaD)|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
+|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
+|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
+|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
+|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
+|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
+|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
+|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
+|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
+|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|null|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v2](http://arxiv.org/abs/2504.17342v2)|null|
 
 ## Variable Selection
 
