@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-17 07:29:11 Asia/Shanghai
+ Automated deployment @ 2025-06-17 19:27:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869v1](http://arxiv.org/abs/2506.11869v1)|null|
-|**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743v1](http://arxiv.org/abs/2506.11743v1)|null|
-|**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721v1](http://arxiv.org/abs/2506.11721v1)|null|
-|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710v1](http://arxiv.org/abs/2506.11710v1)|null|
-|**2025-06-13**|**Geometry-Aware Edge Pooling for Graph Neural Networks**|Katharina Limbeck et.al.|[2506.11700v1](http://arxiv.org/abs/2506.11700v1)|null|
-|**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611v1](http://arxiv.org/abs/2506.11611v1)|null|
-|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491v1](http://arxiv.org/abs/2506.11491v1)|null|
-|**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398v1](http://arxiv.org/abs/2506.11398v1)|null|
-|**2024-04-23**|**Graph Neural Network-Based Pipeline for Track Finding in the Velo at LHCb**|Anthony Correia et.al.|[2406.12869v2](http://arxiv.org/abs/2406.12869v2)|null|
-|**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368v1](http://arxiv.org/abs/2506.11368v1)|null|
-|**2023-03-22**|**Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points**|Valentino Delle Rose et.al.|[2303.12853v4](http://arxiv.org/abs/2303.12853v4)|null|
-|**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658v1](http://arxiv.org/abs/2506.10658v1)|null|
-|**2025-06-12**|**Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics**|Pascal Plettenberg et.al.|[2506.10577v1](http://arxiv.org/abs/2506.10577v1)|[link](https://github.com/pasplett/pcb-node-pair-gnn)|
-|**2025-02-19**|**From Features to Graphs: Exploring Graph Structures and Pairwise Interactions via GNNs**|Phaphontee Yamchote et.al.|[2502.13471v2](http://arxiv.org/abs/2502.13471v2)|null|
-|**2025-06-02**|**iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering**|Shuai Wang et.al.|[2506.01784v2](http://arxiv.org/abs/2506.01784v2)|null|
+|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678v1](http://arxiv.org/abs/2506.13678v1)|null|
+|**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343v1](http://arxiv.org/abs/2506.13343v1)|null|
+|**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276v1](http://arxiv.org/abs/2506.13276v1)|null|
+|**2024-07-09**|**Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications**|Maoxin Ji et.al.|[2407.06518v2](http://arxiv.org/abs/2407.06518v2)|[link](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
+|**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v4](http://arxiv.org/abs/2402.04836v4)|[link](https://github.com/GraphPKU/GeoNGNN)|
+|**2025-06-16**|**PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone**|Kamilia Zaripova et.al.|[2506.13119v1](http://arxiv.org/abs/2506.13119v1)|null|
+|**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099v1](http://arxiv.org/abs/2506.13099v1)|null|
+|**2025-06-16**|**Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach**|Qingfeng Chen et.al.|[2506.13083v1](http://arxiv.org/abs/2506.13083v1)|null|
+|**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692v5](http://arxiv.org/abs/2401.03692v5)|null|
+|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for Clustering, Integration, and Scalable Analysis of Spatial Transcriptomics**|Roxana Zahedi et.al.|[2506.11491v2](http://arxiv.org/abs/2506.11491v2)|null|
+|**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902v1](http://arxiv.org/abs/2506.12902v1)|null|
+|**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700v1](http://arxiv.org/abs/2506.12700v1)|null|
+|**2025-05-31**|**Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets**|Kordel K. France et.al.|[2506.00455v2](http://arxiv.org/abs/2506.00455v2)|null|
+|**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558v1](http://arxiv.org/abs/2506.12558v1)|null|
+|**2025-06-14**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468v1](http://arxiv.org/abs/2506.12468v1)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|null|
-|**2025-04-12**|**seg2med: a bridge from artificial anatomy to multimodal medical images**|Zeyu Yang et.al.|[2504.09182v2](http://arxiv.org/abs/2504.09182v2)|null|
-|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/richardobi/frd-score)|
-|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
-|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
-|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
-|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
-|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
-|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
-|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
-|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v1](http://arxiv.org/abs/2505.08041v1)|null|
-|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v2](http://arxiv.org/abs/2407.21407v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,11 +57,38 @@
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-15**|**IAPO estimators in Exponentiated Frechet case**|Pavlina Jordanova et.al.|[2506.12743v1](http://arxiv.org/abs/2506.12743v1)|null|
+|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482v2](http://arxiv.org/abs/2506.09482v2)|null|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|null|
+|**2025-04-12**|**seg2med: a bridge from artificial anatomy to multimodal medical images**|Zeyu Yang et.al.|[2504.09182v2](http://arxiv.org/abs/2504.09182v2)|null|
+|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/richardobi/frd-score)|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
+|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
+|**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
+|**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
+|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
+|**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512v3](http://arxiv.org/abs/2505.06512v3)|[link](https://github.com/hwang-cs-ime/hcma)|
+|**2025-05-14**|**Robust and Computationally Efficient Trimmed L-Moments Estimation for Parametric Distributions**|Chudamani Poudyal et.al.|[2505.09860v1](http://arxiv.org/abs/2505.09860v1)|null|
+|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082v1](http://arxiv.org/abs/2505.08082v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-16**|**Gradient Boosting for Spatial Regression Models with Autoregressive Disturbances**|Michael Balzer et.al.|[2506.13682v1](http://arxiv.org/abs/2506.13682v1)|null|
+|**2024-09-24**|**Bayesian competing risks survival modeling for assessing the cause of death of patients with heart failure**|Jesús Gutiérrez-Botella et.al.|[2409.16080v2](http://arxiv.org/abs/2409.16080v2)|null|
+|**2025-06-16**|**From Graphical Lasso to Atomic Norms: High-Dimensional Pattern Recovery**|Piotr Graczyk et.al.|[2506.13353v1](http://arxiv.org/abs/2506.13353v1)|null|
+|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v3](http://arxiv.org/abs/2407.06259v3)|[link](https://github.com/cosmostatistics/ebms_mcmc)|
+|**2024-06-20**|**On integral priors for multiple comparison in Bayesian model selection**|Diego Salmerón et.al.|[2406.14184v4](http://arxiv.org/abs/2406.14184v4)|null|
+|**2025-06-16**|**The Mixed-Sparse-Smooth-Model Toolbox (MSSM): Efficient Estimation and Selection of Large Multi-Level Statistical Models**|Joshua Krause et.al.|[2506.13132v1](http://arxiv.org/abs/2506.13132v1)|null|
+|**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125v2](http://arxiv.org/abs/2406.12125v2)|null|
+|**2025-06-13**|**Large Language Models for History, Philosophy, and Sociology of Science: Interpretive Uses, Methodological Challenges, and Critical Perspectives**|Arno Simons et.al.|[2506.12242v1](http://arxiv.org/abs/2506.12242v1)|null|
 |**2025-06-13**|**Inference post region selection**|Dominique Bontemps et.al.|[2506.11564v1](http://arxiv.org/abs/2506.11564v1)|null|
 |**2025-06-13**|**Black-Box Edge AI Model Selection with Conformal Latency and Accuracy Guarantees**|Anders E. Kalør et.al.|[2506.11391v1](http://arxiv.org/abs/2506.11391v1)|null|
 |**2025-06-12**|**The Sample Complexity of Parameter-Free Stochastic Convex Optimization**|Jared Lawrence et.al.|[2506.11336v1](http://arxiv.org/abs/2506.11336v1)|null|
@@ -88,11 +96,3 @@
 |**2025-06-12**|**On feature selection in double-imbalanced data settings: a Random Forest approach**|Fabio Demaria et.al.|[2506.10929v1](http://arxiv.org/abs/2506.10929v1)|null|
 |**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833v1](http://arxiv.org/abs/2506.10833v1)|[link](https://github.com/aieng-lab/senlp-benchmark)|
 |**2023-02-24**|**Quark mass dependence of the low-lying charmed mesons at one loop in HH$χ$PT**|F. Gil-Domínguez et.al.|[2302.12861v2](http://arxiv.org/abs/2302.12861v2)|null|
-|**2025-06-12**|**AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length**|Junhang Cheng et.al.|[2506.10525v1](http://arxiv.org/abs/2506.10525v1)|[link](https://github.com/cjhcoder7/adaptivellm)|
-|**2025-06-11**|**Guardians of the Regime: When and Why Autocrats Create Secret Police**|Marius Mehrl et.al.|[2506.10194v1](http://arxiv.org/abs/2506.10194v1)|null|
-|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v3](http://arxiv.org/abs/2203.11873v3)|[link](https://github.com/SebastienCoube/Nonstat-NNGP/tree/master/Bidart/R)|
-|**2025-04-05**|**Accelerated Bayesian Inference for Pulsar Timing Arrays: Normalizing Flows for Rapid Model Comparison Across Stochastic Gravitational-Wave Background Sources**|Junrong Lai et.al.|[2504.04211v2](http://arxiv.org/abs/2504.04211v2)|null|
-|**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690v1](http://arxiv.org/abs/2506.09690v1)|null|
-|**2025-06-11**|**Estimating the Number of Components in Panel Data Finite Mixture Regression Models with an Application to Production Function Heterogeneity**|Yu Hao et.al.|[2506.09666v1](http://arxiv.org/abs/2506.09666v1)|null|
-|**2024-10-21**|**Revisiting the Equivalence of Bayesian Neural Networks and Gaussian Processes: On the Importance of Learning Activations**|Marcin Sendera et.al.|[2410.15777v3](http://arxiv.org/abs/2410.15777v3)|[link](https://github.com/gmum/bnn-functional-priors)|
-|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623v1](http://arxiv.org/abs/2506.09623v1)|null|
