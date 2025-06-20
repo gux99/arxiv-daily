@@ -1,7 +1,40 @@
 # arxiv-daily
- Automated deployment @ 2025-06-20 07:29:50 Asia/Shanghai
+ Automated deployment @ 2025-06-20 19:27:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
+
+## Network Statistics
+
+### Network Bootstrap
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Valid Bootstraps for Network Embeddings with Applications to Network Visualisation**|Emerald Dilworth et.al.|[2410.20895v4](http://arxiv.org/abs/2410.20895v4)|[link](https://github.com/0emerald/validbootstrapsfornetworkembeddings)|
+|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v3](http://arxiv.org/abs/2412.08038v3)|null|
+|**2025-02-03**|**Can We Validate Counterfactual Estimations in the Presence of General Network Interference?**|Sadegh Shirani et.al.|[2502.01106v1](http://arxiv.org/abs/2502.01106v1)|[link](https://github.com/causalmp/causalmp)|
+|**2022-03-02**|**Improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise**|Li Meng et.al.|[2203.01004v3](http://arxiv.org/abs/2203.01004v3)|null|
+|**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
+|**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
+|**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
+|**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
+
+### Graph Neural Network
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652v1](http://arxiv.org/abs/2506.15652v1)|null|
+|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678v2](http://arxiv.org/abs/2506.13678v2)|null|
+|**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507v1](http://arxiv.org/abs/2506.15507v1)|null|
+|**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v2](http://arxiv.org/abs/2409.09957v2)|[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)|
+|**2025-06-01**|**Graph Neural Networks for Jamming Source Localization**|Dania Herzalla et.al.|[2506.03196v2](http://arxiv.org/abs/2506.03196v2)|[link](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
+|**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289v1](http://arxiv.org/abs/2506.15289v1)|null|
+|**2025-01-24**|**Personalized Layer Selection for Graph Neural Networks**|Kartik Sharma et.al.|[2501.14964v2](http://arxiv.org/abs/2501.14964v2)|null|
+|**2025-01-02**|**HetGCoT: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Academic Question Answering**|Runsong Jia et.al.|[2501.01203v2](http://arxiv.org/abs/2501.01203v2)|null|
+|**2024-06-17**|**Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains**|Evan M. Williams et.al.|[2406.11423v4](http://arxiv.org/abs/2406.11423v4)|null|
+|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684v1](http://arxiv.org/abs/2506.14684v1)|[link](https://github.com/chymaera96/neuralsampleid)|
+|**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529v1](http://arxiv.org/abs/2506.14529v1)|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470v1](http://arxiv.org/abs/2506.14470v1)|null|
+|**2025-05-26**|**GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation**|Zhiyu Wang et.al.|[2505.19802v2](http://arxiv.org/abs/2505.19802v2)|null|
+|**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220v1](http://arxiv.org/abs/2506.14220v1)|null|
+|**2025-06-14**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468v2](http://arxiv.org/abs/2506.12468v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -42,39 +75,6 @@
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
-
-## Network Statistics
-
-### Network Bootstrap
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-28**|**Valid Bootstraps for Network Embeddings with Applications to Network Visualisation**|Emerald Dilworth et.al.|[2410.20895v4](http://arxiv.org/abs/2410.20895v4)|[link](https://github.com/0emerald/validbootstrapsfornetworkembeddings)|
-|**2024-12-11**|**Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach**|Hang Gao et.al.|[2412.08038v3](http://arxiv.org/abs/2412.08038v3)|null|
-|**2025-02-03**|**Can We Validate Counterfactual Estimations in the Presence of General Network Interference?**|Sadegh Shirani et.al.|[2502.01106v1](http://arxiv.org/abs/2502.01106v1)|[link](https://github.com/causalmp/causalmp)|
-|**2022-03-02**|**Improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise**|Li Meng et.al.|[2203.01004v3](http://arxiv.org/abs/2203.01004v3)|null|
-|**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
-|**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
-|**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
-|**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
-
-### Graph Neural Network
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652v1](http://arxiv.org/abs/2506.15652v1)|null|
-|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678v2](http://arxiv.org/abs/2506.13678v2)|null|
-|**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507v1](http://arxiv.org/abs/2506.15507v1)|null|
-|**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957v2](http://arxiv.org/abs/2409.09957v2)|[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)|
-|**2025-06-01**|**Graph Neural Networks for Jamming Source Localization**|Dania Herzalla et.al.|[2506.03196v2](http://arxiv.org/abs/2506.03196v2)|[link](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
-|**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289v1](http://arxiv.org/abs/2506.15289v1)|null|
-|**2025-01-24**|**Personalized Layer Selection for Graph Neural Networks**|Kartik Sharma et.al.|[2501.14964v2](http://arxiv.org/abs/2501.14964v2)|null|
-|**2025-01-02**|**HetGCoT: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Academic Question Answering**|Runsong Jia et.al.|[2501.01203v2](http://arxiv.org/abs/2501.01203v2)|null|
-|**2024-06-17**|**Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains**|Evan M. Williams et.al.|[2406.11423v4](http://arxiv.org/abs/2406.11423v4)|null|
-|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684v1](http://arxiv.org/abs/2506.14684v1)|[link](https://github.com/chymaera96/neuralsampleid)|
-|**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529v1](http://arxiv.org/abs/2506.14529v1)|null|
-|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470v1](http://arxiv.org/abs/2506.14470v1)|null|
-|**2025-05-26**|**GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation**|Zhiyu Wang et.al.|[2505.19802v2](http://arxiv.org/abs/2505.19802v2)|null|
-|**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220v1](http://arxiv.org/abs/2506.14220v1)|null|
-|**2025-06-14**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468v2](http://arxiv.org/abs/2506.12468v2)|null|
 
 ## Variable Selection
 
