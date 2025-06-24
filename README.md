@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-24 07:27:11 Asia/Shanghai
+ Automated deployment @ 2025-06-24 19:27:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-07**|**Constraints on the trilinear and quartic Higgs couplings from triple Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646v3](http://arxiv.org/abs/2312.04646v3)|null|
-|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064v1](http://arxiv.org/abs/2506.17064v1)|null|
-|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684v2](http://arxiv.org/abs/2506.14684v2)|[link](https://github.com/chymaera96/neuralsampleid)|
-|**2025-06-02**|**Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution**|Wenhao Song et.al.|[2506.01231v2](http://arxiv.org/abs/2506.01231v2)|null|
-|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790v1](http://arxiv.org/abs/2506.16790v1)|null|
-|**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602v1](http://arxiv.org/abs/2506.16602v1)|null|
-|**2025-04-22**|**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**|Xiang Li et.al.|[2504.15920v3](http://arxiv.org/abs/2504.15920v3)|null|
-|**2025-06-16**|**Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems**|Md Abrar Jahin et.al.|[2506.13987v2](http://arxiv.org/abs/2506.13987v2)|null|
-|**2025-02-24**|**Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks**|Emiliano Seri et.al.|[2502.17371v4](http://arxiv.org/abs/2502.17371v4)|null|
-|**2025-05-12**|**Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks**|Jiafan Li et.al.|[2505.07895v3](http://arxiv.org/abs/2505.07895v3)|[link](https://github.com/jiafan-ucas/hgnn-ima)|
-|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144v1](http://arxiv.org/abs/2506.16144v1)|null|
-|**2025-06-19**|**Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification**|Langzhang Liang et.al.|[2506.16110v1](http://arxiv.org/abs/2506.16110v1)|null|
-|**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611v2](http://arxiv.org/abs/2506.11611v2)|null|
-|**2025-03-19**|**Learning Topology Actions for Power Grid Control: A Graph-Based Soft-Label Imitation Learning Approach**|Mohamed Hassouna et.al.|[2503.15190v2](http://arxiv.org/abs/2503.15190v2)|null|
-|**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934v1](http://arxiv.org/abs/2506.15934v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Regularized Targeted Maximum Likelihood Estimation in Highly Adaptive Lasso Implied Working Models**|Yi Li et.al.|[2506.17214v1](http://arxiv.org/abs/2506.17214v1)|null|
-|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v4](http://arxiv.org/abs/2311.12098v4)|null|
-|**2025-05-29**|**Non-null Shrinkage Regression and Subset Selection via the Fractional Ridge Regression**|Sihyung Park et.al.|[2505.23925v2](http://arxiv.org/abs/2505.23925v2)|null|
-|**2025-06-19**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
-|**2025-05-23**|**A new measure of dependence: Integrated $R^2$**|Mona Azadkia et.al.|[2505.18146v2](http://arxiv.org/abs/2505.18146v2)|null|
-|**2023-12-21**|**A Bayesian approach to functional regression: theory and computation**|José R. Berrendero et.al.|[2312.14086v3](http://arxiv.org/abs/2312.14086v3)|[link](https://github.com/antcc/rk-bfr-jump)|
-|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010v2](http://arxiv.org/abs/2503.16010v2)|null|
-|**2025-06-18**|**Assessing the impact of Binarization for Writer Identification in Greek Papyrus**|Dominic Akt et.al.|[2506.15852v1](http://arxiv.org/abs/2506.15852v1)|null|
-|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v2](http://arxiv.org/abs/2506.09033v2)|[link](https://github.com/ulab-uiuc/router-r1)|
-|**2025-06-18**|**Blended parameterization in an atmospheric model: Improving severestorm ensemble prediction by considering uncertainties in model physics**|Khanh Hung Mai et.al.|[2506.15472v1](http://arxiv.org/abs/2506.15472v1)|null|
-|**2025-06-16**|**From Graphical Lasso to Atomic Norms: High-Dimensional Pattern Recovery**|Piotr Graczyk et.al.|[2506.13353v2](http://arxiv.org/abs/2506.13353v2)|null|
-|**2025-06-18**|**Emergence of Primacy and Recency Effect in Mamba: A Mechanistic Point of View**|Muhammad Cendekia Airlangga et.al.|[2506.15156v1](http://arxiv.org/abs/2506.15156v1)|null|
-|**2025-05-01**|**Generative diffusion model surrogates for mechanistic agent-based biological models**|Tien Comlekoglu et.al.|[2505.09630v2](http://arxiv.org/abs/2505.09630v2)|null|
-|**2025-02-20**|**biastest: Testing parameter equality across different models in Stata**|Hasraddin Guliyev et.al.|[2502.15049v2](http://arxiv.org/abs/2502.15049v2)|null|
-|**2024-10-24**|**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**|Esteban Garces Arias et.al.|[2410.18653v3](http://arxiv.org/abs/2410.18653v3)|[link](https://github.com/YecanLee/2BeOETG)|
+|**2025-06-23**|**Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression**|Yigit Berkay Uslu et.al.|[2506.18748v1](http://arxiv.org/abs/2506.18748v1)|null|
+|**2025-06-23**|**SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding**|Yuchang Zhu et.al.|[2506.18696v1](http://arxiv.org/abs/2506.18696v1)|null|
+|**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525v1](http://arxiv.org/abs/2506.18525v1)|null|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064v2](http://arxiv.org/abs/2506.17064v2)|null|
+|**2025-06-23**|**Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis**|Hao Wu et.al.|[2506.18398v1](http://arxiv.org/abs/2506.18398v1)|null|
+|**2025-06-23**|**PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching**|Haotong Du et.al.|[2506.18382v1](http://arxiv.org/abs/2506.18382v1)|null|
+|**2025-06-23**|**Robot Tactile Gesture Recognition Based on Full-body Modular E-skin**|Shuo Jiang et.al.|[2506.18256v1](http://arxiv.org/abs/2506.18256v1)|null|
+|**2025-06-23**|**Multimodal Visual Image Based User Association and Beamforming Using Graph Neural Networks**|Yinghan Li et.al.|[2506.18218v1](http://arxiv.org/abs/2506.18218v1)|null|
+|**2025-06-22**|**Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks**|Masudul Hasan Masud Bhuiyan et.al.|[2506.18191v1](http://arxiv.org/abs/2506.18191v1)|null|
+|**2023-10-10**|**Supercharging Graph Transformers with Advective Diffusion**|Qitian Wu et.al.|[2310.06417v4](http://arxiv.org/abs/2310.06417v4)|null|
+|**2024-05-21**|**Rumor Detection on Social Media with Reinforcement Learning-based Key Propagation Graph Generator**|Yusong Zhang et.al.|[2405.13094v2](http://arxiv.org/abs/2405.13094v2)|null|
+|**2024-12-23**|**Rethinking Cancer Gene Identification through Graph Anomaly Analysis**|Yilong Zang et.al.|[2412.17240v2](http://arxiv.org/abs/2412.17240v2)|[link](https://github.com/zyl199710/hipgnn)|
+|**2025-06-22**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977v1](http://arxiv.org/abs/2506.17977v1)|null|
+|**2024-01-29**|**Unveiling Molecular Moieties through Hierarchical Grad-CAM Graph Explainability**|Salvatore Contino et.al.|[2402.01744v5](http://arxiv.org/abs/2402.01744v5)|[link](https://github.com/chilab1/hge)|
+|**2024-11-13**|**Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks**|Azmine Toushik Wasi et.al.|[2411.08550v2](http://arxiv.org/abs/2411.08550v2)|[link](https://github.com/CIOL-SUST/SCG)|
 
 ## Non-Euclidean Staistics
 
@@ -81,6 +60,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v2](http://arxiv.org/abs/2411.08087v2)|[link](https://github.com/oliveirara/polyMV)|
+|**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371v1](http://arxiv.org/abs/2506.18371v1)|null|
 |**2025-06-20**|**On the relation between distances and seminorms on Fréchet spaces, with application to isometries**|Isabelle Chalendar et.al.|[2506.16801v1](http://arxiv.org/abs/2506.16801v1)|null|
 |**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v4](http://arxiv.org/abs/2409.06190v4)|[link](https://github.com/xzwy/msldm)|
 |**2025-06-16**|**BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization**|Alejandro Golfe et.al.|[2506.13843v1](http://arxiv.org/abs/2506.13843v1)|null|
@@ -94,5 +75,24 @@
 |**2025-06-02**|**Unveiling Audio Deepfake Origins: A Deep Metric learning And Conformer Network Approach With Ensemble Fusion**|Ajinkya Kulkarni et.al.|[2506.02085v1](http://arxiv.org/abs/2506.02085v1)|null|
 |**2014-10-21**|**A Generalized Palais-Smale Condition in the Fréchet space setting**|Kaveh Eftekharinasab et.al.|[1410.5638v4](http://arxiv.org/abs/1410.5638v4)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v3](http://arxiv.org/abs/2406.01388v3)|[link](https://github.com/donahowe/AutoStudio)|
-|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v1](http://arxiv.org/abs/2505.20755v1)|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v2](http://arxiv.org/abs/2505.04963v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802v1](http://arxiv.org/abs/2506.18802v1)|null|
+|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660v1](http://arxiv.org/abs/2506.18660v1)|null|
+|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v1](http://arxiv.org/abs/2506.18629v1)|null|
+|**2025-06-23**|**Comparison of $R_h=ct$ and $Λ$CDM using DESI DR1 measurements**|Kunj Panchal et.al.|[2506.18445v1](http://arxiv.org/abs/2506.18445v1)|null|
+|**2025-02-21**|**Multilevel classification framework for breast cancer cell selection and its integration with advanced disease models**|Catarina Franco Jones et.al.|[2502.15868v2](http://arxiv.org/abs/2502.15868v2)|null|
+|**2025-04-09**|**Weak Signals and Heavy Tails: Machine-learning meets Extreme Value Theory**|Stephan Clémençon et.al.|[2504.06984v2](http://arxiv.org/abs/2504.06984v2)|null|
+|**2025-06-22**|**Analysis of Photonic Circuit Losses with Machine Learning Techniques**|Adrian Nugraha Utama et.al.|[2506.17999v1](http://arxiv.org/abs/2506.17999v1)|null|
+|**2025-06-21**|**Selection of functional predictors and smooth coefficient estimation for scalar-on-function regression models**|Hedayat Fathi et.al.|[2506.17773v1](http://arxiv.org/abs/2506.17773v1)|null|
+|**2025-06-21**|**Inferring viscoplastic models from velocity fields: a physics-informed neural network approach**|Martin Lardy et.al.|[2506.17681v1](http://arxiv.org/abs/2506.17681v1)|null|
+|**2025-06-20**|**Regularized Targeted Maximum Likelihood Estimation in Highly Adaptive Lasso Implied Working Models**|Yi Li et.al.|[2506.17214v1](http://arxiv.org/abs/2506.17214v1)|null|
+|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v4](http://arxiv.org/abs/2311.12098v4)|null|
+|**2025-05-29**|**Non-null Shrinkage Regression and Subset Selection via the Fractional Ridge Regression**|Sihyung Park et.al.|[2505.23925v2](http://arxiv.org/abs/2505.23925v2)|null|
+|**2025-06-19**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655v1](http://arxiv.org/abs/2506.16655v1)|null|
+|**2025-05-23**|**A new measure of dependence: Integrated $R^2$**|Mona Azadkia et.al.|[2505.18146v2](http://arxiv.org/abs/2505.18146v2)|null|
+|**2023-12-21**|**A Bayesian approach to functional regression: theory and computation**|José R. Berrendero et.al.|[2312.14086v3](http://arxiv.org/abs/2312.14086v3)|[link](https://github.com/antcc/rk-bfr-jump)|
