@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-29 07:28:26 Asia/Shanghai
+ Automated deployment @ 2025-06-29 19:25:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -36,28 +36,26 @@
 |**2025-06-25**|**Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations**|Lorenzo Bini et.al.|[2506.20362v1](http://arxiv.org/abs/2506.20362v1)|null|
 |**2025-02-04**|**Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective**|Steve Azzolin et.al.|[2502.02719v2](http://arxiv.org/abs/2502.02719v2)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|null|
-|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v2](http://arxiv.org/abs/2504.21812v2)|[link](https://github.com/M-crypto645/thames-mixture-models)|
-|**2025-06-26**|**Heterogeneous Exposures to Systematic and Idiosyncratic Risk across Crypto Assets: A Divide-and-Conquer Approach**|Nektarios Aslanidis et.al.|[2506.21100v1](http://arxiv.org/abs/2506.21100v1)|null|
-|**2025-06-25**|**On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data**|Malik Shahid Sultan et.al.|[2506.20347v1](http://arxiv.org/abs/2506.20347v1)|null|
-|**2025-06-25**|**Lightweight Target-Speaker-Based Overlap Transcription for Practical Streaming ASR**|Aleš Pražák et.al.|[2506.20288v1](http://arxiv.org/abs/2506.20288v1)|null|
-|**2025-06-25**|**A model-based approach to density estimation in sup-norm**|Guillaume Maillard et.al.|[2506.20239v1](http://arxiv.org/abs/2506.20239v1)|null|
-|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v5](http://arxiv.org/abs/2401.14359v5)|null|
-|**2025-06-16**|**Evaluating Generalization and Representation Stability in Small LMs via Prompting, Fine-Tuning and Out-of-Distribution Prompts**|Rahul Raja et.al.|[2506.17289v2](http://arxiv.org/abs/2506.17289v2)|null|
-|**2025-03-06**|**Conformal Prediction with Upper and Lower Bound Models**|Miao Li et.al.|[2503.04071v2](http://arxiv.org/abs/2503.04071v2)|null|
-|**2025-06-24**|**Introducing RobustiPy: An efficient next generation multiversal library with model selection, averaging, resampling, and explainable artificial intelligence**|Daniel Valdenegro Ibarra et.al.|[2506.19958v1](http://arxiv.org/abs/2506.19958v1)|null|
-|**2024-11-15**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v2](http://arxiv.org/abs/2411.10154v2)|[link](https://github.com/Anish144/ContinuousBMSStructureLearning)|
-|**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v2](http://arxiv.org/abs/2503.18790v2)|null|
-|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802v1](http://arxiv.org/abs/2506.18802v1)|null|
-|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660v1](http://arxiv.org/abs/2506.18660v1)|null|
-|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v1](http://arxiv.org/abs/2506.18629v1)|null|
-
-## Non-Euclidean Staistics
+|**2025-04-18**|**Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations**|Magalie Bénéfice et.al.|[2504.13502v1](http://arxiv.org/abs/2504.13502v1)|null|
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
+|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
+|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
+|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|[link](https://github.com/statsle/dprgd)|
+|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
+|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
+|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
+|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
+|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,21 +76,23 @@
 |**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
 |**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
 
-### Frechet Mean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-18**|**Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations**|Magalie Bénéfice et.al.|[2504.13502v1](http://arxiv.org/abs/2504.13502v1)|null|
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v1](http://arxiv.org/abs/2502.05322v1)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v3](http://arxiv.org/abs/2310.13668v3)|null|
-|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v3](http://arxiv.org/abs/2311.09454v3)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v3](http://arxiv.org/abs/2207.03943v3)|null|
-|**2024-10-22**|**Fréchet Means in Infinite Dimensions**|Adam Quinn Jaffe et.al.|[2410.17214v2](http://arxiv.org/abs/2410.17214v2)|null|
-|**2024-12-25**|**Empirical likelihood for Fréchet means on open books**|Karthik Bharath et.al.|[2412.18818v1](http://arxiv.org/abs/2412.18818v1)|null|
-|**2024-10-07**|**Decentralized Online Riemannian Optimization with Dynamic Environments**|Hengchao Chen et.al.|[2410.05128v1](http://arxiv.org/abs/2410.05128v1)|[link](https://github.com/statsle/dprgd)|
-|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|[link](https://github.com/hengchaochen/geomcorr)|
-|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
-|**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|null|
+|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v2](http://arxiv.org/abs/2504.21812v2)|[link](https://github.com/M-crypto645/thames-mixture-models)|
+|**2025-06-26**|**Heterogeneous Exposures to Systematic and Idiosyncratic Risk across Crypto Assets: A Divide-and-Conquer Approach**|Nektarios Aslanidis et.al.|[2506.21100v1](http://arxiv.org/abs/2506.21100v1)|null|
+|**2025-06-25**|**On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data**|Malik Shahid Sultan et.al.|[2506.20347v1](http://arxiv.org/abs/2506.20347v1)|null|
+|**2025-06-25**|**Lightweight Target-Speaker-Based Overlap Transcription for Practical Streaming ASR**|Aleš Pražák et.al.|[2506.20288v1](http://arxiv.org/abs/2506.20288v1)|null|
+|**2025-06-25**|**A model-based approach to density estimation in sup-norm**|Guillaume Maillard et.al.|[2506.20239v1](http://arxiv.org/abs/2506.20239v1)|null|
+|**2024-01-25**|**A Stability Framework for Parameter Selection in the Minimum Covariance Determinant Problem**|Qiang Heng et.al.|[2401.14359v5](http://arxiv.org/abs/2401.14359v5)|null|
+|**2025-06-16**|**Evaluating Generalization and Representation Stability in Small LMs via Prompting, Fine-Tuning and Out-of-Distribution Prompts**|Rahul Raja et.al.|[2506.17289v2](http://arxiv.org/abs/2506.17289v2)|null|
+|**2025-03-06**|**Conformal Prediction with Upper and Lower Bound Models**|Miao Li et.al.|[2503.04071v2](http://arxiv.org/abs/2503.04071v2)|null|
+|**2025-06-24**|**Introducing RobustiPy: An efficient next generation multiversal library with model selection, averaging, resampling, and explainable artificial intelligence**|Daniel Valdenegro Ibarra et.al.|[2506.19958v1](http://arxiv.org/abs/2506.19958v1)|null|
+|**2024-11-15**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v2](http://arxiv.org/abs/2411.10154v2)|[link](https://github.com/Anish144/ContinuousBMSStructureLearning)|
+|**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v2](http://arxiv.org/abs/2503.18790v2)|null|
+|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802v1](http://arxiv.org/abs/2506.18802v1)|null|
+|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660v1](http://arxiv.org/abs/2506.18660v1)|null|
+|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v1](http://arxiv.org/abs/2506.18629v1)|null|
