@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-30 07:28:57 Asia/Shanghai
+ Automated deployment @ 2025-06-30 19:27:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,42 +20,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179v2](http://arxiv.org/abs/2501.19179v2)|null|
+|**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299v1](http://arxiv.org/abs/2506.22299v1)|null|
+|**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869v2](http://arxiv.org/abs/2506.11869v2)|null|
+|**2025-03-05**|**LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**|Xi Zhu et.al.|[2503.03313v2](http://arxiv.org/abs/2503.03313v2)|[link](https://github.com/agiresearch/promptgfm)|
+|**2025-06-27**|**The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment**|Lorenz Wendlinger et.al.|[2506.22165v1](http://arxiv.org/abs/2506.22165v1)|null|
+|**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117v1](http://arxiv.org/abs/2506.22117v1)|null|
+|**2025-06-27**|**Transformers are Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2506.22084v1](http://arxiv.org/abs/2506.22084v1)|null|
+|**2025-06-27**|**Learning-Based Hybrid Neural Receiver for 6G-V2X Communications**|Osama Saleem et.al.|[2506.21983v1](http://arxiv.org/abs/2506.21983v1)|null|
+|**2024-09-04**|**PQ-GCN: Enhancing Text Graph Question Classification with Phrase Features**|Junyoung Lee et.al.|[2409.02481v3](http://arxiv.org/abs/2409.02481v3)|null|
+|**2025-06-26**|**Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data**|Massimiliano Lupo Pasini et.al.|[2506.21788v1](http://arxiv.org/abs/2506.21788v1)|null|
+|**2025-03-29**|**Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks**|Zewen Liu et.al.|[2503.23167v3](http://arxiv.org/abs/2503.23167v3)|[link](https://github.com/emory-melody/awesome-graph-ndes)|
+|**2025-02-02**|**Analysis of static and dynamic batching algorithms for graph neural networks**|Daniel T. Speckhard et.al.|[2502.00944v2](http://arxiv.org/abs/2502.00944v2)|null|
+|**2024-02-22**|**Link Prediction with Physics-Inspired Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2402.14802v3](http://arxiv.org/abs/2402.14802v3)|null|
+|**2025-06-26**|**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**|Li Zhou et.al.|[2506.21682v1](http://arxiv.org/abs/2506.21682v1)|null|
 |**2024-03-18**|**Graph Neural Network for Neutrino Physics Event Reconstruction**|V Hewes et.al.|[2403.11872v2](http://arxiv.org/abs/2403.11872v2)|null|
-|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414v1](http://arxiv.org/abs/2506.21414v1)|null|
-|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382v1](http://arxiv.org/abs/2506.21382v1)|null|
-|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368v1](http://arxiv.org/abs/2506.21368v1)|null|
-|**2025-04-22**|**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**|Xiang Li et.al.|[2504.15920v4](http://arxiv.org/abs/2504.15920v4)|null|
-|**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803v2](http://arxiv.org/abs/2506.09803v2)|null|
-|**2025-05-26**|**xChemAgents: Agentic AI for Explainable Quantum Chemistry**|Can Polat et.al.|[2505.20574v2](http://arxiv.org/abs/2505.20574v2)|[link](https://github.com/kurbanintelligencelab/xchemagents)|
-|**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717v2](http://arxiv.org/abs/2408.16717v2)|null|
-|**2025-06-26**|**Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks**|Yuxiang Liu et.al.|[2506.21161v1](http://arxiv.org/abs/2506.21161v1)|null|
-|**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818v1](http://arxiv.org/abs/2506.20818v1)|null|
-|**2025-06-25**|**Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis**|Zhonghao Zhan et.al.|[2506.20806v1](http://arxiv.org/abs/2506.20806v1)|null|
-|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575v1](http://arxiv.org/abs/2506.20575v1)|null|
-|**2025-06-25**|**Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments**|Charles Shaw et.al.|[2506.20499v1](http://arxiv.org/abs/2506.20499v1)|null|
-|**2025-06-25**|**Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations**|Lorenzo Bini et.al.|[2506.20362v1](http://arxiv.org/abs/2506.20362v1)|null|
-|**2025-02-04**|**Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective**|Steve Azzolin et.al.|[2502.02719v2](http://arxiv.org/abs/2502.02719v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v2](http://arxiv.org/abs/2505.08041v2)|null|
-|**2025-06-24**|**Generalized Multiple Operator Integrals for Operators with Finite Dimensions**|Shih-Yu Chang et.al.|[2506.19971v1](http://arxiv.org/abs/2506.19971v1)|null|
-|**2025-06-24**|**Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework**|Aman Pandey et.al.|[2506.19748v1](http://arxiv.org/abs/2506.19748v1)|null|
-|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v2](http://arxiv.org/abs/2411.08087v2)|[link](https://github.com/oliveirara/polyMV)|
-|**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371v1](http://arxiv.org/abs/2506.18371v1)|null|
-|**2025-06-20**|**On the relation between distances and seminorms on Fréchet spaces, with application to isometries**|Isabelle Chalendar et.al.|[2506.16801v1](http://arxiv.org/abs/2506.16801v1)|null|
-|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v4](http://arxiv.org/abs/2409.06190v4)|[link](https://github.com/xzwy/msldm)|
-|**2025-06-16**|**BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization**|Alejandro Golfe et.al.|[2506.13843v1](http://arxiv.org/abs/2506.13843v1)|null|
-|**2025-06-15**|**IAPO estimators in Exponentiated Frechet case**|Pavlina Jordanova et.al.|[2506.12743v1](http://arxiv.org/abs/2506.12743v1)|null|
-|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482v2](http://arxiv.org/abs/2506.09482v2)|[link](https://github.com/transdiff/transdiff)|
-|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|null|
-|**2025-04-12**|**seg2med: a bridge from artificial anatomy to multimodal medical images**|Zeyu Yang et.al.|[2504.09182v2](http://arxiv.org/abs/2504.09182v2)|null|
-|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/richardobi/frd-score)|
-|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
-|**2025-06-04**|**A Statistics-Driven Differentiable Approach for Sound Texture Synthesis and Analysis**|Esteban Gutiérrez et.al.|[2506.04073v1](http://arxiv.org/abs/2506.04073v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,11 +57,32 @@
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v3](http://arxiv.org/abs/2504.17342v3)|null|
+|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v2](http://arxiv.org/abs/2505.08041v2)|null|
+|**2025-06-24**|**Generalized Multiple Operator Integrals for Operators with Finite Dimensions**|Shih-Yu Chang et.al.|[2506.19971v1](http://arxiv.org/abs/2506.19971v1)|null|
+|**2025-06-24**|**Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework**|Aman Pandey et.al.|[2506.19748v1](http://arxiv.org/abs/2506.19748v1)|null|
+|**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v2](http://arxiv.org/abs/2411.08087v2)|[link](https://github.com/oliveirara/polyMV)|
+|**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371v1](http://arxiv.org/abs/2506.18371v1)|null|
+|**2025-06-20**|**On the relation between distances and seminorms on Fréchet spaces, with application to isometries**|Isabelle Chalendar et.al.|[2506.16801v1](http://arxiv.org/abs/2506.16801v1)|null|
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v4](http://arxiv.org/abs/2409.06190v4)|[link](https://github.com/xzwy/msldm)|
+|**2025-06-16**|**BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization**|Alejandro Golfe et.al.|[2506.13843v1](http://arxiv.org/abs/2506.13843v1)|null|
+|**2025-06-15**|**IAPO estimators in Exponentiated Frechet case**|Pavlina Jordanova et.al.|[2506.12743v1](http://arxiv.org/abs/2506.12743v1)|null|
+|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482v2](http://arxiv.org/abs/2506.09482v2)|[link](https://github.com/transdiff/transdiff)|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|null|
+|**2025-04-12**|**seg2med: a bridge from artificial anatomy to multimodal medical images**|Zeyu Yang et.al.|[2504.09182v2](http://arxiv.org/abs/2504.09182v2)|null|
+|**2024-12-02**|**Fréchet Radiomic Distance (FRD): A Versatile Metric for Comparing Medical Imaging Datasets**|Nicholas Konz et.al.|[2412.01496v2](http://arxiv.org/abs/2412.01496v2)|[link](https://github.com/richardobi/frd-score)|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v7](http://arxiv.org/abs/1804.08349v7)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-09**|**Rapid inference and comparison of gravitational-wave population models with neural variational posteriors**|Matthew Mould et.al.|[2504.07197v3](http://arxiv.org/abs/2504.07197v3)|null|
+|**2021-10-25**|**Event Data Association via Robust Model Fitting for Event-based Object Tracking**|Haosheng Chen et.al.|[2110.12962v3](http://arxiv.org/abs/2110.12962v3)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550v1](http://arxiv.org/abs/2506.21550v1)|null|
 |**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v2](http://arxiv.org/abs/2504.21812v2)|[link](https://github.com/M-crypto645/thames-mixture-models)|
 |**2025-06-26**|**Heterogeneous Exposures to Systematic and Idiosyncratic Risk across Crypto Assets: A Divide-and-Conquer Approach**|Nektarios Aslanidis et.al.|[2506.21100v1](http://arxiv.org/abs/2506.21100v1)|null|
@@ -94,5 +96,3 @@
 |**2024-11-15**|**Continuous Bayesian Model Selection for Multivariate Causal Discovery**|Anish Dhir et.al.|[2411.10154v2](http://arxiv.org/abs/2411.10154v2)|[link](https://github.com/Anish144/ContinuousBMSStructureLearning)|
 |**2025-03-24**|**Confidence set for mixture order selection**|Alessandro Casa et.al.|[2503.18790v2](http://arxiv.org/abs/2503.18790v2)|null|
 |**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802v1](http://arxiv.org/abs/2506.18802v1)|null|
-|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660v1](http://arxiv.org/abs/2506.18660v1)|null|
-|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v1](http://arxiv.org/abs/2506.18629v1)|null|
