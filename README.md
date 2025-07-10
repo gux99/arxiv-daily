@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-10 07:29:48 Asia/Shanghai
+ Automated deployment @ 2025-07-10 19:28:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,27 +20,49 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006v1](http://arxiv.org/abs/2507.07006v1)|null|
+|**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694v1](http://arxiv.org/abs/2507.06694v1)|null|
+|**2025-07-09**|**Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**|Shan Shen et.al.|[2507.06549v1](http://arxiv.org/abs/2507.06549v1)|null|
+|**2025-02-24**|**GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification**|Aarush Sinha et.al.|[2503.05763v5](http://arxiv.org/abs/2503.05763v5)|null|
+|**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366v1](http://arxiv.org/abs/2507.06366v1)|null|
 |**2025-07-08**|**Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty**|Abhish Khanal et.al.|[2507.06129v1](http://arxiv.org/abs/2507.06129v1)|null|
 |**2025-06-23**|**RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis**|Hao Wu et.al.|[2506.18398v3](http://arxiv.org/abs/2506.18398v3)|null|
 |**2025-07-08**|**Drag modelling for flows through assemblies of spherical particles with machine learning: A comparison of approaches**|Julia Reuter et.al.|[2507.05983v1](http://arxiv.org/abs/2507.05983v1)|null|
 |**2024-03-25**|**CoDy: Counterfactual Explainers for Dynamic Graphs**|Zhan Qu et.al.|[2403.16846v2](http://arxiv.org/abs/2403.16846v2)|null|
 |**2025-06-30**|**WATS: Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782v2](http://arxiv.org/abs/2506.23782v2)|null|
 |**2024-11-02**|**Multi-Channel Hypergraph Contrastive Learning for Matrix Completion**|Xiang Li et.al.|[2411.01376v2](http://arxiv.org/abs/2411.01376v2)|null|
-|**2025-02-24**|**GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification**|Aarush Sinha et.al.|[2503.05763v4](http://arxiv.org/abs/2503.05763v4)|null|
 |**2025-07-08**|**GATMesh: Clock Mesh Timing Analysis using Graph Neural Networks**|Muhammad Hadir Khan et.al.|[2507.05681v1](http://arxiv.org/abs/2507.05681v1)|null|
 |**2025-07-08**|**HRRRCast: a data-driven emulator for regional weather forecasting at convection allowing scales**|Daniel Abdi et.al.|[2507.05658v1](http://arxiv.org/abs/2507.05658v1)|null|
 |**2025-07-08**|**DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning**|Kaixiang Zhao et.al.|[2507.05649v1](http://arxiv.org/abs/2507.05649v1)|null|
-|**2025-07-08**|**Learnable quantum spectral filters for hybrid graph neural networks**|Ammar Daskin et.al.|[2507.05640v1](http://arxiv.org/abs/2507.05640v1)|null|
-|**2025-07-08**|**LLMs are Introvert**|Litian Zhang et.al.|[2507.05638v1](http://arxiv.org/abs/2507.05638v1)|null|
-|**2025-07-08**|**Graph Learning**|Feng Xia et.al.|[2507.05636v1](http://arxiv.org/abs/2507.05636v1)|null|
-|**2025-07-07**|**Robust Learning on Noisy Graphs via Latent Space Constraints with External Knowledge**|Chunhui Gu et.al.|[2507.05540v1](http://arxiv.org/abs/2507.05540v1)|null|
-|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113v2](http://arxiv.org/abs/2501.03113v2)|[link](https://github.com/jks17/hymn)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735v2](http://arxiv.org/abs/2410.01735v2)|[link](https://github.com/duykhuongnguyen/laser-mab)|
+|**2025-07-09**|**Sound Interval-Based Synthesis for Probabilistic Programs**|Guilherme Espada et.al.|[2507.06939v1](http://arxiv.org/abs/2507.06939v1)|null|
+|**2024-11-27**|**Large multi-response linear regression estimation based on low-rank pre-smoothing**|Xinle Tian et.al.|[2411.18334v2](http://arxiv.org/abs/2411.18334v2)|null|
+|**2025-07-09**|**UniOD: A Universal Model for Outlier Detection across Diverse Domains**|Dazhi Fu et.al.|[2507.06624v1](http://arxiv.org/abs/2507.06624v1)|null|
+|**2025-07-08**|**Heterogeneity-Aware Regression with Nonparametric Estimation and Structured Selection for Hospital Readmission Prediction**|Wei Wang et.al.|[2507.06388v1](http://arxiv.org/abs/2507.06388v1)|null|
+|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139v1](http://arxiv.org/abs/2507.06139v1)|null|
+|**2025-07-08**|**Nonparametric Estimation in SDE Models Involving an Explanatory Process**|Fabienne Comte et.al.|[2507.06098v1](http://arxiv.org/abs/2507.06098v1)|null|
+|**2025-07-08**|**Multivariate regression with missing response data for modelling regional DNA methylation QTLs**|Shomoita Alam et.al.|[2507.05990v1](http://arxiv.org/abs/2507.05990v1)|null|
+|**2025-07-08**|**hassediagrams:an R package that generates the Hasse diagram of the layout structure and the restricted layout structure**|Damianos Michaelides et.al.|[2507.05949v1](http://arxiv.org/abs/2507.05949v1)|null|
+|**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861v2](http://arxiv.org/abs/2506.03861v2)|null|
+|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060v2](http://arxiv.org/abs/2507.05060v2)|null|
+|**2025-02-28**|**Multi-model Stochastic Particle-based Variational Bayesian Inference for Multiband Delay Estimation**|Zhixiang Hu et.al.|[2502.20690v2](http://arxiv.org/abs/2502.20690v2)|null|
+|**2025-07-08**|**Maximum likelihood estimation of mean functions for Gaussian processes under small noise asymptotics**|Mitsuki Kobayashi et.al.|[2507.05628v1](http://arxiv.org/abs/2507.05628v1)|null|
+|**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195v1](http://arxiv.org/abs/2507.05195v1)|null|
+|**2025-07-07**|**Distribution-dependent Generalization Bounds for Tuning Linear Regression Across Tasks**|Maria-Florina Balcan et.al.|[2507.05084v1](http://arxiv.org/abs/2507.05084v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917v1](http://arxiv.org/abs/2507.06917v1)|null|
 |**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v4](http://arxiv.org/abs/2504.17342v4)|null|
 |**2025-07-03**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147v1](http://arxiv.org/abs/2507.03147v1)|null|
 |**2025-07-02**|**Not OCA and products of Frechet spaces**|Alan Dow et.al.|[2507.01662v1](http://arxiv.org/abs/2507.01662v1)|null|
@@ -55,7 +77,6 @@
 |**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371v1](http://arxiv.org/abs/2506.18371v1)|null|
 |**2025-06-20**|**On the relation between distances and seminorms on Fréchet spaces, with application to isometries**|Isabelle Chalendar et.al.|[2506.16801v1](http://arxiv.org/abs/2506.16801v1)|null|
 |**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v4](http://arxiv.org/abs/2409.06190v4)|[link](https://github.com/xzwy/msldm)|
-|**2025-06-16**|**BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization**|Alejandro Golfe et.al.|[2506.13843v1](http://arxiv.org/abs/2506.13843v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,24 +96,3 @@
 |**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139v1](http://arxiv.org/abs/2507.06139v1)|null|
-|**2025-07-08**|**Nonparametric Estimation in SDE Models Involving an Explanatory Process**|Fabienne Comte et.al.|[2507.06098v1](http://arxiv.org/abs/2507.06098v1)|null|
-|**2025-07-08**|**Multivariate regression with missing response data for modelling regional DNA methylation QTLs**|Shomoita Alam et.al.|[2507.05990v1](http://arxiv.org/abs/2507.05990v1)|null|
-|**2025-07-08**|**hassediagrams:an R package that generates the Hasse diagram of the layout structure and the restricted layout structure**|Damianos Michaelides et.al.|[2507.05949v1](http://arxiv.org/abs/2507.05949v1)|null|
-|**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861v2](http://arxiv.org/abs/2506.03861v2)|null|
-|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060v2](http://arxiv.org/abs/2507.05060v2)|null|
-|**2025-02-28**|**Multi-model Stochastic Particle-based Variational Bayesian Inference for Multiband Delay Estimation**|Zhixiang Hu et.al.|[2502.20690v2](http://arxiv.org/abs/2502.20690v2)|null|
-|**2025-07-08**|**Maximum likelihood estimation of mean functions for Gaussian processes under small noise asymptotics**|Mitsuki Kobayashi et.al.|[2507.05628v1](http://arxiv.org/abs/2507.05628v1)|null|
-|**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195v1](http://arxiv.org/abs/2507.05195v1)|null|
-|**2025-07-07**|**Distribution-dependent Generalization Bounds for Tuning Linear Regression Across Tasks**|Maria-Florina Balcan et.al.|[2507.05084v1](http://arxiv.org/abs/2507.05084v1)|null|
-|**2024-11-01**|**Computation-Aware Gaussian Processes: Model Selection And Linear-Time Inference**|Jonathan Wenger et.al.|[2411.01036v2](http://arxiv.org/abs/2411.01036v2)|null|
-|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783v4](http://arxiv.org/abs/2505.07783v4)|null|
-|**2025-07-07**|**Variance-based variable selection in sensor calibration with strong interferents -- application to air pollution monitoring with a carbon nanotube sensor array**|Marine Dumon et.al.|[2507.05001v1](http://arxiv.org/abs/2507.05001v1)|null|
-|**2025-04-04**|**Quantifying Robustness: A Benchmarking Framework for Deep Learning Forecasting in Cyber-Physical Systems**|Alexander Windmann et.al.|[2504.03494v2](http://arxiv.org/abs/2504.03494v2)|[link](https://github.com/awindmann/cps-robustness-benchmark)|
-|**2025-07-07**|**Optimal Model Selection for Conformalized Robust Optimization**|Yajie Bao et.al.|[2507.04716v1](http://arxiv.org/abs/2507.04716v1)|null|
