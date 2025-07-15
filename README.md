@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-15 07:29:23 Asia/Shanghai
+ Automated deployment @ 2025-07-15 19:28:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,53 +20,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-24**|**Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks**|Nathan Maurer et.al.|[2506.19703v2](http://arxiv.org/abs/2506.19703v2)|null|
-|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|null|
-|**2025-07-08**|**Learnable quantum spectral filters for hybrid graph neural networks**|Ammar Daskin et.al.|[2507.05640v2](http://arxiv.org/abs/2507.05640v2)|null|
-|**2025-04-14**|**GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240v3](http://arxiv.org/abs/2504.10240v3)|null|
-|**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494v1](http://arxiv.org/abs/2507.08494v1)|null|
-|**2022-05-15**|**Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets**|Xingang Peng et.al.|[2205.07249v2](http://arxiv.org/abs/2205.07249v2)|[link](https://github.com/pengxingang/pocket2mol)|
-|**2025-05-02**|**Graph neural network-based structural classification of glass-forming liquids and its interpretation via self-attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993v2](http://arxiv.org/abs/2505.00993v2)|null|
-|**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212v1](http://arxiv.org/abs/2507.08212v1)|null|
-|**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184v1](http://arxiv.org/abs/2507.08184v1)|null|
-|**2025-07-10**|**Exploring substructures in the Milky Way halo Neural networks applied to Gaia and APOGEE DR 17**|L. Berni et.al.|[2507.08074v1](http://arxiv.org/abs/2507.08074v1)|null|
-|**2025-05-30**|**Studying and Improving Graph Neural Network-based Motif Estimation**|Pedro C. Vieira et.al.|[2506.15709v3](http://arxiv.org/abs/2506.15709v3)|null|
-|**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854v1](http://arxiv.org/abs/2507.07854v1)|null|
-|**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844v1](http://arxiv.org/abs/2507.07844v1)|null|
-|**2025-03-03**|**Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model**|O. Duranthon et.al.|[2503.01361v2](http://arxiv.org/abs/2503.01361v2)|null|
-|**2024-07-24**|**Curriculum Negative Mining For Temporal Networks**|Ziyue Chen et.al.|[2407.17070v2](http://arxiv.org/abs/2407.17070v2)|[link](https://github.com/zziyue83/curnm)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-11**|**Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation**|Paul Bastide et.al.|[2507.08734v1](http://arxiv.org/abs/2507.08734v1)|null|
-|**2025-04-14**|**Eigengap Sparsity for Covariance Parsimony**|Tom Szwagier et.al.|[2504.10110v2](http://arxiv.org/abs/2504.10110v2)|[link](https://github.com/tomszwagier/eigengap-sparsity)|
-|**2025-01-09**|**An Instrumental Variables Approach to Testing Firm Conduct under a Bertrand-Nash Framework**|Youngjin Hong et.al.|[2501.05022v4](http://arxiv.org/abs/2501.05022v4)|null|
-|**2025-07-11**|**RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices**|Anirudh Varanasi et.al.|[2507.08424v1](http://arxiv.org/abs/2507.08424v1)|null|
-|**2025-07-10**|**Simultaneous Estimation and Model Choice for Big Discrete Time-to-Event Data with Additive Predictors**|Benjamin Müller et.al.|[2507.08099v1](http://arxiv.org/abs/2507.08099v1)|null|
-|**2025-07-10**|**Not All Preferences are What You Need for Post-Training: Selective Alignment Strategy for Preference Optimization**|Zhijin Dong et.al.|[2507.07725v1](http://arxiv.org/abs/2507.07725v1)|null|
-|**2025-07-09**|**Bayesian Double Descent**|Nick Polson et.al.|[2507.07338v1](http://arxiv.org/abs/2507.07338v1)|null|
-|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735v2](http://arxiv.org/abs/2410.01735v2)|[link](https://github.com/duykhuongnguyen/laser-mab)|
-|**2025-07-09**|**Sound Interval-Based Synthesis for Probabilistic Programs**|Guilherme Espada et.al.|[2507.06939v1](http://arxiv.org/abs/2507.06939v1)|null|
-|**2024-11-27**|**Large multi-response linear regression estimation based on low-rank pre-smoothing**|Xinle Tian et.al.|[2411.18334v2](http://arxiv.org/abs/2411.18334v2)|null|
-|**2025-07-09**|**UniOD: A Universal Model for Outlier Detection across Diverse Domains**|Dazhi Fu et.al.|[2507.06624v1](http://arxiv.org/abs/2507.06624v1)|null|
-|**2025-07-08**|**Heterogeneity-Aware Regression with Nonparametric Estimation and Structured Selection for Hospital Readmission Prediction**|Wei Wang et.al.|[2507.06388v1](http://arxiv.org/abs/2507.06388v1)|null|
-|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139v1](http://arxiv.org/abs/2507.06139v1)|null|
-|**2025-07-08**|**Nonparametric Estimation in SDE Models Involving an Explanatory Process**|Fabienne Comte et.al.|[2507.06098v1](http://arxiv.org/abs/2507.06098v1)|null|
-|**2025-07-08**|**Multivariate regression with missing response data for modelling regional DNA methylation QTLs**|Shomoita Alam et.al.|[2507.05990v1](http://arxiv.org/abs/2507.05990v1)|null|
+|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360v1](http://arxiv.org/abs/2507.10360v1)|null|
+|**2025-07-08**|**DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning**|Kaixiang Zhao et.al.|[2507.05649v2](http://arxiv.org/abs/2507.05649v2)|null|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183v1](http://arxiv.org/abs/2507.10183v1)|null|
+|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541v2](http://arxiv.org/abs/2507.07541v2)|null|
+|**2024-08-27**|**Graph and Sequential Neural Networks in Session-based Recommendation: A Survey**|Zihao Li et.al.|[2408.14851v2](http://arxiv.org/abs/2408.14851v2)|null|
+|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014v1](http://arxiv.org/abs/2507.10014v1)|null|
+|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005v1](http://arxiv.org/abs/2507.10005v1)|null|
+|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890v1](http://arxiv.org/abs/2507.09890v1)|null|
+|**2024-11-21**|**Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference**|Yunhui Liu et.al.|[2411.14035v2](http://arxiv.org/abs/2411.14035v2)|[link](https://github.com/cloudy1225/hg2m)|
+|**2025-06-26**|**HaQGNN: Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks**|Yuxiang Liu et.al.|[2506.21161v2](http://arxiv.org/abs/2506.21161v2)|null|
+|**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797v1](http://arxiv.org/abs/2507.09797v1)|null|
+|**2025-07-13**|**Do we need equivariant models for molecule generation?**|Ewa M. Nowara et.al.|[2507.09753v1](http://arxiv.org/abs/2507.09753v1)|null|
+|**2025-07-12**|**Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems**|Nguyen Xuan Tung et.al.|[2507.09425v1](http://arxiv.org/abs/2507.09425v1)|null|
+|**2025-07-12**|**Lightweight Graph Neural Networks for Enhanced 5G NR Channel Estimation**|Sajedeh Norouzi et.al.|[2507.09408v1](http://arxiv.org/abs/2507.09408v1)|null|
+|**2025-07-12**|**Geometric Generative Modeling with Noise-Conditioned Graph Networks**|Peter Pao-Huang et.al.|[2507.09391v1](http://arxiv.org/abs/2507.09391v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917v2](http://arxiv.org/abs/2507.06917v2)|null|
+|**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834v1](http://arxiv.org/abs/2507.09834v1)|null|
+|**2025-07-12**|**PanoDiff-SR: Synthesizing Dental Panoramic Radiographs using Diffusion and Super-resolution**|Sanyam Jain et.al.|[2507.09227v1](http://arxiv.org/abs/2507.09227v1)|null|
 |**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530v1](http://arxiv.org/abs/2507.08530v1)|null|
 |**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v2](http://arxiv.org/abs/2502.05322v2)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917v1](http://arxiv.org/abs/2507.06917v1)|null|
 |**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v4](http://arxiv.org/abs/2504.17342v4)|null|
-|**2025-07-03**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147v1](http://arxiv.org/abs/2507.03147v1)|null|
 |**2025-07-02**|**Not OCA and products of Frechet spaces**|Alan Dow et.al.|[2507.01662v1](http://arxiv.org/abs/2507.01662v1)|null|
 |**2025-07-02**|**On some Fréchet spaces associated to the functions satisfying Mulholland inequality**|Lav Kumar Singh et.al.|[2507.01661v1](http://arxiv.org/abs/2507.01661v1)|null|
 |**2025-04-08**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684v2](http://arxiv.org/abs/2504.05684v2)|null|
@@ -76,7 +56,6 @@
 |**2025-06-24**|**Generalized Multiple Operator Integrals for Operators with Finite Dimensions**|Shih-Yu Chang et.al.|[2506.19971v1](http://arxiv.org/abs/2506.19971v1)|null|
 |**2025-06-24**|**Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework**|Aman Pandey et.al.|[2506.19748v1](http://arxiv.org/abs/2506.19748v1)|null|
 |**2024-11-12**|**Fréchet Vectors as sensitive tools for blind tests of CMB anomalies**|Ricardo G. Rodrigues et.al.|[2411.08087v2](http://arxiv.org/abs/2411.08087v2)|[link](https://github.com/oliveirara/polyMV)|
-|**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371v1](http://arxiv.org/abs/2506.18371v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -96,3 +75,24 @@
 |**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511v1](http://arxiv.org/abs/2507.10511v1)|null|
+|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015v1](http://arxiv.org/abs/2507.10015v1)|null|
+|**2023-11-13**|**High Dimensional Binary Choice Model with Unknown Heteroskedasticity or Instrumental Variables**|Fu Ouyang et.al.|[2311.07067v2](http://arxiv.org/abs/2311.07067v2)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v3](http://arxiv.org/abs/2408.02060v3)|null|
+|**2025-07-13**|**Disentanglement and Assessment of Shortcuts in Ophthalmological Retinal Imaging Exams**|Leonor Fernandes et.al.|[2507.09640v1](http://arxiv.org/abs/2507.09640v1)|null|
+|**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Noah Marchal et.al.|[2507.09460v1](http://arxiv.org/abs/2507.09460v1)|null|
+|**2025-07-12**|**A General, Automated Method for Building Structural Tensors of Arbitrary Order for Anisotropic Function Representations**|Ravi G. Patel et.al.|[2507.09088v1](http://arxiv.org/abs/2507.09088v1)|null|
+|**2025-07-11**|**Estimating Marginal Likelihoods in Likelihood-Free Inference via Neural Density Estimation**|Paul Bastide et.al.|[2507.08734v1](http://arxiv.org/abs/2507.08734v1)|null|
+|**2025-04-14**|**Eigengap Sparsity for Covariance Parsimony**|Tom Szwagier et.al.|[2504.10110v2](http://arxiv.org/abs/2504.10110v2)|[link](https://github.com/tomszwagier/eigengap-sparsity)|
+|**2025-01-09**|**An Instrumental Variables Approach to Testing Firm Conduct under a Bertrand-Nash Framework**|Youngjin Hong et.al.|[2501.05022v4](http://arxiv.org/abs/2501.05022v4)|null|
+|**2025-07-11**|**RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices**|Anirudh Varanasi et.al.|[2507.08424v1](http://arxiv.org/abs/2507.08424v1)|null|
+|**2025-07-10**|**Simultaneous Estimation and Model Choice for Big Discrete Time-to-Event Data with Additive Predictors**|Benjamin Müller et.al.|[2507.08099v1](http://arxiv.org/abs/2507.08099v1)|null|
+|**2025-07-10**|**Not All Preferences are What You Need for Post-Training: Selective Alignment Strategy for Preference Optimization**|Zhijin Dong et.al.|[2507.07725v1](http://arxiv.org/abs/2507.07725v1)|null|
+|**2025-07-09**|**Bayesian Double Descent**|Nick Polson et.al.|[2507.07338v1](http://arxiv.org/abs/2507.07338v1)|null|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735v2](http://arxiv.org/abs/2410.01735v2)|[link](https://github.com/duykhuongnguyen/laser-mab)|
