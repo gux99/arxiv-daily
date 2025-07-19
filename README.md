@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-19 07:30:55 Asia/Shanghai
+ Automated deployment @ 2025-07-19 19:26:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,27 +35,6 @@
 |**2025-07-15**|**Enhancements to the IceCube Extremely High Energy Neutrino Selection using Graph & Transformer Based Neural Networks**|Maxwell Nakos et.al.|[2507.11774v1](http://arxiv.org/abs/2507.11774v1)|null|
 |**2025-07-15**|**A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction**|Yuehua Song et.al.|[2507.11757v1](http://arxiv.org/abs/2507.11757v1)|null|
 |**2025-07-15**|**Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning**|Shiyu Chen et.al.|[2507.11732v1](http://arxiv.org/abs/2507.11732v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-17**|**(Exhaustive) Symbolic Regression and model selection by minimum description length**|Harry Desmond et.al.|[2507.13033v1](http://arxiv.org/abs/2507.13033v1)|null|
-|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015v3](http://arxiv.org/abs/2507.10015v3)|null|
-|**2025-07-16**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$-consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457v2](http://arxiv.org/abs/2507.12457v2)|null|
-|**2025-07-16**|**Data Transformation Strategies to Remove Heterogeneity**|Sangbong Yoo et.al.|[2507.12677v1](http://arxiv.org/abs/2507.12677v1)|null|
-|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v2](http://arxiv.org/abs/2504.12249v2)|null|
-|**2025-04-23**|**Evaluating Meta-Regression Techniques: A Simulation Study on Heterogeneity in Location and Time**|Ali Habibnia et.al.|[2504.16696v2](http://arxiv.org/abs/2504.16696v2)|null|
-|**2023-12-29**|**Detection of evolutionary shifts in variance under an Ornsten-Uhlenbeck model**|Wensha Zhang et.al.|[2312.17480v3](http://arxiv.org/abs/2312.17480v3)|[link](https://github.com/wenshaz/shiva)|
-|**2025-07-15**|**Sparse Identification of Nonlinear Dynamics with Conformal Prediction**|Urban Fasel et.al.|[2507.11739v1](http://arxiv.org/abs/2507.11739v1)|null|
-|**2025-07-15**|**Bayesian Model Selection and Uncertainty Propagation for Beam Energy Scan Heavy-Ion Collisions**|Syed Afrid Jahan et.al.|[2507.11394v1](http://arxiv.org/abs/2507.11394v1)|null|
-|**2025-07-15**|**How to rank imputation methods?**|Jeffrey Näf et.al.|[2507.11297v1](http://arxiv.org/abs/2507.11297v1)|null|
-|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v2](http://arxiv.org/abs/2506.18629v2)|null|
-|**2025-07-15**|**Can SMEFT discover New Physics?**|Martin Hirsch et.al.|[2507.11109v1](http://arxiv.org/abs/2507.11109v1)|null|
-|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511v2](http://arxiv.org/abs/2507.10511v2)|null|
-|**2024-08-05**|**Constraining viscous fluid models in $f(Q)$ gravity with data**|Shambel Sahlu et.al.|[2408.02775v4](http://arxiv.org/abs/2408.02775v4)|null|
-|**2025-01-09**|**Nullstrap: A Simple, High-Power, and Fast Framework for FDR Control in Variable Selection for Diverse High-Dimensional Models**|Changhu Wang et.al.|[2501.05012v2](http://arxiv.org/abs/2501.05012v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -96,3 +75,24 @@
 |**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-17**|**(Exhaustive) Symbolic Regression and model selection by minimum description length**|Harry Desmond et.al.|[2507.13033v1](http://arxiv.org/abs/2507.13033v1)|null|
+|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015v3](http://arxiv.org/abs/2507.10015v3)|null|
+|**2025-07-16**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$-consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457v2](http://arxiv.org/abs/2507.12457v2)|null|
+|**2025-07-16**|**Data Transformation Strategies to Remove Heterogeneity**|Sangbong Yoo et.al.|[2507.12677v1](http://arxiv.org/abs/2507.12677v1)|null|
+|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v2](http://arxiv.org/abs/2504.12249v2)|null|
+|**2025-04-23**|**Evaluating Meta-Regression Techniques: A Simulation Study on Heterogeneity in Location and Time**|Ali Habibnia et.al.|[2504.16696v2](http://arxiv.org/abs/2504.16696v2)|null|
+|**2023-12-29**|**Detection of evolutionary shifts in variance under an Ornsten-Uhlenbeck model**|Wensha Zhang et.al.|[2312.17480v3](http://arxiv.org/abs/2312.17480v3)|[link](https://github.com/wenshaz/shiva)|
+|**2025-07-15**|**Sparse Identification of Nonlinear Dynamics with Conformal Prediction**|Urban Fasel et.al.|[2507.11739v1](http://arxiv.org/abs/2507.11739v1)|null|
+|**2025-07-15**|**Bayesian Model Selection and Uncertainty Propagation for Beam Energy Scan Heavy-Ion Collisions**|Syed Afrid Jahan et.al.|[2507.11394v1](http://arxiv.org/abs/2507.11394v1)|null|
+|**2025-07-15**|**How to rank imputation methods?**|Jeffrey Näf et.al.|[2507.11297v1](http://arxiv.org/abs/2507.11297v1)|null|
+|**2025-06-23**|**On Equivariant Model Selection through the Lens of Uncertainty**|Putri A. van der Linden et.al.|[2506.18629v2](http://arxiv.org/abs/2506.18629v2)|null|
+|**2025-07-15**|**Can SMEFT discover New Physics?**|Martin Hirsch et.al.|[2507.11109v1](http://arxiv.org/abs/2507.11109v1)|null|
+|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511v2](http://arxiv.org/abs/2507.10511v2)|null|
+|**2024-08-05**|**Constraining viscous fluid models in $f(Q)$ gravity with data**|Shambel Sahlu et.al.|[2408.02775v4](http://arxiv.org/abs/2408.02775v4)|null|
+|**2025-01-09**|**Nullstrap: A Simple, High-Power, and Fast Framework for FDR Control in Variable Selection for Diverse High-Dimensional Models**|Changhu Wang et.al.|[2501.05012v2](http://arxiv.org/abs/2501.05012v2)|null|
