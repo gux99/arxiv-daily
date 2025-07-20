@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-20 07:32:53 Asia/Shanghai
+ Automated deployment @ 2025-07-20 19:27:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -38,25 +38,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v2](http://arxiv.org/abs/2505.20755v2)|null|
-|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917v2](http://arxiv.org/abs/2507.06917v2)|null|
-|**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834v1](http://arxiv.org/abs/2507.09834v1)|null|
-|**2025-07-12**|**PanoDiff-SR: Synthesizing Dental Panoramic Radiographs using Diffusion and Super-resolution**|Sanyam Jain et.al.|[2507.09227v1](http://arxiv.org/abs/2507.09227v1)|null|
-|**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530v1](http://arxiv.org/abs/2507.08530v1)|null|
-|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v2](http://arxiv.org/abs/2502.05322v2)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
-|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v4](http://arxiv.org/abs/2504.17342v4)|null|
-|**2025-07-02**|**Not OCA and products of Frechet spaces**|Alan Dow et.al.|[2507.01662v1](http://arxiv.org/abs/2507.01662v1)|null|
-|**2025-07-02**|**On some Fréchet spaces associated to the functions satisfying Mulholland inequality**|Lav Kumar Singh et.al.|[2507.01661v1](http://arxiv.org/abs/2507.01661v1)|null|
-|**2025-04-08**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684v2](http://arxiv.org/abs/2504.05684v2)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v2](http://arxiv.org/abs/2212.12057v2)|null|
-|**2025-06-30**|**Test of partial effects for Frechet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2506.23487v1](http://arxiv.org/abs/2506.23487v1)|null|
-|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v2](http://arxiv.org/abs/2505.08041v2)|null|
-|**2025-06-24**|**Generalized Multiple Operator Integrals for Operators with Finite Dimensions**|Shih-Yu Chang et.al.|[2506.19971v1](http://arxiv.org/abs/2506.19971v1)|null|
-|**2025-06-24**|**Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework**|Aman Pandey et.al.|[2506.19748v1](http://arxiv.org/abs/2506.19748v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -75,6 +56,25 @@
 |**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction**|Yifei Wang et.al.|[2505.20755v2](http://arxiv.org/abs/2505.20755v2)|null|
+|**2025-07-09**|**Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception**|Noah Jaffe et.al.|[2507.06917v2](http://arxiv.org/abs/2507.06917v2)|null|
+|**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834v1](http://arxiv.org/abs/2507.09834v1)|null|
+|**2025-07-12**|**PanoDiff-SR: Synthesizing Dental Panoramic Radiographs using Diffusion and Super-resolution**|Sanyam Jain et.al.|[2507.09227v1](http://arxiv.org/abs/2507.09227v1)|null|
+|**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530v1](http://arxiv.org/abs/2507.08530v1)|null|
+|**2025-02-07**|**Tropical Fréchet Means**|Bo Lin et.al.|[2502.05322v2](http://arxiv.org/abs/2502.05322v2)|[link](https://github.com/ooinaruhugh/TropicalFrechetMeans.jl)|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342v4](http://arxiv.org/abs/2504.17342v4)|null|
+|**2025-07-02**|**Not OCA and products of Frechet spaces**|Alan Dow et.al.|[2507.01662v1](http://arxiv.org/abs/2507.01662v1)|null|
+|**2025-07-02**|**On some Fréchet spaces associated to the functions satisfying Mulholland inequality**|Lav Kumar Singh et.al.|[2507.01661v1](http://arxiv.org/abs/2507.01661v1)|null|
+|**2025-04-08**|**TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis**|Tri Ton et.al.|[2504.05684v2](http://arxiv.org/abs/2504.05684v2)|null|
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v2](http://arxiv.org/abs/2212.12057v2)|null|
+|**2025-06-30**|**Test of partial effects for Frechet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2506.23487v1](http://arxiv.org/abs/2506.23487v1)|null|
+|**2025-05-12**|**Protein FID: Improved Evaluation of Protein Structure Generative Models**|Felix Faltings et.al.|[2505.08041v2](http://arxiv.org/abs/2505.08041v2)|null|
+|**2025-06-24**|**Generalized Multiple Operator Integrals for Operators with Finite Dimensions**|Shih-Yu Chang et.al.|[2506.19971v1](http://arxiv.org/abs/2506.19971v1)|null|
+|**2025-06-24**|**Copula-Based Modeling of Fractional Inaccuracy: A Unified Framework**|Aman Pandey et.al.|[2506.19748v1](http://arxiv.org/abs/2506.19748v1)|null|
 
 ## Variable Selection
 
